@@ -1,2001 +1,1485 @@
-date,rank,song,artist,last-week,peak-rank,weeks-on-board
-2020-12-26,2,All I Want For Christmas Is You,Mariah Carey,1.0,1,42
-2020-12-26,3,Rockin' Around The Christmas Tree,Brenda Lee,3.0,2,37
-2020-12-26,4,Jingle Bell Rock,Bobby Helms,5.0,3,34
-2020-12-26,5,Mood,24kGoldn Featuring iann dior,2.0,1,19
-2020-12-26,6,A Holly Jolly Christmas,Burl Ives,14.0,4,18
-2020-12-26,7,It's The Most Wonderful Time Of The Year,Andy Williams,6.0,6,19
-2020-12-26,8,Positions,Ariana Grande,4.0,1,8
-2020-12-26,9,Dynamite,BTS,24.0,1,17
-2020-12-26,10,Feliz Navidad,Jose Feliciano,10.0,10,13
-2020-12-26,11,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,15.0,11,12
-2020-12-26,12,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,35.0,12,7
-2020-12-26,13,Holy,Justin Bieber Featuring Chance The Rapper,9.0,3,13
-2020-12-26,14,Last Christmas,Wham!,11.0,11,18
-2020-12-26,15,The Christmas Song (Merry Christmas To You),Nat King Cole,16.0,11,25
-2020-12-26,16,Go Crazy,Chris Brown & Young Thug,13.0,9,32
-2020-12-26,17,Laugh Now Cry Later,Drake Featuring Lil Durk,8.0,2,18
-2020-12-26,18,Blinding Lights,The Weeknd,7.0,1,55
-2020-12-26,19,Sleigh Ride,The Ronettes,20.0,19,10
-2020-12-26,20,I Hope,Gabby Barrett Featuring Charlie Puth,12.0,3,51
-2020-12-26,22,Body,Megan Thee Stallion,18.0,12,4
-2020-12-26,23,Dakiti,Bad Bunny & Jhay Cortez,17.0,5,7
-2020-12-26,24,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,19.0,6,18
-2020-12-26,25,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,21.0,6,24
-2020-12-26,26,Happy Holiday / The Holiday Season,Andy Williams,29.0,24,7
-2020-12-26,27,Levitating,Dua Lipa Featuring DaBaby,27.0,20,11
-2020-12-26,28,Underneath The Tree,Kelly Clarkson,25.0,25,8
-2020-12-26,29,Run Rudolph Run,Chuck Berry,40.0,29,7
-2020-12-26,30,Kings & Queens,Ava Max,22.0,13,19
-2020-12-26,31,Rudolph The Red-Nosed Reindeer,Gene Autry,34.0,16,11
-2020-12-26,32,Santa Tell Me,Ariana Grande,39.0,32,7
-2020-12-26,33,Bang!,AJR,28.0,24,24
-2020-12-26,35,34+35,Ariana Grande,26.0,8,7
-2020-12-26,36,Therefore I Am,Billie Eilish,23.0,2,6
-2020-12-26,37,Christmas (Baby Please Come Home),Darlene Love,31.0,29,6
-2020-12-26,38,White Christmas,Bing Crosby,32.0,12,19
-2020-12-26,42,It's Beginning To Look A Lot Like Christmas,Michael Buble,33.0,33,4
-2020-12-26,43,(There's No Place Like) Home For The Holidays,Perry Como,37.0,32,6
-2020-12-26,44,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",47.0,2,45
-2020-12-26,46,Wonderful Christmastime,Paul McCartney,45.0,45,3
-2020-12-26,48,What You Know Bout Love,Pop Smoke,46.0,25,15
-2020-12-26,50,Rockstar,DaBaby Featuring Roddy Ricch,42.0,1,35
-2020-12-19,1,All I Want For Christmas Is You,Mariah Carey,2.0,1,41
-2020-12-19,2,Mood,24kGoldn Featuring iann dior,1.0,1,18
-2020-12-19,3,Rockin' Around The Christmas Tree,Brenda Lee,4.0,2,36
-2020-12-19,4,Positions,Ariana Grande,3.0,1,7
-2020-12-19,5,Jingle Bell Rock,Bobby Helms,9.0,3,33
-2020-12-19,6,It's The Most Wonderful Time Of The Year,Andy Williams,12.0,6,18
-2020-12-19,7,Blinding Lights,The Weeknd,11.0,1,54
-2020-12-19,8,Laugh Now Cry Later,Drake Featuring Lil Durk,6.0,2,17
-2020-12-19,9,Holy,Justin Bieber Featuring Chance The Rapper,7.0,3,12
-2020-12-19,10,Feliz Navidad,Jose Feliciano,16.0,10,12
-2020-12-19,11,Last Christmas,Wham!,21.0,11,17
-2020-12-19,12,I Hope,Gabby Barrett Featuring Charlie Puth,8.0,3,50
-2020-12-19,13,Go Crazy,Chris Brown & Young Thug,15.0,9,31
-2020-12-19,14,A Holly Jolly Christmas,Burl Ives,24.0,4,17
-2020-12-19,15,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,22.0,15,11
-2020-12-19,16,The Christmas Song (Merry Christmas To You),Nat King Cole,18.0,11,24
-2020-12-19,17,Dakiti,Bad Bunny & Jhay Cortez,5.0,5,6
-2020-12-19,18,Body,Megan Thee Stallion,14.0,12,3
-2020-12-19,19,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,13.0,6,17
-2020-12-19,20,Sleigh Ride,The Ronettes,23.0,20,9
-2020-12-19,21,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,17.0,6,23
-2020-12-19,22,Kings & Queens,Ava Max,19.0,13,18
-2020-12-19,23,Therefore I Am,Billie Eilish,20.0,2,5
-2020-12-19,24,Dynamite,BTS,10.0,1,16
-2020-12-19,25,Underneath The Tree,Kelly Clarkson,30.0,25,7
-2020-12-19,26,34+35,Ariana Grande,25.0,8,6
-2020-12-19,27,Levitating,Dua Lipa Featuring DaBaby,26.0,20,10
-2020-12-19,28,Bang!,AJR,27.0,24,23
-2020-12-19,29,Happy Holiday / The Holiday Season,Andy Williams,34.0,24,6
-2020-12-19,31,Christmas (Baby Please Come Home),Darlene Love,41.0,29,5
-2020-12-19,32,White Christmas,Bing Crosby,37.0,12,18
-2020-12-19,33,It's Beginning To Look A Lot Like Christmas,Michael Buble,39.0,33,3
-2020-12-19,34,Rudolph The Red-Nosed Reindeer,Gene Autry,40.0,16,10
-2020-12-19,35,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,45.0,28,6
-2020-12-19,36,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,36.0,28,8
-2020-12-19,37,(There's No Place Like) Home For The Holidays,Perry Como,47.0,32,5
-2020-12-19,38,Monster,Shawn Mendes & Justin Bieber,38.0,8,3
-2020-12-19,42,Rockstar,DaBaby Featuring Roddy Ricch,35.0,1,34
-2020-12-19,43,WAP,Cardi B Featuring Megan Thee Stallion,33.0,1,18
-2020-12-19,44,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,29.0,1,26
-2020-12-19,46,What You Know Bout Love,Pop Smoke,52.0,25,14
-2020-12-19,47,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",48.0,2,44
-2020-12-19,48,Holiday,Lil Nas X,51.0,37,4
-2020-12-19,49,More Than My Hometown,Morgan Wallen,32.0,15,26
-2020-12-19,50,Lonely,Justin Bieber & benny blanco,46.0,14,8
-2020-12-12,1,Mood,24kGoldn Featuring iann dior,2.0,1,17
-2020-12-12,2,All I Want For Christmas Is You,Mariah Carey,14.0,1,40
-2020-12-12,3,Positions,Ariana Grande,4.0,1,6
-2020-12-12,4,Rockin' Around The Christmas Tree,Brenda Lee,21.0,2,35
-2020-12-12,5,Dakiti,Bad Bunny & Jhay Cortez,15.0,5,5
-2020-12-12,6,Laugh Now Cry Later,Drake Featuring Lil Durk,7.0,2,16
-2020-12-12,7,Holy,Justin Bieber Featuring Chance The Rapper,6.0,3,11
-2020-12-12,8,I Hope,Gabby Barrett Featuring Charlie Puth,5.0,3,49
-2020-12-12,9,Jingle Bell Rock,Bobby Helms,31.0,3,32
-2020-12-12,10,Dynamite,BTS,3.0,1,15
-2020-12-12,11,Blinding Lights,The Weeknd,9.0,1,53
-2020-12-12,12,It's The Most Wonderful Time Of The Year,Andy Williams,37.0,7,17
-2020-12-12,13,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,10.0,6,16
-2020-12-12,14,Body,Megan Thee Stallion,12.0,12,2
-2020-12-12,15,Go Crazy,Chris Brown & Young Thug,17.0,9,30
-2020-12-12,16,Feliz Navidad,Jose Feliciano,45.0,12,11
-2020-12-12,17,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,16.0,6,22
-2020-12-12,18,The Christmas Song (Merry Christmas To You),Nat King Cole,48.0,11,23
-2020-12-12,19,Kings & Queens,Ava Max,18.0,13,17
-2020-12-12,20,Therefore I Am,Billie Eilish,11.0,2,4
-2020-12-12,21,Last Christmas,Wham!,42.0,11,16
-2020-12-12,22,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,49.0,15,10
-2020-12-12,25,34+35,Ariana Grande,30.0,8,5
-2020-12-12,26,Levitating,Dua Lipa Featuring DaBaby,24.0,20,9
-2020-12-12,27,Bang!,AJR,29.0,24,22
-2020-12-12,28,Life Goes On,BTS,1.0,1,2
-2020-12-12,29,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,19.0,1,25
-2020-12-12,31,Be Like That,Kane Brown With Swae Lee & Khalid,27.0,19,21
-2020-12-12,32,More Than My Hometown,Morgan Wallen,20.0,15,25
-2020-12-12,33,WAP,Cardi B Featuring Megan Thee Stallion,23.0,1,17
-2020-12-12,35,Rockstar,DaBaby Featuring Roddy Ricch,26.0,1,33
-2020-12-12,38,Monster,Shawn Mendes & Justin Bieber,8.0,8,2
-2020-12-12,42,Before You Go,Lewis Capaldi,28.0,9,44
-2020-12-12,43,ily,Surf Mesa Featuring Emilee,33.0,23,28
-2020-12-12,44,Said Sum,Moneybagg Yo,34.0,17,22
-2020-12-12,46,Lonely,Justin Bieber & benny blanco,32.0,14,7
-2020-12-12,48,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",39.0,2,43
-2020-12-12,49,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,44.0,36,19
-2020-12-12,50,Watermelon Sugar,Harry Styles,36.0,1,37
-2020-12-05,2,Mood,24kGoldn Featuring iann dior,1.0,1,16
-2020-12-05,3,Dynamite,BTS,14.0,1,14
-2020-12-05,4,Positions,Ariana Grande,3.0,1,5
-2020-12-05,5,I Hope,Gabby Barrett Featuring Charlie Puth,4.0,3,48
-2020-12-05,6,Holy,Justin Bieber Featuring Chance The Rapper,6.0,3,10
-2020-12-05,7,Laugh Now Cry Later,Drake Featuring Lil Durk,5.0,2,15
-2020-12-05,9,Blinding Lights,The Weeknd,7.0,1,52
-2020-12-05,10,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,8.0,6,15
-2020-12-05,11,Therefore I Am,Billie Eilish,2.0,2,3
-2020-12-05,14,All I Want For Christmas Is You,Mariah Carey,29.0,1,39
-2020-12-05,15,Dakiti,Bad Bunny & Jhay Cortez,9.0,8,4
-2020-12-05,16,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,10.0,6,21
-2020-12-05,17,Go Crazy,Chris Brown & Young Thug,12.0,9,29
-2020-12-05,18,Kings & Queens,Ava Max,13.0,13,16
-2020-12-05,19,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,11.0,1,24
-2020-12-05,20,More Than My Hometown,Morgan Wallen,15.0,15,24
-2020-12-05,21,Rockin' Around The Christmas Tree,Brenda Lee,43.0,2,34
-2020-12-05,23,WAP,Cardi B Featuring Megan Thee Stallion,16.0,1,16
-2020-12-05,24,Levitating,Dua Lipa Featuring DaBaby,20.0,20,8
-2020-12-05,26,Rockstar,DaBaby Featuring Roddy Ricch,17.0,1,32
-2020-12-05,27,Be Like That,Kane Brown With Swae Lee & Khalid,19.0,19,20
-2020-12-05,28,Before You Go,Lewis Capaldi,18.0,9,43
-2020-12-05,29,Bang!,AJR,24.0,24,21
-2020-12-05,30,34+35,Ariana Grande,27.0,8,4
-2020-12-05,32,Lonely,Justin Bieber & benny blanco,26.0,14,6
-2020-12-05,33,ily,Surf Mesa Featuring Emilee,23.0,23,27
-2020-12-05,34,Said Sum,Moneybagg Yo,28.0,17,21
-2020-12-05,35,Hawai,Maluma & The Weeknd,22.0,12,14
-2020-12-05,36,Watermelon Sugar,Harry Styles,21.0,1,36
-2020-12-05,38,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,34.0,33,25
-2020-12-05,39,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",30.0,2,42
-2020-12-05,40,One Of Them Girls,Lee Brice,33.0,17,26
-2020-12-05,41,What You Know Bout Love,Pop Smoke,32.0,25,12
-2020-12-05,43,Pretty Heart,Parker McCollum,36.0,36,20
-2020-12-05,44,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,38.0,36,18
-2020-12-05,47,Better Together,Luke Combs,39.0,30,8
-2020-12-05,50,Love You Like I Used To,Russell Dickerson,35.0,31,12
-2020-11-28,1,Mood,24kGoldn Featuring iann dior,1.0,1,15
-2020-11-28,2,Therefore I Am,Billie Eilish,94.0,2,2
-2020-11-28,3,Positions,Ariana Grande,2.0,1,4
-2020-11-28,4,I Hope,Gabby Barrett Featuring Charlie Puth,3.0,3,47
-2020-11-28,5,Laugh Now Cry Later,Drake Featuring Lil Durk,4.0,2,14
-2020-11-28,6,Holy,Justin Bieber Featuring Chance The Rapper,7.0,3,9
-2020-11-28,7,Blinding Lights,The Weeknd,5.0,1,51
-2020-11-28,8,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,6.0,6,14
-2020-11-28,9,Dakiti,Bad Bunny & Jhay Cortez,8.0,8,3
-2020-11-28,10,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,10.0,6,20
-2020-11-28,11,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,1,23
-2020-11-28,12,Go Crazy,Chris Brown & Young Thug,13.0,9,28
-2020-11-28,13,Kings & Queens,Ava Max,15.0,13,15
-2020-11-28,14,Dynamite,BTS,17.0,1,13
-2020-11-28,15,More Than My Hometown,Morgan Wallen,19.0,15,23
-2020-11-28,16,WAP,Cardi B Featuring Megan Thee Stallion,11.0,1,15
-2020-11-28,17,Rockstar,DaBaby Featuring Roddy Ricch,14.0,1,31
-2020-11-28,18,Before You Go,Lewis Capaldi,16.0,9,42
-2020-11-28,19,Be Like That,Kane Brown With Swae Lee & Khalid,20.0,19,19
-2020-11-28,20,Levitating,Dua Lipa Featuring DaBaby,26.0,20,7
-2020-11-28,21,Watermelon Sugar,Harry Styles,18.0,1,35
-2020-11-28,22,Hawai,Maluma & The Weeknd,12.0,12,13
-2020-11-28,23,ily,Surf Mesa Featuring Emilee,23.0,23,26
-2020-11-28,24,Bang!,AJR,24.0,24,20
-2020-11-28,25,Starting Over,Chris Stapleton,48.0,25,12
-2020-11-28,26,Lonely,Justin Bieber & benny blanco,21.0,14,5
-2020-11-28,27,34+35,Ariana Grande,30.0,8,3
-2020-11-28,28,Said Sum,Moneybagg Yo,22.0,17,20
-2020-11-28,30,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",25.0,2,41
-2020-11-28,32,What You Know Bout Love,Pop Smoke,28.0,25,11
-2020-11-28,33,One Of Them Girls,Lee Brice,29.0,17,25
-2020-11-28,34,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,33.0,33,24
-2020-11-28,35,Love You Like I Used To,Russell Dickerson,31.0,31,11
-2020-11-28,36,Pretty Heart,Parker McCollum,37.0,36,19
-2020-11-28,38,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,36.0,36,17
-2020-11-28,39,Better Together,Luke Combs,39.0,30,7
-2020-11-28,40,Forever After All,Luke Combs,27.0,2,4
-2020-11-28,41,Got What I Got,Jason Aldean,34.0,16,25
-2020-11-28,42,"Big, Big Plans",Chris Lane,56.0,42,7
-2020-11-28,44,Wonder,Shawn Mendes,32.0,18,7
-2020-11-28,45,pov,Ariana Grande,45.0,40,3
-2020-11-28,47,Come & Go,Juice WRLD x Marshmello,38.0,2,19
-2020-11-28,48,Diamonds,Sam Smith,40.0,40,9
-2020-11-28,49,Adore You,Harry Styles,43.0,6,50
-2020-11-21,1,Mood,24kGoldn Featuring iann dior,1.0,1,14
-2020-11-21,2,Positions,Ariana Grande,2.0,1,3
-2020-11-21,3,I Hope,Gabby Barrett Featuring Charlie Puth,5.0,3,46
-2020-11-21,4,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,13
-2020-11-21,5,Blinding Lights,The Weeknd,4.0,1,50
-2020-11-21,6,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,7.0,6,13
-2020-11-21,7,Holy,Justin Bieber Featuring Chance The Rapper,11.0,3,8
-2020-11-21,8,Dakiti,Bad Bunny & Jhay Cortez,9.0,8,2
-2020-11-21,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,6.0,1,22
-2020-11-21,10,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,12.0,6,19
-2020-11-21,11,WAP,Cardi B Featuring Megan Thee Stallion,10.0,1,14
-2020-11-21,12,Hawai,Maluma & The Weeknd,60.0,12,12
-2020-11-21,13,Go Crazy,Chris Brown & Young Thug,15.0,9,27
-2020-11-21,14,Rockstar,DaBaby Featuring Roddy Ricch,13.0,1,30
-2020-11-21,15,Kings & Queens,Ava Max,19.0,15,14
-2020-11-21,16,Before You Go,Lewis Capaldi,14.0,9,41
-2020-11-21,17,Dynamite,BTS,16.0,1,12
-2020-11-21,18,Watermelon Sugar,Harry Styles,17.0,1,34
-2020-11-21,19,More Than My Hometown,Morgan Wallen,23.0,19,22
-2020-11-21,20,Be Like That,Kane Brown With Swae Lee & Khalid,22.0,19,18
-2020-11-21,21,Lonely,Justin Bieber & benny blanco,21.0,14,4
-2020-11-21,22,Said Sum,Moneybagg Yo,20.0,17,19
-2020-11-21,23,ily,Surf Mesa Featuring Emilee,25.0,23,25
-2020-11-21,24,Bang!,AJR,26.0,24,19
-2020-11-21,25,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",24.0,2,40
-2020-11-21,26,Levitating,Dua Lipa Featuring DaBaby,29.0,26,6
-2020-11-21,27,Forever After All,Luke Combs,18.0,2,3
-2020-11-21,28,What You Know Bout Love,Pop Smoke,30.0,25,10
-2020-11-21,29,One Of Them Girls,Lee Brice,27.0,17,24
-2020-11-21,30,34+35,Ariana Grande,8.0,8,2
-2020-11-21,31,Love You Like I Used To,Russell Dickerson,34.0,31,10
-2020-11-21,32,Wonder,Shawn Mendes,33.0,18,6
-2020-11-21,33,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,36.0,33,23
-2020-11-21,34,Got What I Got,Jason Aldean,28.0,16,24
-2020-11-21,36,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,46.0,36,16
-2020-11-21,37,Pretty Heart,Parker McCollum,38.0,37,18
-2020-11-21,38,Come & Go,Juice WRLD x Marshmello,31.0,2,18
-2020-11-21,39,Better Together,Luke Combs,41.0,30,6
-2020-11-21,40,Diamonds,Sam Smith,45.0,40,8
-2020-11-21,41,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,39.0,11,19
-2020-11-21,42,Rags2Riches,Rod Wave Featuring ATR Son Son,42.0,12,20
-2020-11-21,43,Adore You,Harry Styles,37.0,6,49
-2020-11-21,44,Midnight Sky,Miley Cyrus,82.0,14,13
-2020-11-21,45,pov,Ariana Grande,40.0,40,2
-2020-11-21,46,Roses,SAINt JHN,44.0,4,34
-2020-11-21,48,Starting Over,Chris Stapleton,69.0,48,11
-2020-11-21,49,I Should Probably Go To Bed,Dan + Shay,58.0,42,15
-2020-11-21,50,You Broke Me First.,Tate McRae,61.0,50,12
-2020-11-14,1,Mood,24kGoldn Featuring iann dior,3.0,1,13
-2020-11-14,2,Positions,Ariana Grande,1.0,1,2
-2020-11-14,3,Laugh Now Cry Later,Drake Featuring Lil Durk,4.0,2,12
-2020-11-14,4,Blinding Lights,The Weeknd,5.0,1,49
-2020-11-14,5,I Hope,Gabby Barrett Featuring Charlie Puth,6.0,5,45
-2020-11-14,6,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,8.0,1,21
-2020-11-14,7,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,9.0,7,12
-2020-11-14,10,WAP,Cardi B Featuring Megan Thee Stallion,7.0,1,13
-2020-11-14,11,Holy,Justin Bieber Featuring Chance The Rapper,10.0,3,7
-2020-11-14,12,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,14.0,6,18
-2020-11-14,13,Rockstar,DaBaby Featuring Roddy Ricch,11.0,1,29
-2020-11-14,14,Before You Go,Lewis Capaldi,13.0,9,40
-2020-11-14,15,Go Crazy,Chris Brown & Young Thug,16.0,9,26
-2020-11-14,16,Dynamite,BTS,12.0,1,11
-2020-11-14,17,Watermelon Sugar,Harry Styles,15.0,1,33
-2020-11-14,18,Forever After All,Luke Combs,2.0,2,2
-2020-11-14,19,Kings & Queens,Ava Max,22.0,19,13
-2020-11-14,20,Said Sum,Moneybagg Yo,17.0,17,18
-2020-11-14,21,Lonely,Justin Bieber & benny blanco,27.0,14,3
-2020-11-14,22,Be Like That,Kane Brown With Swae Lee & Khalid,19.0,19,17
-2020-11-14,23,More Than My Hometown,Morgan Wallen,23.0,23,21
-2020-11-14,24,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",20.0,2,39
-2020-11-14,25,ily,Surf Mesa Featuring Emilee,25.0,25,24
-2020-11-14,26,Bang!,AJR,28.0,26,18
-2020-11-14,27,One Of Them Girls,Lee Brice,26.0,17,23
-2020-11-14,28,Got What I Got,Jason Aldean,21.0,16,23
-2020-11-14,29,Levitating,Dua Lipa Featuring DaBaby,42.0,29,5
-2020-11-14,30,What You Know Bout Love,Pop Smoke,29.0,25,9
-2020-11-14,31,Come & Go,Juice WRLD x Marshmello,24.0,2,17
-2020-11-14,33,Wonder,Shawn Mendes,32.0,18,5
-2020-11-14,34,Love You Like I Used To,Russell Dickerson,37.0,34,9
-2020-11-14,36,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,36.0,36,22
-2020-11-14,37,Adore You,Harry Styles,31.0,6,48
-2020-11-14,38,Pretty Heart,Parker McCollum,43.0,38,17
-2020-11-14,39,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,35.0,11,18
-2020-11-14,41,Better Together,Luke Combs,30.0,30,5
-2020-11-14,42,Rags2Riches,Rod Wave Featuring ATR Son Son,40.0,12,19
-2020-11-14,44,Roses,SAINt JHN,39.0,4,33
-2020-11-14,45,Diamonds,Sam Smith,58.0,45,7
-2020-11-14,46,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,46.0,45,15
-2020-11-14,50,Break My Heart,Dua Lipa,44.0,13,32
-2020-11-07,3,Mood,24kGoldn Featuring iann dior,1.0,1,12
-2020-11-07,4,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,11
-2020-11-07,5,Blinding Lights,The Weeknd,4.0,1,48
-2020-11-07,6,I Hope,Gabby Barrett Featuring Charlie Puth,6.0,6,44
-2020-11-07,7,WAP,Cardi B Featuring Megan Thee Stallion,2.0,1,12
-2020-11-07,8,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,5.0,1,20
-2020-11-07,9,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,10.0,9,11
-2020-11-07,10,Holy,Justin Bieber Featuring Chance The Rapper,9.0,3,6
-2020-11-07,11,Rockstar,DaBaby Featuring Roddy Ricch,8.0,1,28
-2020-11-07,12,Dynamite,BTS,7.0,1,10
-2020-11-07,13,Before You Go,Lewis Capaldi,12.0,9,39
-2020-11-07,14,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,13.0,6,17
-2020-11-07,15,Watermelon Sugar,Harry Styles,11.0,1,32
-2020-11-07,16,Go Crazy,Chris Brown & Young Thug,15.0,9,25
-2020-11-07,17,Said Sum,Moneybagg Yo,23.0,17,17
-2020-11-07,18,Circles,Post Malone,19.0,1,61
-2020-11-07,19,Be Like That,Kane Brown With Swae Lee & Khalid,20.0,19,16
-2020-11-07,20,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",18.0,2,38
-2020-11-07,21,Got What I Got,Jason Aldean,16.0,16,22
-2020-11-07,22,Kings & Queens,Ava Max,24.0,22,12
-2020-11-07,23,More Than My Hometown,Morgan Wallen,28.0,23,20
-2020-11-07,24,Come & Go,Juice WRLD x Marshmello,22.0,2,16
-2020-11-07,25,ily,Surf Mesa Featuring Emilee,27.0,25,23
-2020-11-07,26,One Of Them Girls,Lee Brice,17.0,17,22
-2020-11-07,27,Lonely,Justin Bieber & benny blanco,14.0,14,2
-2020-11-07,28,Bang!,AJR,26.0,26,17
-2020-11-07,29,What You Know Bout Love,Pop Smoke,25.0,25,8
-2020-11-07,30,Better Together,Luke Combs,57.0,30,4
-2020-11-07,31,Adore You,Harry Styles,31.0,6,47
-2020-11-07,32,Wonder,Shawn Mendes,30.0,18,4
-2020-11-07,33,Dreams,Fleetwood Mac,21.0,1,23
-2020-11-07,35,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,32.0,11,17
-2020-11-07,36,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,37.0,36,21
-2020-11-07,37,Love You Like I Used To,Russell Dickerson,41.0,37,8
-2020-11-07,38,Don't Start Now,Dua Lipa,36.0,2,52
-2020-11-07,39,Roses,SAINt JHN,33.0,4,32
-2020-11-07,40,Rags2Riches,Rod Wave Featuring ATR Son Son,38.0,12,18
-2020-11-07,41,Lovin' On You,Luke Combs,45.0,23,18
-2020-11-07,42,Levitating,Dua Lipa Featuring DaBaby,47.0,42,4
-2020-11-07,43,Pretty Heart,Parker McCollum,44.0,43,16
-2020-11-07,44,Break My Heart,Dua Lipa,34.0,13,31
-2020-11-07,45,Some Girls,Jameson Rodgers,29.0,29,12
-2020-11-07,46,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,49.0,45,14
-2020-11-07,47,Mood Swings,Pop Smoke Featuring Lil Tjay,40.0,17,17
-2020-11-07,48,Everywhere But On,Matt Stell,56.0,48,8
-2020-11-07,49,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,42.0,10,4
-2020-11-07,50,I Should Probably Go To Bed,Dan + Shay,43.0,42,13
-2020-10-31,1,Mood,24kGoldn Featuring iann dior,1.0,1,11
-2020-10-31,2,WAP,Cardi B Featuring Megan Thee Stallion,2.0,1,11
-2020-10-31,3,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,10
-2020-10-31,4,Blinding Lights,The Weeknd,4.0,1,47
-2020-10-31,5,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,6.0,1,19
-2020-10-31,6,I Hope,Gabby Barrett Featuring Charlie Puth,8.0,6,43
-2020-10-31,7,Dynamite,BTS,5.0,1,9
-2020-10-31,8,Rockstar,DaBaby Featuring Roddy Ricch,7.0,1,27
-2020-10-31,9,Holy,Justin Bieber Featuring Chance The Rapper,14.0,3,5
-2020-10-31,10,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,10.0,10,10
-2020-10-31,11,Watermelon Sugar,Harry Styles,9.0,1,31
-2020-10-31,12,Before You Go,Lewis Capaldi,11.0,9,38
-2020-10-31,13,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,13.0,6,16
-2020-10-31,15,Go Crazy,Chris Brown & Young Thug,15.0,9,24
-2020-10-31,16,Got What I Got,Jason Aldean,16.0,16,21
-2020-10-31,17,One Of Them Girls,Lee Brice,17.0,17,21
-2020-10-31,18,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",18.0,2,37
-2020-10-31,19,Circles,Post Malone,19.0,1,60
-2020-10-31,20,Be Like That,Kane Brown With Swae Lee & Khalid,20.0,20,15
-2020-10-31,21,Dreams,Fleetwood Mac,12.0,1,22
-2020-10-31,22,Come & Go,Juice WRLD x Marshmello,21.0,2,15
-2020-10-31,23,Said Sum,Moneybagg Yo,33.0,23,16
-2020-10-31,24,Kings & Queens,Ava Max,32.0,24,11
-2020-10-31,25,What You Know Bout Love,Pop Smoke,29.0,25,7
-2020-10-31,26,Bang!,AJR,26.0,26,16
-2020-10-31,27,ily,Surf Mesa Featuring Emilee,28.0,27,22
-2020-10-31,28,More Than My Hometown,Morgan Wallen,30.0,28,19
-2020-10-31,29,Some Girls,Jameson Rodgers,34.0,29,11
-2020-10-31,30,Wonder,Shawn Mendes,22.0,18,3
-2020-10-31,31,Adore You,Harry Styles,25.0,6,46
-2020-10-31,32,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,38.0,11,16
-2020-10-31,33,Roses,SAINt JHN,31.0,4,31
-2020-10-31,34,Break My Heart,Dua Lipa,27.0,13,30
-2020-10-31,36,Don't Start Now,Dua Lipa,35.0,2,51
-2020-10-31,37,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,41.0,37,20
-2020-10-31,38,Rags2Riches,Rod Wave Featuring ATR Son Son,39.0,12,17
-2020-10-31,39,Franchise,Travis Scott Featuring Young Thug & M.I.A.,23.0,1,4
-2020-10-31,40,Mood Swings,Pop Smoke Featuring Lil Tjay,37.0,17,16
-2020-10-31,41,Love You Like I Used To,Russell Dickerson,51.0,41,7
-2020-10-31,42,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,24.0,10,3
-2020-10-31,43,I Should Probably Go To Bed,Dan + Shay,44.0,42,12
-2020-10-31,44,Pretty Heart,Parker McCollum,47.0,44,15
-2020-10-31,45,Lovin' On You,Luke Combs,42.0,23,17
-2020-10-31,46,Popstar,DJ Khaled Featuring Drake,40.0,3,14
-2020-10-31,47,Levitating,Dua Lipa Featuring DaBaby,54.0,47,3
-2020-10-31,48,Midnight Sky,Miley Cyrus,50.0,14,10
-2020-10-31,49,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,45.0,45,13
-2020-10-31,50,Runnin,21 Savage & Metro Boomin,36.0,9,3
-2020-10-24,1,Mood,24kGoldn Featuring iann dior,4.0,1,10
-2020-10-24,2,WAP,Cardi B Featuring Megan Thee Stallion,3.0,1,10
-2020-10-24,3,Laugh Now Cry Later,Drake Featuring Lil Durk,5.0,2,9
-2020-10-24,4,Blinding Lights,The Weeknd,6.0,1,46
-2020-10-24,5,Dynamite,BTS,2.0,1,8
-2020-10-24,6,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,1.0,1,18
-2020-10-24,7,Rockstar,DaBaby Featuring Roddy Ricch,7.0,1,26
-2020-10-24,8,I Hope,Gabby Barrett Featuring Charlie Puth,8.0,8,42
-2020-10-24,9,Watermelon Sugar,Harry Styles,11.0,1,30
-2020-10-24,10,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,12.0,10,9
-2020-10-24,11,Before You Go,Lewis Capaldi,13.0,9,37
-2020-10-24,12,Dreams,Fleetwood Mac,21.0,1,21
-2020-10-24,13,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,15
-2020-10-24,14,Holy,Justin Bieber Featuring Chance The Rapper,14.0,3,4
-2020-10-24,15,Go Crazy,Chris Brown & Young Thug,17.0,9,23
-2020-10-24,16,Got What I Got,Jason Aldean,23.0,16,20
-2020-10-24,17,One Of Them Girls,Lee Brice,20.0,17,20
-2020-10-24,18,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",16.0,2,36
-2020-10-24,19,Circles,Post Malone,22.0,1,59
-2020-10-24,20,Be Like That,Kane Brown With Swae Lee & Khalid,27.0,20,14
-2020-10-24,21,Come & Go,Juice WRLD x Marshmello,24.0,2,14
-2020-10-24,22,Wonder,Shawn Mendes,18.0,18,2
-2020-10-24,23,Franchise,Travis Scott Featuring Young Thug & M.I.A.,25.0,1,3
-2020-10-24,24,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,10.0,10,2
-2020-10-24,25,Adore You,Harry Styles,28.0,6,45
-2020-10-24,26,Bang!,AJR,35.0,26,15
-2020-10-24,27,Break My Heart,Dua Lipa,29.0,13,29
-2020-10-24,28,ily,Surf Mesa Featuring Emilee,41.0,28,21
-2020-10-24,29,What You Know Bout Love,Pop Smoke,44.0,29,6
-2020-10-24,30,More Than My Hometown,Morgan Wallen,38.0,30,18
-2020-10-24,31,Roses,SAINt JHN,31.0,4,30
-2020-10-24,32,Kings & Queens,Ava Max,46.0,32,10
-2020-10-24,33,Said Sum,Moneybagg Yo,51.0,24,15
-2020-10-24,34,Some Girls,Jameson Rodgers,45.0,34,10
-2020-10-24,35,Don't Start Now,Dua Lipa,39.0,2,50
-2020-10-24,36,Runnin,21 Savage & Metro Boomin,9.0,9,2
-2020-10-24,37,Mood Swings,Pop Smoke Featuring Lil Tjay,36.0,17,15
-2020-10-24,38,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,42.0,11,15
-2020-10-24,39,Rags2Riches,Rod Wave Featuring ATR Son Son,49.0,12,16
-2020-10-24,40,Popstar,DJ Khaled Featuring Drake,34.0,3,13
-2020-10-24,41,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,52.0,41,19
-2020-10-24,42,Lovin' On You,Luke Combs,40.0,23,16
-2020-10-24,43,If The World Was Ending,JP Saxe Featuring Julia Michaels,43.0,27,29
-2020-10-24,44,I Should Probably Go To Bed,Dan + Shay,54.0,42,11
-2020-10-24,45,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,58.0,45,12
-2020-10-24,46,Tap In,Saweetie,47.0,20,14
-2020-10-24,47,Pretty Heart,Parker McCollum,63.0,47,14
-2020-10-24,48,My Ex's Best Friend,Machine Gun Kelly X blackbear,50.0,28,9
-2020-10-24,49,24,Money Man Featuring Lil Baby,60.0,49,9
-2020-10-24,50,Midnight Sky,Miley Cyrus,55.0,14,9
-2020-10-17,1,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,8.0,1,17
-2020-10-17,2,Dynamite,BTS,2.0,1,7
-2020-10-17,3,WAP,Cardi B Featuring Megan Thee Stallion,3.0,1,9
-2020-10-17,4,Mood,24kGoldn Featuring iann dior,5.0,4,9
-2020-10-17,5,Laugh Now Cry Later,Drake Featuring Lil Durk,4.0,2,8
-2020-10-17,6,Blinding Lights,The Weeknd,6.0,1,45
-2020-10-17,7,Rockstar,DaBaby Featuring Roddy Ricch,7.0,1,25
-2020-10-17,8,I Hope,Gabby Barrett Featuring Charlie Puth,10.0,8,41
-2020-10-17,11,Watermelon Sugar,Harry Styles,9.0,1,29
-2020-10-17,12,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,14.0,12,8
-2020-10-17,13,Before You Go,Lewis Capaldi,11.0,9,36
-2020-10-17,14,Holy,Justin Bieber Featuring Chance The Rapper,12.0,3,3
-2020-10-17,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,14
-2020-10-17,16,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",13.0,2,35
-2020-10-17,17,Go Crazy,Chris Brown & Young Thug,16.0,9,22
-2020-10-17,20,One Of Them Girls,Lee Brice,18.0,18,19
-2020-10-17,22,Circles,Post Malone,17.0,1,58
-2020-10-17,23,Got What I Got,Jason Aldean,19.0,19,19
-2020-10-17,24,Come & Go,Juice WRLD x Marshmello,20.0,2,13
-2020-10-17,25,Franchise,Travis Scott Featuring Young Thug & M.I.A.,1.0,1,2
-2020-10-17,27,Be Like That,Kane Brown With Swae Lee & Khalid,23.0,22,13
-2020-10-17,28,Adore You,Harry Styles,24.0,6,44
-2020-10-17,29,Break My Heart,Dua Lipa,25.0,13,28
-2020-10-17,31,Roses,SAINt JHN,22.0,4,29
-2020-10-17,34,Popstar,DJ Khaled Featuring Drake,21.0,3,12
-2020-10-17,35,Bang!,AJR,32.0,32,14
-2020-10-17,36,Mood Swings,Pop Smoke Featuring Lil Tjay,27.0,17,14
-2020-10-17,38,More Than My Hometown,Morgan Wallen,34.0,34,17
-2020-10-17,39,Don't Start Now,Dua Lipa,33.0,2,49
-2020-10-17,40,Lovin' On You,Luke Combs,26.0,23,15
-2020-10-17,41,ily,Surf Mesa Featuring Emilee,35.0,35,20
-2020-10-17,42,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,29.0,11,14
-2020-10-17,43,If The World Was Ending,JP Saxe Featuring Julia Michaels,31.0,27,28
-2020-10-17,44,What You Know Bout Love,Pop Smoke,40.0,40,5
-2020-10-17,45,Some Girls,Jameson Rodgers,42.0,42,9
-2020-10-17,46,Kings & Queens,Ava Max,37.0,37,9
-2020-10-17,47,Tap In,Saweetie,30.0,20,13
-2020-10-17,49,Rags2Riches,Rod Wave Featuring ATR Son Son,38.0,12,15
-2020-10-17,50,My Ex's Best Friend,Machine Gun Kelly X blackbear,28.0,28,8
-2020-10-10,2,Dynamite,BTS,1.0,1,6
-2020-10-10,3,WAP,Cardi B Featuring Megan Thee Stallion,2.0,1,8
-2020-10-10,4,Laugh Now Cry Later,Drake Featuring Lil Durk,4.0,2,7
-2020-10-10,5,Mood,24kGoldn Featuring iann dior,5.0,5,8
-2020-10-10,6,Blinding Lights,The Weeknd,7.0,1,44
-2020-10-10,7,Rockstar,DaBaby Featuring Roddy Ricch,6.0,1,24
-2020-10-10,8,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,7,16
-2020-10-10,9,Watermelon Sugar,Harry Styles,8.0,1,28
-2020-10-10,10,I Hope,Gabby Barrett Featuring Charlie Puth,10.0,10,40
-2020-10-10,11,Before You Go,Lewis Capaldi,11.0,9,35
-2020-10-10,12,Holy,Justin Bieber Featuring Chance The Rapper,3.0,3,2
-2020-10-10,13,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",12.0,2,34
-2020-10-10,14,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,16.0,14,7
-2020-10-10,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,13
-2020-10-10,16,Go Crazy,Chris Brown & Young Thug,13.0,9,21
-2020-10-10,17,Circles,Post Malone,17.0,1,57
-2020-10-10,18,One Of Them Girls,Lee Brice,22.0,18,18
-2020-10-10,19,Got What I Got,Jason Aldean,21.0,19,18
-2020-10-10,20,Come & Go,Juice WRLD x Marshmello,19.0,2,12
-2020-10-10,21,Popstar,DJ Khaled Featuring Drake,14.0,3,11
-2020-10-10,22,Roses,SAINt JHN,18.0,4,28
-2020-10-10,23,Be Like That,Kane Brown With Swae Lee & Khalid,27.0,22,12
-2020-10-10,24,Adore You,Harry Styles,23.0,6,43
-2020-10-10,25,Break My Heart,Dua Lipa,25.0,13,27
-2020-10-10,26,Lovin' On You,Luke Combs,26.0,23,14
-2020-10-10,27,Mood Swings,Pop Smoke Featuring Lil Tjay,20.0,17,13
-2020-10-10,28,My Ex's Best Friend,Machine Gun Kelly X blackbear,58.0,28,7
-2020-10-10,29,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,30.0,11,13
-2020-10-10,30,Tap In,Saweetie,28.0,20,12
-2020-10-10,31,If The World Was Ending,JP Saxe Featuring Julia Michaels,31.0,27,27
-2020-10-10,32,Bang!,AJR,33.0,32,13
-2020-10-10,33,Don't Start Now,Dua Lipa,32.0,2,48
-2020-10-10,34,More Than My Hometown,Morgan Wallen,34.0,34,16
-2020-10-10,35,ily,Surf Mesa Featuring Emilee,37.0,35,19
-2020-10-10,36,Said Sum,Moneybagg Yo,24.0,24,13
-2020-10-10,37,Kings & Queens,Ava Max,38.0,37,8
-2020-10-10,38,Rags2Riches,Rod Wave Featuring ATR Son Son,35.0,12,14
-2020-10-10,39,Midnight Sky,Miley Cyrus,39.0,14,7
-2020-10-10,40,What You Know Bout Love,Pop Smoke,56.0,40,4
-2020-10-10,41,Life Is Good,Future Featuring Drake,36.0,2,38
-2020-10-10,42,Some Girls,Jameson Rodgers,43.0,42,8
-2020-10-10,43,I Should Probably Go To Bed,Dan + Shay,42.0,42,9
-2020-10-10,45,Cool Again,Kane Brown,29.0,29,18
-2020-10-10,46,Chasin' You,Morgan Wallen,40.0,16,36
-2020-10-10,48,Die From A Broken Heart,Maddie & Tae,44.0,22,25
-2020-10-10,49,We Paid,Lil Baby & 42 Dugg,46.0,10,22
-2020-10-03,1,Dynamite,BTS,2.0,1,5
-2020-10-03,2,WAP,Cardi B Featuring Megan Thee Stallion,1.0,1,7
-2020-10-03,4,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,6
-2020-10-03,5,Mood,24kGoldn Featuring iann dior,6.0,5,7
-2020-10-03,6,Rockstar,DaBaby Featuring Roddy Ricch,4.0,1,23
-2020-10-03,7,Blinding Lights,The Weeknd,5.0,1,43
-2020-10-03,8,Watermelon Sugar,Harry Styles,7.0,1,27
-2020-10-03,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,8.0,7,15
-2020-10-03,10,I Hope,Gabby Barrett Featuring Charlie Puth,11.0,10,39
-2020-10-03,11,Before You Go,Lewis Capaldi,9.0,9,34
-2020-10-03,12,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",10.0,2,33
-2020-10-03,13,Go Crazy,Chris Brown & Young Thug,13.0,9,20
-2020-10-03,14,Popstar,DJ Khaled Featuring Drake,12.0,3,10
-2020-10-03,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,12
-2020-10-03,16,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,22.0,16,6
-2020-10-03,17,Circles,Post Malone,16.0,1,56
-2020-10-03,18,Roses,SAINt JHN,14.0,4,27
-2020-10-03,19,Come & Go,Juice WRLD x Marshmello,17.0,2,11
-2020-10-03,20,Mood Swings,Pop Smoke Featuring Lil Tjay,26.0,17,12
-2020-10-03,21,Got What I Got,Jason Aldean,21.0,21,17
-2020-10-03,22,One Of Them Girls,Lee Brice,19.0,19,17
-2020-10-03,23,Adore You,Harry Styles,18.0,6,42
-2020-10-03,24,Said Sum,Moneybagg Yo,60.0,24,12
-2020-10-03,25,Break My Heart,Dua Lipa,20.0,13,26
-2020-10-03,26,Lovin' On You,Luke Combs,23.0,23,13
-2020-10-03,27,Be Like That,Kane Brown With Swae Lee & Khalid,25.0,22,11
-2020-10-03,28,Tap In,Saweetie,24.0,20,11
-2020-10-03,29,Cool Again,Kane Brown,31.0,29,17
-2020-10-03,30,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,27.0,11,12
-2020-10-03,31,If The World Was Ending,JP Saxe Featuring Julia Michaels,30.0,27,26
-2020-10-03,32,Don't Start Now,Dua Lipa,28.0,2,47
-2020-10-03,33,Bang!,AJR,41.0,33,12
-2020-10-03,34,More Than My Hometown,Morgan Wallen,39.0,34,15
-2020-10-03,35,Rags2Riches,Rod Wave Featuring ATR Son Son,32.0,12,13
-2020-10-03,36,Life Is Good,Future Featuring Drake,33.0,2,37
-2020-10-03,37,ily,Surf Mesa Featuring Emilee,49.0,37,18
-2020-10-03,38,Kings & Queens,Ava Max,57.0,38,7
-2020-10-03,39,Midnight Sky,Miley Cyrus,34.0,14,6
-2020-10-03,40,Chasin' You,Morgan Wallen,43.0,16,35
-2020-10-03,41,Rain On Me,Lady Gaga & Ariana Grande,37.0,1,18
-2020-10-03,42,I Should Probably Go To Bed,Dan + Shay,45.0,42,8
-2020-10-03,43,Some Girls,Jameson Rodgers,62.0,43,7
-2020-10-03,44,Die From A Broken Heart,Maddie & Tae,38.0,22,24
-2020-10-03,45,Wishing Well,Juice WRLD,42.0,5,11
-2020-10-03,46,We Paid,Lil Baby & 42 Dugg,46.0,10,21
-2020-10-03,47,Say So,Doja Cat Featuring Nicki Minaj,48.0,1,38
-2020-10-03,48,Savage,Megan Thee Stallion,40.0,1,28
-2020-10-03,49,Cardigan,Taylor Swift,52.0,1,9
-2020-10-03,50,Blueberry Faygo,Lil Mosey,47.0,8,33
-2020-09-26,1,WAP,Cardi B Featuring Megan Thee Stallion,1.0,1,6
-2020-09-26,2,Dynamite,BTS,2.0,1,4
-2020-09-26,3,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,5
-2020-09-26,4,Rockstar,DaBaby Featuring Roddy Ricch,4.0,1,22
-2020-09-26,5,Blinding Lights,The Weeknd,5.0,1,42
-2020-09-26,6,Mood,24kGoldn Featuring iann dior,6.0,6,6
-2020-09-26,7,Watermelon Sugar,Harry Styles,7.0,1,26
-2020-09-26,8,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,7,14
-2020-09-26,9,Before You Go,Lewis Capaldi,11.0,9,33
-2020-09-26,10,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",8.0,2,32
-2020-09-26,11,I Hope,Gabby Barrett Featuring Charlie Puth,12.0,10,38
-2020-09-26,12,Popstar,DJ Khaled Featuring Drake,10.0,3,9
-2020-09-26,13,Go Crazy,Chris Brown & Young Thug,14.0,9,19
-2020-09-26,14,Roses,SAINt JHN,13.0,4,26
-2020-09-26,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,11
-2020-09-26,16,Circles,Post Malone,16.0,1,55
-2020-09-26,17,Come & Go,Juice WRLD x Marshmello,19.0,2,10
-2020-09-26,18,Adore You,Harry Styles,18.0,6,41
-2020-09-26,19,One Of Them Girls,Lee Brice,22.0,19,16
-2020-09-26,20,Break My Heart,Dua Lipa,17.0,13,25
-2020-09-26,21,Got What I Got,Jason Aldean,26.0,21,16
-2020-09-26,22,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,38.0,22,5
-2020-09-26,23,Lovin' On You,Luke Combs,23.0,23,12
-2020-09-26,24,Tap In,Saweetie,20.0,20,10
-2020-09-26,25,Be Like That,Kane Brown With Swae Lee & Khalid,24.0,22,10
-2020-09-26,26,Mood Swings,Pop Smoke Featuring Lil Tjay,21.0,17,11
-2020-09-26,27,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,27.0,11,11
-2020-09-26,28,Don't Start Now,Dua Lipa,25.0,2,46
-2020-09-26,29,The Bones,Maren Morris,28.0,12,52
-2020-09-26,30,If The World Was Ending,JP Saxe Featuring Julia Michaels,30.0,27,25
-2020-09-26,31,Cool Again,Kane Brown,36.0,31,16
-2020-09-26,32,Rags2Riches,Rod Wave Featuring ATR Son Son,35.0,12,12
-2020-09-26,33,Life Is Good,Future Featuring Drake,33.0,2,36
-2020-09-26,34,Midnight Sky,Miley Cyrus,34.0,14,5
-2020-09-26,37,Rain On Me,Lady Gaga & Ariana Grande,37.0,1,17
-2020-09-26,38,Die From A Broken Heart,Maddie & Tae,31.0,22,23
-2020-09-26,39,More Than My Hometown,Morgan Wallen,53.0,39,14
-2020-09-26,40,Savage,Megan Thee Stallion,32.0,1,27
-2020-09-26,41,Bang!,AJR,51.0,41,11
-2020-09-26,42,Wishing Well,Juice WRLD,43.0,5,10
-2020-09-26,43,Chasin' You,Morgan Wallen,42.0,16,34
-2020-09-26,45,I Should Probably Go To Bed,Dan + Shay,54.0,43,7
-2020-09-26,46,We Paid,Lil Baby & 42 Dugg,47.0,10,20
-2020-09-26,47,Blueberry Faygo,Lil Mosey,41.0,8,32
-2020-09-26,48,Say So,Doja Cat Featuring Nicki Minaj,40.0,1,37
-2020-09-26,49,ily,Surf Mesa Featuring Emilee,59.0,49,17
-2020-09-26,50,Kacey Talk,YoungBoy Never Broke Again,87.0,50,5
-2020-09-19,1,WAP,Cardi B Featuring Megan Thee Stallion,2.0,1,5
-2020-09-19,2,Dynamite,BTS,1.0,1,3
-2020-09-19,3,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,4
-2020-09-19,4,Rockstar,DaBaby Featuring Roddy Ricch,4.0,1,21
-2020-09-19,5,Blinding Lights,The Weeknd,5.0,1,41
-2020-09-19,6,Mood,24kGoldn Featuring iann dior,8.0,6,5
-2020-09-19,7,Watermelon Sugar,Harry Styles,6.0,1,25
-2020-09-19,8,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",7.0,2,31
-2020-09-19,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,7,13
-2020-09-19,10,Popstar,DJ Khaled Featuring Drake,24.0,3,8
-2020-09-19,11,Before You Go,Lewis Capaldi,10.0,10,32
-2020-09-19,12,I Hope,Gabby Barrett Featuring Charlie Puth,12.0,10,37
-2020-09-19,13,Roses,SAINt JHN,11.0,4,25
-2020-09-19,14,Go Crazy,Chris Brown & Young Thug,14.0,9,18
-2020-09-19,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,17.0,6,10
-2020-09-19,16,Circles,Post Malone,15.0,1,54
-2020-09-19,17,Break My Heart,Dua Lipa,16.0,13,24
-2020-09-19,18,Adore You,Harry Styles,18.0,6,40
-2020-09-19,19,Come & Go,Juice WRLD x Marshmello,19.0,2,9
-2020-09-19,20,Tap In,Saweetie,21.0,20,9
-2020-09-19,21,Mood Swings,Pop Smoke Featuring Lil Tjay,20.0,17,10
-2020-09-19,22,One Of Them Girls,Lee Brice,33.0,22,15
-2020-09-19,23,Lovin' On You,Luke Combs,26.0,23,11
-2020-09-19,24,Be Like That,Kane Brown With Swae Lee & Khalid,22.0,22,9
-2020-09-19,25,Don't Start Now,Dua Lipa,23.0,2,45
-2020-09-19,26,Got What I Got,Jason Aldean,31.0,26,15
-2020-09-19,27,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,29.0,11,10
-2020-09-19,28,The Bones,Maren Morris,28.0,12,51
-2020-09-19,30,If The World Was Ending,JP Saxe Featuring Julia Michaels,27.0,27,24
-2020-09-19,31,Die From A Broken Heart,Maddie & Tae,25.0,22,22
-2020-09-19,32,Savage,Megan Thee Stallion,30.0,1,26
-2020-09-19,33,Life Is Good,Future Featuring Drake,39.0,2,35
-2020-09-19,34,Midnight Sky,Miley Cyrus,37.0,14,4
-2020-09-19,35,Rags2Riches,Rod Wave Featuring ATR Son Son,32.0,12,11
-2020-09-19,36,Cool Again,Kane Brown,41.0,36,15
-2020-09-19,37,Rain On Me,Lady Gaga & Ariana Grande,34.0,1,16
-2020-09-19,38,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,54.0,38,4
-2020-09-19,39,Death Bed,Powfu Featuring beabadoobee,36.0,23,26
-2020-09-19,40,Say So,Doja Cat Featuring Nicki Minaj,46.0,1,36
-2020-09-19,41,Blueberry Faygo,Lil Mosey,35.0,8,31
-2020-09-19,42,Chasin' You,Morgan Wallen,47.0,16,33
-2020-09-19,43,Wishing Well,Juice WRLD,40.0,5,9
-2020-09-19,44,Nobody's Love,Maroon 5,48.0,41,7
-2020-09-19,45,Girls In The Hood,Megan Thee Stallion,44.0,28,11
-2020-09-19,46,Heather,Conan Gray,51.0,46,4
-2020-09-19,47,We Paid,Lil Baby & 42 Dugg,50.0,10,19
-2020-09-19,48,Intentions,Justin Bieber Featuring Quavo,49.0,5,31
-2020-09-19,49,Ice Cream,BLACKPINK X Selena Gomez,13.0,13,2
-2020-09-19,50,Like That,Doja Cat Featuring Gucci Mane,53.0,50,15
-2020-09-12,1,Dynamite,BTS,1.0,1,2
-2020-09-12,2,WAP,Cardi B Featuring Megan Thee Stallion,2.0,1,4
-2020-09-12,3,Laugh Now Cry Later,Drake Featuring Lil Durk,3.0,2,3
-2020-09-12,4,Rockstar,DaBaby Featuring Roddy Ricch,4.0,1,20
-2020-09-12,5,Blinding Lights,The Weeknd,5.0,1,40
-2020-09-12,6,Watermelon Sugar,Harry Styles,7.0,1,24
-2020-09-12,7,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",6.0,2,30
-2020-09-12,8,Mood,24kGoldn Featuring iann dior,12.0,8,4
-2020-09-12,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,7,12
-2020-09-12,10,Before You Go,Lewis Capaldi,10.0,10,31
-2020-09-12,11,Roses,SAINt JHN,8.0,4,24
-2020-09-12,12,I Hope,Gabby Barrett Featuring Charlie Puth,11.0,10,36
-2020-09-12,14,Go Crazy,Chris Brown & Young Thug,13.0,9,17
-2020-09-12,15,Circles,Post Malone,16.0,1,53
-2020-09-12,16,Break My Heart,Dua Lipa,14.0,13,23
-2020-09-12,17,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,15.0,6,9
-2020-09-12,18,Adore You,Harry Styles,17.0,6,39
-2020-09-12,19,Come & Go,Juice WRLD x Marshmello,19.0,2,8
-2020-09-12,20,Mood Swings,Pop Smoke Featuring Lil Tjay,18.0,17,9
-2020-09-12,21,Tap In,Saweetie,31.0,21,8
-2020-09-12,22,Be Like That,Kane Brown With Swae Lee & Khalid,26.0,22,8
-2020-09-12,23,Don't Start Now,Dua Lipa,27.0,2,44
-2020-09-12,24,Popstar,DJ Khaled Featuring Drake,21.0,3,7
-2020-09-12,25,Die From A Broken Heart,Maddie & Tae,22.0,22,21
-2020-09-12,26,Lovin' On You,Luke Combs,30.0,26,10
-2020-09-12,27,If The World Was Ending,JP Saxe Featuring Julia Michaels,34.0,27,23
-2020-09-12,28,The Bones,Maren Morris,25.0,12,50
-2020-09-12,29,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,23.0,11,9
-2020-09-12,30,Savage,Megan Thee Stallion,20.0,1,25
-2020-09-12,31,Got What I Got,Jason Aldean,33.0,31,14
-2020-09-12,32,Rags2Riches,Rod Wave Featuring ATR Son Son,28.0,12,10
-2020-09-12,33,One Of Them Girls,Lee Brice,46.0,33,14
-2020-09-12,34,Rain On Me,Lady Gaga & Ariana Grande,55.0,1,15
-2020-09-12,35,Blueberry Faygo,Lil Mosey,29.0,8,30
-2020-09-12,36,Death Bed,Powfu Featuring beabadoobee,24.0,23,25
-2020-09-12,37,Midnight Sky,Miley Cyrus,41.0,14,3
-2020-09-12,39,Life Is Good,Future Featuring Drake,35.0,2,34
-2020-09-12,40,Wishing Well,Juice WRLD,32.0,5,8
-2020-09-12,41,Cool Again,Kane Brown,39.0,39,14
-2020-09-12,42,Be A Light,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",51.0,42,22
-2020-09-12,43,One Margarita,Luke Bryan,37.0,19,18
-2020-09-12,44,Girls In The Hood,Megan Thee Stallion,45.0,28,10
-2020-09-12,45,Cardigan,Taylor Swift,36.0,1,6
-2020-09-12,46,Say So,Doja Cat Featuring Nicki Minaj,47.0,1,35
-2020-09-12,47,Chasin' You,Morgan Wallen,43.0,16,32
-2020-09-12,48,Nobody's Love,Maroon 5,49.0,41,6
-2020-09-12,49,Intentions,Justin Bieber Featuring Quavo,42.0,5,30
-2020-09-12,50,We Paid,Lil Baby & 42 Dugg,44.0,10,18
-2020-09-05,2,WAP,Cardi B Featuring Megan Thee Stallion,1.0,1,3
-2020-09-05,3,Laugh Now Cry Later,Drake Featuring Lil Durk,2.0,2,2
-2020-09-05,4,Rockstar,DaBaby Featuring Roddy Ricch,3.0,1,19
-2020-09-05,5,Blinding Lights,The Weeknd,4.0,1,39
-2020-09-05,6,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",5.0,2,29
-2020-09-05,7,Watermelon Sugar,Harry Styles,7.0,1,23
-2020-09-05,8,Roses,SAINt JHN,8.0,4,23
-2020-09-05,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,9.0,7,11
-2020-09-05,10,Before You Go,Lewis Capaldi,12.0,10,30
-2020-09-05,11,I Hope,Gabby Barrett Featuring Charlie Puth,10.0,10,35
-2020-09-05,12,Mood,24kGoldn Featuring iann dior,26.0,12,3
-2020-09-05,13,Go Crazy,Chris Brown & Young Thug,11.0,9,16
-2020-09-05,14,Break My Heart,Dua Lipa,13.0,13,22
-2020-09-05,15,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,17.0,6,8
-2020-09-05,16,Circles,Post Malone,16.0,1,52
-2020-09-05,17,Adore You,Harry Styles,15.0,6,38
-2020-09-05,18,Mood Swings,Pop Smoke Featuring Lil Tjay,19.0,17,8
-2020-09-05,19,Come & Go,Juice WRLD x Marshmello,18.0,2,7
-2020-09-05,20,Savage,Megan Thee Stallion,20.0,1,24
-2020-09-05,21,Popstar,DJ Khaled Featuring Drake,21.0,3,6
-2020-09-05,22,Die From A Broken Heart,Maddie & Tae,25.0,22,20
-2020-09-05,23,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,28.0,11,8
-2020-09-05,24,Death Bed,Powfu Featuring beabadoobee,23.0,23,24
-2020-09-05,25,The Bones,Maren Morris,29.0,12,49
-2020-09-05,26,Be Like That,Kane Brown With Swae Lee & Khalid,34.0,26,7
-2020-09-05,27,Don't Start Now,Dua Lipa,27.0,2,43
-2020-09-05,28,Rags2Riches,Rod Wave Featuring ATR Son Son,22.0,12,9
-2020-09-05,29,Blueberry Faygo,Lil Mosey,24.0,8,29
-2020-09-05,30,Lovin' On You,Luke Combs,53.0,30,9
-2020-09-05,31,Tap In,Saweetie,41.0,31,7
-2020-09-05,32,Wishing Well,Juice WRLD,32.0,5,7
-2020-09-05,33,Got What I Got,Jason Aldean,46.0,33,13
-2020-09-05,34,If The World Was Ending,JP Saxe Featuring Julia Michaels,48.0,34,22
-2020-09-05,35,Life Is Good,Future Featuring Drake,31.0,2,33
-2020-09-05,36,Cardigan,Taylor Swift,33.0,1,5
-2020-09-05,37,One Margarita,Luke Bryan,30.0,19,17
-2020-09-05,38,7 Summers,Morgan Wallen,6.0,6,2
-2020-09-05,39,Cool Again,Kane Brown,39.0,39,13
-2020-09-05,40,I Love My Country,Florida Georgia Line,55.0,40,19
-2020-09-05,41,Midnight Sky,Miley Cyrus,14.0,14,2
-2020-09-05,42,Intentions,Justin Bieber Featuring Quavo,37.0,5,29
-2020-09-05,43,Chasin' You,Morgan Wallen,36.0,16,31
-2020-09-05,44,We Paid,Lil Baby & 42 Dugg,38.0,10,17
-2020-09-05,45,Girls In The Hood,Megan Thee Stallion,42.0,28,9
-2020-09-05,46,One Of Them Girls,Lee Brice,52.0,46,13
-2020-09-05,47,Say So,Doja Cat Featuring Nicki Minaj,43.0,1,34
-2020-09-05,48,The Box,Roddy Ricch,47.0,1,38
-2020-09-05,49,Nobody's Love,Maroon 5,49.0,41,5
-2020-09-05,50,Heather,Conan Gray,61.0,50,2
-2020-08-29,1,WAP,Cardi B Featuring Megan Thee Stallion,1.0,1,2
-2020-08-29,3,Rockstar,DaBaby Featuring Roddy Ricch,2.0,1,18
-2020-08-29,4,Blinding Lights,The Weeknd,3.0,1,38
-2020-08-29,5,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",4.0,2,28
-2020-08-29,7,Watermelon Sugar,Harry Styles,5.0,1,22
-2020-08-29,8,Roses,SAINt JHN,6.0,4,22
-2020-08-29,9,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,7.0,7,10
-2020-08-29,10,I Hope,Gabby Barrett Featuring Charlie Puth,11.0,10,34
-2020-08-29,11,Go Crazy,Chris Brown & Young Thug,9.0,9,15
-2020-08-29,12,Before You Go,Lewis Capaldi,10.0,10,29
-2020-08-29,13,Break My Heart,Dua Lipa,13.0,13,21
-2020-08-29,15,Adore You,Harry Styles,14.0,6,37
-2020-08-29,16,Circles,Post Malone,15.0,1,51
-2020-08-29,17,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,20.0,6,7
-2020-08-29,18,Come & Go,Juice WRLD x Marshmello,18.0,2,6
-2020-08-29,19,Mood Swings,Pop Smoke Featuring Lil Tjay,17.0,17,7
-2020-08-29,20,Savage,Megan Thee Stallion,16.0,1,23
-2020-08-29,21,Popstar,DJ Khaled Featuring Drake,23.0,3,5
-2020-08-29,22,Rags2Riches,Rod Wave Featuring ATR Son Son,12.0,12,8
-2020-08-29,23,Death Bed,Powfu Featuring beabadoobee,25.0,23,23
-2020-08-29,24,Blueberry Faygo,Lil Mosey,19.0,8,28
-2020-08-29,25,Die From A Broken Heart,Maddie & Tae,22.0,22,19
-2020-08-29,26,Mood,24kGoldn Featuring iann dior,84.0,26,2
-2020-08-29,27,Don't Start Now,Dua Lipa,26.0,2,42
-2020-08-29,28,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,29.0,11,7
-2020-08-29,29,The Bones,Maren Morris,28.0,12,48
-2020-08-29,30,One Margarita,Luke Bryan,21.0,19,16
-2020-08-29,31,Life Is Good,Future Featuring Drake,30.0,2,32
-2020-08-29,32,Wishing Well,Juice WRLD,27.0,5,6
-2020-08-29,33,Cardigan,Taylor Swift,24.0,1,4
-2020-08-29,34,Be Like That,Kane Brown With Swae Lee & Khalid,37.0,34,6
-2020-08-29,35,Smile,Juice WRLD & The Weeknd,8.0,8,2
-2020-08-29,36,Chasin' You,Morgan Wallen,38.0,16,30
-2020-08-29,37,Intentions,Justin Bieber Featuring Quavo,31.0,5,28
-2020-08-29,38,We Paid,Lil Baby & 42 Dugg,32.0,10,16
-2020-08-29,39,Cool Again,Kane Brown,40.0,39,12
-2020-08-29,40,Party Girl,StaySolidRocky,34.0,21,17
-2020-08-29,41,Tap In,Saweetie,44.0,41,6
-2020-08-29,42,Girls In The Hood,Megan Thee Stallion,35.0,28,8
-2020-08-29,43,Say So,Doja Cat Featuring Nicki Minaj,33.0,1,33
-2020-08-29,44,Rain On Me,Lady Gaga & Ariana Grande,36.0,1,13
-2020-08-29,45,Emotionally Scarred,Lil Baby,45.0,31,25
-2020-08-29,46,Got What I Got,Jason Aldean,47.0,46,12
-2020-08-29,47,The Box,Roddy Ricch,42.0,1,37
-2020-08-29,48,If The World Was Ending,JP Saxe Featuring Julia Michaels,48.0,48,21
-2020-08-29,49,Nobody's Love,Maroon 5,41.0,41,4
-2020-08-29,50,Why We Drink,Justin Moore,52.0,50,12
-2020-08-22,2,Rockstar,DaBaby Featuring Roddy Ricch,2.0,1,17
-2020-08-22,3,Blinding Lights,The Weeknd,4.0,1,37
-2020-08-22,4,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",3.0,2,27
-2020-08-22,5,Watermelon Sugar,Harry Styles,1.0,1,21
-2020-08-22,6,Roses,SAINt JHN,5.0,4,21
-2020-08-22,7,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,7.0,7,9
-2020-08-22,9,Go Crazy,Chris Brown & Young Thug,9.0,9,14
-2020-08-22,10,Before You Go,Lewis Capaldi,11.0,10,28
-2020-08-22,11,I Hope,Gabby Barrett Featuring Charlie Puth,15.0,11,33
-2020-08-22,12,Rags2Riches,Rod Wave Featuring ATR Son Son,55.0,12,7
-2020-08-22,13,Break My Heart,Dua Lipa,14.0,13,20
-2020-08-22,14,Adore You,Harry Styles,12.0,6,36
-2020-08-22,15,Circles,Post Malone,16.0,1,50
-2020-08-22,16,Savage,Megan Thee Stallion,13.0,1,22
-2020-08-22,17,Mood Swings,Pop Smoke Featuring Lil Tjay,25.0,17,6
-2020-08-22,18,Come & Go,Juice WRLD x Marshmello,17.0,2,5
-2020-08-22,19,Blueberry Faygo,Lil Mosey,10.0,8,27
-2020-08-22,20,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,20.0,6,6
-2020-08-22,21,One Margarita,Luke Bryan,27.0,19,15
-2020-08-22,22,Die From A Broken Heart,Maddie & Tae,26.0,22,18
-2020-08-22,23,Popstar,DJ Khaled Featuring Drake,18.0,3,4
-2020-08-22,24,Cardigan,Taylor Swift,8.0,1,3
-2020-08-22,25,Death Bed,Powfu Featuring beabadoobee,24.0,23,22
-2020-08-22,26,Don't Start Now,Dua Lipa,22.0,2,41
-2020-08-22,27,Wishing Well,Juice WRLD,21.0,5,5
-2020-08-22,28,The Bones,Maren Morris,28.0,12,47
-2020-08-22,29,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,30.0,11,6
-2020-08-22,30,Life Is Good,Future Featuring Drake,29.0,2,31
-2020-08-22,31,Intentions,Justin Bieber Featuring Quavo,32.0,5,27
-2020-08-22,32,We Paid,Lil Baby & 42 Dugg,31.0,10,15
-2020-08-22,33,Say So,Doja Cat Featuring Nicki Minaj,33.0,1,32
-2020-08-22,34,Party Girl,StaySolidRocky,34.0,21,16
-2020-08-22,35,Girls In The Hood,Megan Thee Stallion,46.0,28,7
-2020-08-22,36,Rain On Me,Lady Gaga & Ariana Grande,35.0,1,12
-2020-08-22,37,Be Like That,Kane Brown With Swae Lee & Khalid,47.0,37,5
-2020-08-22,38,Chasin' You,Morgan Wallen,39.0,16,29
-2020-08-22,39,My Future,Billie Eilish,6.0,6,2
-2020-08-22,40,Cool Again,Kane Brown,67.0,40,11
-2020-08-22,41,Nobody's Love,Maroon 5,45.0,41,3
-2020-08-22,42,The Box,Roddy Ricch,37.0,1,36
-2020-08-22,43,Hard To Forget,Sam Hunt,38.0,26,20
-2020-08-22,44,Tap In,Saweetie,53.0,44,5
-2020-08-22,45,Emotionally Scarred,Lil Baby,44.0,31,24
-2020-08-22,46,The Bigger Picture,Lil Baby,42.0,3,9
-2020-08-22,47,Got What I Got,Jason Aldean,51.0,47,11
-2020-08-22,48,If The World Was Ending,JP Saxe Featuring Julia Michaels,50.0,48,20
-2020-08-22,49,Done,Chris Janson,41.0,41,9
-2020-08-22,50,The 1,Taylor Swift,23.0,4,3
-2020-08-15,1,Watermelon Sugar,Harry Styles,7.0,1,20
-2020-08-15,2,Rockstar,DaBaby Featuring Roddy Ricch,2.0,1,16
-2020-08-15,3,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",3.0,2,26
-2020-08-15,4,Blinding Lights,The Weeknd,5.0,1,36
-2020-08-15,5,Roses,SAINt JHN,8.0,4,20
-2020-08-15,7,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,10.0,7,8
-2020-08-15,8,Cardigan,Taylor Swift,1.0,1,2
-2020-08-15,9,Go Crazy,Chris Brown & Young Thug,12.0,9,13
-2020-08-15,10,Blueberry Faygo,Lil Mosey,11.0,8,26
-2020-08-15,11,Before You Go,Lewis Capaldi,21.0,11,27
-2020-08-15,12,Adore You,Harry Styles,15.0,6,35
-2020-08-15,13,Savage,Megan Thee Stallion,9.0,1,21
-2020-08-15,14,Break My Heart,Dua Lipa,19.0,14,19
-2020-08-15,15,I Hope,Gabby Barrett Featuring Charlie Puth,18.0,15,32
-2020-08-15,16,Circles,Post Malone,20.0,1,49
-2020-08-15,17,Come & Go,Juice WRLD x Marshmello,17.0,2,4
-2020-08-15,18,Popstar,DJ Khaled Featuring Drake,14.0,3,3
-2020-08-15,20,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,32.0,6,5
-2020-08-15,21,Wishing Well,Juice WRLD,22.0,5,4
-2020-08-15,22,Don't Start Now,Dua Lipa,24.0,2,40
-2020-08-15,23,The 1,Taylor Swift,4.0,4,2
-2020-08-15,24,Death Bed,Powfu Featuring beabadoobee,36.0,23,21
-2020-08-15,25,Mood Swings,Pop Smoke Featuring Lil Tjay,59.0,25,5
-2020-08-15,26,Die From A Broken Heart,Maddie & Tae,33.0,26,17
-2020-08-15,27,One Margarita,Luke Bryan,25.0,19,14
-2020-08-15,28,The Bones,Maren Morris,40.0,12,46
-2020-08-15,29,Life Is Good,Future Featuring Drake,30.0,2,30
-2020-08-15,30,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,38.0,11,5
-2020-08-15,31,We Paid,Lil Baby & 42 Dugg,34.0,10,14
-2020-08-15,32,Intentions,Justin Bieber Featuring Quavo,28.0,5,26
-2020-08-15,33,Say So,Doja Cat Featuring Nicki Minaj,27.0,1,31
-2020-08-15,34,Party Girl,StaySolidRocky,31.0,21,15
-2020-08-15,35,Rain On Me,Lady Gaga & Ariana Grande,29.0,1,11
-2020-08-15,36,Exile,Taylor Swift Featuring Bon Iver,6.0,6,2
-2020-08-15,37,The Box,Roddy Ricch,45.0,1,35
-2020-08-15,38,Hard To Forget,Sam Hunt,41.0,26,19
-2020-08-15,39,Chasin' You,Morgan Wallen,49.0,16,28
-2020-08-15,40,Bluebird,Miranda Lambert,43.0,26,18
-2020-08-15,41,Done,Chris Janson,68.0,41,8
-2020-08-15,42,The Bigger Picture,Lil Baby,50.0,3,8
-2020-08-15,44,Emotionally Scarred,Lil Baby,54.0,31,23
-2020-08-15,45,Nobody's Love,Maroon 5,46.0,45,2
-2020-08-15,46,Girls In The Hood,Megan Thee Stallion,61.0,28,6
-2020-08-15,47,Be Like That,Kane Brown With Swae Lee & Khalid,67.0,47,4
-2020-08-15,48,Falling,Trevor Daniel,48.0,17,38
-2020-08-15,49,Supalonely,BENEE Featuring Gus Dapperton,62.0,39,21
-2020-08-15,50,If The World Was Ending,JP Saxe Featuring Julia Michaels,66.0,50,19
-2020-08-08,2,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,15
-2020-08-08,3,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2.0,2,25
-2020-08-08,5,Blinding Lights,The Weeknd,4.0,1,35
-2020-08-08,7,Watermelon Sugar,Harry Styles,7.0,7,19
-2020-08-08,8,Roses,SAINt JHN,5.0,4,19
-2020-08-08,9,Savage,Megan Thee Stallion,6.0,1,20
-2020-08-08,10,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,12.0,10,7
-2020-08-08,11,Blueberry Faygo,Lil Mosey,11.0,8,25
-2020-08-08,12,Go Crazy,Chris Brown & Young Thug,10.0,10,12
-2020-08-08,14,Popstar,DJ Khaled Featuring Drake,3.0,3,2
-2020-08-08,15,Adore You,Harry Styles,15.0,6,34
-2020-08-08,17,Come & Go,Juice WRLD x Marshmello,9.0,2,3
-2020-08-08,18,I Hope,Gabby Barrett Featuring Charlie Puth,16.0,16,31
-2020-08-08,19,Break My Heart,Dua Lipa,17.0,17,18
-2020-08-08,20,Circles,Post Malone,18.0,1,48
-2020-08-08,21,Before You Go,Lewis Capaldi,19.0,19,26
-2020-08-08,22,Wishing Well,Juice WRLD,13.0,5,3
-2020-08-08,24,Don't Start Now,Dua Lipa,27.0,2,39
-2020-08-08,25,One Margarita,Luke Bryan,25.0,19,13
-2020-08-08,27,Say So,Doja Cat Featuring Nicki Minaj,21.0,1,30
-2020-08-08,28,Intentions,Justin Bieber Featuring Quavo,22.0,5,25
-2020-08-08,29,Rain On Me,Lady Gaga & Ariana Grande,14.0,1,10
-2020-08-08,30,Life Is Good,Future Featuring Drake,28.0,2,29
-2020-08-08,31,Party Girl,StaySolidRocky,24.0,21,14
-2020-08-08,32,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,23.0,6,4
-2020-08-08,33,Die From A Broken Heart,Maddie & Tae,35.0,33,16
-2020-08-08,34,We Paid,Lil Baby & 42 Dugg,20.0,10,13
-2020-08-08,36,Death Bed,Powfu Featuring beabadoobee,29.0,23,20
-2020-08-08,38,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,32.0,11,4
-2020-08-08,40,The Bones,Maren Morris,31.0,12,45
-2020-08-08,41,Hard To Forget,Sam Hunt,33.0,26,18
-2020-08-08,43,Bluebird,Miranda Lambert,26.0,26,17
-2020-08-08,45,The Box,Roddy Ricch,34.0,1,34
-2020-08-08,48,Falling,Trevor Daniel,30.0,17,37
-2020-08-08,49,Chasin' You,Morgan Wallen,39.0,16,27
-2020-08-08,50,The Bigger Picture,Lil Baby,37.0,3,7
-2020-08-01,1,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,14
-2020-08-01,2,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",3.0,2,24
-2020-08-01,4,Blinding Lights,The Weeknd,4.0,1,34
-2020-08-01,5,Roses,SAINt JHN,8.0,4,18
-2020-08-01,6,Savage,Megan Thee Stallion,6.0,1,19
-2020-08-01,7,Watermelon Sugar,Harry Styles,11.0,7,18
-2020-08-01,9,Come & Go,Juice WRLD x Marshmello,2.0,2,2
-2020-08-01,10,Go Crazy,Chris Brown & Young Thug,29.0,10,11
-2020-08-01,11,Blueberry Faygo,Lil Mosey,13.0,8,24
-2020-08-01,12,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,19.0,12,6
-2020-08-01,13,Wishing Well,Juice WRLD,5.0,5,2
-2020-08-01,14,Rain On Me,Lady Gaga & Ariana Grande,28.0,1,9
-2020-08-01,15,Adore You,Harry Styles,17.0,6,33
-2020-08-01,16,I Hope,Gabby Barrett Featuring Charlie Puth,23.0,16,30
-2020-08-01,17,Break My Heart,Dua Lipa,24.0,17,17
-2020-08-01,18,Circles,Post Malone,20.0,1,47
-2020-08-01,19,Before You Go,Lewis Capaldi,30.0,19,25
-2020-08-01,20,We Paid,Lil Baby & 42 Dugg,26.0,10,12
-2020-08-01,21,Say So,Doja Cat Featuring Nicki Minaj,18.0,1,29
-2020-08-01,22,Intentions,Justin Bieber Featuring Quavo,21.0,5,24
-2020-08-01,23,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,32.0,6,3
-2020-08-01,24,Party Girl,StaySolidRocky,25.0,21,13
-2020-08-01,25,One Margarita,Luke Bryan,31.0,19,12
-2020-08-01,26,Bluebird,Miranda Lambert,44.0,26,16
-2020-08-01,27,Don't Start Now,Dua Lipa,27.0,2,38
-2020-08-01,28,Life Is Good,Future Featuring Drake,39.0,2,28
-2020-08-01,29,Death Bed,Powfu Featuring beabadoobee,41.0,23,19
-2020-08-01,30,Falling,Trevor Daniel,33.0,17,36
-2020-08-01,31,The Bones,Maren Morris,36.0,12,44
-2020-08-01,32,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,48.0,11,3
-2020-08-01,33,Hard To Forget,Sam Hunt,37.0,26,17
-2020-08-01,34,The Box,Roddy Ricch,40.0,1,33
-2020-08-01,35,Die From A Broken Heart,Maddie & Tae,53.0,35,15
-2020-08-01,36,Hate The Other Side,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,10.0,10,2
-2020-08-01,37,The Bigger Picture,Lil Baby,43.0,3,6
-2020-08-01,38,Conversations,Juice WRLD,7.0,7,2
-2020-08-01,39,Chasin' You,Morgan Wallen,49.0,16,26
-2020-08-01,40,Sunday Best,Surfaces,45.0,19,21
-2020-08-01,41,Rags2Riches,Rod Wave Featuring ATR Son Son,52.0,41,4
-2020-08-01,42,Life's A Mess,Juice WRLD X Halsey,9.0,9,3
-2020-08-01,43,Emotionally Scarred,Lil Baby,55.0,31,21
-2020-08-01,44,Said Sum,Moneybagg Yo,63.0,44,3
-2020-08-01,45,Toosie Slide,Drake,54.0,1,16
-2020-08-01,46,Girls In The Hood,Megan Thee Stallion,57.0,28,4
-2020-08-01,47,Supalonely,BENEE Featuring Gus Dapperton,56.0,39,19
-2020-08-01,48,Walk Em Down,NLE Choppa Featuring Roddy Ricch,58.0,38,18
-2020-08-01,49,Blood On My Jeans,Juice WRLD,12.0,12,2
-2020-08-01,50,One Big Country Song,LOCASH,60.0,50,8
-2020-07-25,1,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,13
-2020-07-25,3,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",3.0,2,23
-2020-07-25,4,Blinding Lights,The Weeknd,2.0,1,33
-2020-07-25,6,Savage,Megan Thee Stallion,4.0,1,18
-2020-07-25,8,Roses,SAINt JHN,5.0,4,17
-2020-07-25,9,Life's A Mess,Juice WRLD X Halsey,74.0,9,2
-2020-07-25,11,Watermelon Sugar,Harry Styles,7.0,7,17
-2020-07-25,13,Blueberry Faygo,Lil Mosey,8.0,8,23
-2020-07-25,17,Adore You,Harry Styles,12.0,6,32
-2020-07-25,18,Say So,Doja Cat Featuring Nicki Minaj,9.0,1,28
-2020-07-25,19,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,29.0,19,5
-2020-07-25,20,Circles,Post Malone,13.0,1,46
-2020-07-25,21,Intentions,Justin Bieber Featuring Quavo,10.0,5,23
-2020-07-25,23,I Hope,Gabby Barrett Featuring Charlie Puth,23.0,16,29
-2020-07-25,24,Break My Heart,Dua Lipa,17.0,17,16
-2020-07-25,25,Party Girl,StaySolidRocky,36.0,21,12
-2020-07-25,26,We Paid,Lil Baby & 42 Dugg,14.0,10,11
-2020-07-25,27,Don't Start Now,Dua Lipa,15.0,2,37
-2020-07-25,28,Rain On Me,Lady Gaga & Ariana Grande,16.0,1,8
-2020-07-25,29,Go Crazy,Chris Brown & Young Thug,28.0,28,10
-2020-07-25,30,Before You Go,Lewis Capaldi,26.0,25,24
-2020-07-25,31,One Margarita,Luke Bryan,19.0,19,11
-2020-07-25,32,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,6.0,6,2
-2020-07-25,33,Falling,Trevor Daniel,25.0,17,35
-2020-07-25,36,The Bones,Maren Morris,18.0,12,43
-2020-07-25,37,Hard To Forget,Sam Hunt,27.0,26,16
-2020-07-25,39,Life Is Good,Future Featuring Drake,24.0,2,27
-2020-07-25,40,The Box,Roddy Ricch,21.0,1,32
-2020-07-25,41,Death Bed,Powfu Featuring beabadoobee,32.0,23,18
-2020-07-25,43,The Bigger Picture,Lil Baby,20.0,3,5
-2020-07-25,44,Bluebird,Miranda Lambert,33.0,33,15
-2020-07-25,45,Sunday Best,Surfaces,30.0,19,20
-2020-07-25,48,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,11.0,11,2
-2020-07-25,49,Chasin' You,Morgan Wallen,35.0,16,25
-2020-07-18,1,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,12
-2020-07-18,2,Blinding Lights,The Weeknd,3.0,1,32
-2020-07-18,3,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2.0,2,22
-2020-07-18,4,Savage,Megan Thee Stallion,4.0,1,17
-2020-07-18,5,Roses,SAINt JHN,5.0,4,16
-2020-07-18,7,Watermelon Sugar,Harry Styles,8.0,7,16
-2020-07-18,8,Blueberry Faygo,Lil Mosey,9.0,8,22
-2020-07-18,9,Say So,Doja Cat Featuring Nicki Minaj,6.0,1,27
-2020-07-18,10,Intentions,Justin Bieber Featuring Quavo,7.0,5,22
-2020-07-18,12,Adore You,Harry Styles,11.0,6,31
-2020-07-18,13,Circles,Post Malone,13.0,1,45
-2020-07-18,14,We Paid,Lil Baby & 42 Dugg,10.0,10,10
-2020-07-18,15,Don't Start Now,Dua Lipa,15.0,2,36
-2020-07-18,16,Rain On Me,Lady Gaga & Ariana Grande,12.0,1,7
-2020-07-18,17,Break My Heart,Dua Lipa,20.0,17,15
-2020-07-18,18,The Bones,Maren Morris,17.0,12,42
-2020-07-18,19,One Margarita,Luke Bryan,22.0,19,10
-2020-07-18,20,The Bigger Picture,Lil Baby,14.0,3,4
-2020-07-18,21,The Box,Roddy Ricch,16.0,1,31
-2020-07-18,22,Dior,Pop Smoke,44.0,22,21
-2020-07-18,23,I Hope,Gabby Barrett Featuring Charlie Puth,21.0,16,28
-2020-07-18,24,Life Is Good,Future Featuring Drake,18.0,2,26
-2020-07-18,25,Falling,Trevor Daniel,19.0,17,34
-2020-07-18,26,Before You Go,Lewis Capaldi,25.0,25,23
-2020-07-18,27,Hard To Forget,Sam Hunt,27.0,26,15
-2020-07-18,28,Go Crazy,Chris Brown & Young Thug,30.0,28,9
-2020-07-18,29,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,31.0,29,4
-2020-07-18,30,Sunday Best,Surfaces,23.0,19,19
-2020-07-18,32,Death Bed,Powfu Featuring beabadoobee,24.0,23,17
-2020-07-18,33,Bluebird,Miranda Lambert,35.0,33,14
-2020-07-18,35,Chasin' You,Morgan Wallen,32.0,16,24
-2020-07-18,36,Party Girl,StaySolidRocky,29.0,21,11
-2020-07-18,38,Toosie Slide,Drake,26.0,1,14
-2020-07-18,40,High Fashion,Roddy Ricch Featuring Mustard,36.0,20,28
-2020-07-18,42,Die From A Broken Heart,Maddie & Tae,45.0,42,13
-2020-07-18,45,Stuck With U,Ariana Grande & Justin Bieber,34.0,1,9
-2020-07-18,46,Emotionally Scarred,Lil Baby,37.0,31,19
-2020-07-18,47,Supalonely,BENEE Featuring Gus Dapperton,41.0,39,17
-2020-07-18,48,Walk Em Down,NLE Choppa Featuring Roddy Ricch,40.0,38,16
-2020-07-18,50,Be Kind,Marshmello & Halsey,39.0,29,10
-2020-07-11,1,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,11
-2020-07-11,2,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",8.0,2,21
-2020-07-11,3,Blinding Lights,The Weeknd,3.0,1,31
-2020-07-11,4,Savage,Megan Thee Stallion,2.0,1,16
-2020-07-11,5,Roses,SAINt JHN,4.0,4,15
-2020-07-11,6,Say So,Doja Cat Featuring Nicki Minaj,6.0,1,26
-2020-07-11,7,Intentions,Justin Bieber Featuring Quavo,5.0,5,21
-2020-07-11,8,Watermelon Sugar,Harry Styles,16.0,8,15
-2020-07-11,9,Blueberry Faygo,Lil Mosey,9.0,9,21
-2020-07-11,10,We Paid,Lil Baby & 42 Dugg,18.0,10,9
-2020-07-11,11,Adore You,Harry Styles,12.0,6,30
-2020-07-11,12,Rain On Me,Lady Gaga & Ariana Grande,11.0,1,6
-2020-07-11,13,Circles,Post Malone,10.0,1,44
-2020-07-11,14,The Bigger Picture,Lil Baby,7.0,3,3
-2020-07-11,15,Don't Start Now,Dua Lipa,14.0,2,35
-2020-07-11,16,The Box,Roddy Ricch,15.0,1,30
-2020-07-11,17,The Bones,Maren Morris,13.0,12,41
-2020-07-11,18,Life Is Good,Future Featuring Drake,21.0,2,25
-2020-07-11,19,Falling,Trevor Daniel,19.0,17,33
-2020-07-11,20,Break My Heart,Dua Lipa,23.0,20,14
-2020-07-11,21,I Hope,Gabby Barrett Featuring Charlie Puth,17.0,16,27
-2020-07-11,22,One Margarita,Luke Bryan,29.0,22,9
-2020-07-11,23,Sunday Best,Surfaces,22.0,19,18
-2020-07-11,24,Death Bed,Powfu Featuring beabadoobee,24.0,23,16
-2020-07-11,25,Before You Go,Lewis Capaldi,27.0,25,22
-2020-07-11,26,Toosie Slide,Drake,20.0,1,13
-2020-07-11,27,Hard To Forget,Sam Hunt,26.0,26,14
-2020-07-11,29,Party Girl,StaySolidRocky,25.0,21,10
-2020-07-11,30,Go Crazy,Chris Brown & Young Thug,32.0,30,8
-2020-07-11,31,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,43.0,31,3
-2020-07-11,32,Chasin' You,Morgan Wallen,30.0,16,23
-2020-07-11,34,Stuck With U,Ariana Grande & Justin Bieber,28.0,1,8
-2020-07-11,35,Bluebird,Miranda Lambert,33.0,33,13
-2020-07-11,36,High Fashion,Roddy Ricch Featuring Mustard,31.0,20,27
-2020-07-11,37,Emotionally Scarred,Lil Baby,36.0,31,18
-2020-07-11,38,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",35.0,1,10
-2020-07-11,39,Be Kind,Marshmello & Halsey,41.0,29,9
-2020-07-11,40,Walk Em Down,NLE Choppa Featuring Roddy Ricch,39.0,38,15
-2020-07-11,41,Supalonely,BENEE Featuring Gus Dapperton,42.0,39,16
-2020-07-11,42,Memories,Maroon 5,40.0,2,41
-2020-07-11,43,Nobody But You,Blake Shelton Duet With Gwen Stefani,44.0,18,25
-2020-07-11,44,Dior,Pop Smoke,46.0,30,20
-2020-07-11,45,Die From A Broken Heart,Maddie & Tae,51.0,45,12
-2020-07-11,46,Hot Girl Bummer,blackbear,47.0,11,42
-2020-07-11,47,Here And Now,Kenny Chesney,38.0,38,13
-2020-07-11,48,I Love My Country,Florida Georgia Line,53.0,48,11
-2020-07-11,50,If The World Was Ending,JP Saxe Featuring Julia Michaels,52.0,50,14
-2020-07-04,1,Rockstar,DaBaby Featuring Roddy Ricch,2.0,1,10
-2020-07-04,2,Savage,Megan Thee Stallion,4.0,1,15
-2020-07-04,3,Blinding Lights,The Weeknd,5.0,1,30
-2020-07-04,4,Roses,SAINt JHN,8.0,4,14
-2020-07-04,5,Intentions,Justin Bieber Featuring Quavo,7.0,5,20
-2020-07-04,6,Say So,Doja Cat Featuring Nicki Minaj,6.0,1,25
-2020-07-04,7,The Bigger Picture,Lil Baby,3.0,3,2
-2020-07-04,8,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",18.0,8,20
-2020-07-04,9,Blueberry Faygo,Lil Mosey,11.0,9,20
-2020-07-04,10,Circles,Post Malone,13.0,1,43
-2020-07-04,11,Rain On Me,Lady Gaga & Ariana Grande,9.0,1,5
-2020-07-04,12,Adore You,Harry Styles,16.0,6,29
-2020-07-04,13,The Bones,Maren Morris,15.0,12,40
-2020-07-04,14,Don't Start Now,Dua Lipa,14.0,2,34
-2020-07-04,15,The Box,Roddy Ricch,10.0,1,29
-2020-07-04,16,Watermelon Sugar,Harry Styles,19.0,16,14
-2020-07-04,17,I Hope,Gabby Barrett Featuring Charlie Puth,23.0,16,26
-2020-07-04,18,We Paid,Lil Baby & 42 Dugg,27.0,18,8
-2020-07-04,19,Falling,Trevor Daniel,20.0,17,32
-2020-07-04,20,Toosie Slide,Drake,12.0,1,12
-2020-07-04,21,Life Is Good,Future Featuring Drake,17.0,2,24
-2020-07-04,22,Sunday Best,Surfaces,21.0,19,17
-2020-07-04,23,Break My Heart,Dua Lipa,25.0,21,13
-2020-07-04,24,Death Bed,Powfu Featuring beabadoobee,24.0,23,15
-2020-07-04,25,Party Girl,StaySolidRocky,22.0,21,9
-2020-07-04,26,Hard To Forget,Sam Hunt,28.0,26,13
-2020-07-04,27,Before You Go,Lewis Capaldi,29.0,27,21
-2020-07-04,28,Stuck With U,Ariana Grande & Justin Bieber,26.0,1,7
-2020-07-04,29,One Margarita,Luke Bryan,35.0,29,8
-2020-07-04,30,Chasin' You,Morgan Wallen,31.0,16,22
-2020-07-04,31,High Fashion,Roddy Ricch Featuring Mustard,30.0,20,26
-2020-07-04,32,Go Crazy,Chris Brown & Young Thug,34.0,32,7
-2020-07-04,33,Bluebird,Miranda Lambert,33.0,33,12
-2020-07-04,34,Trollz,6ix9ine & Nicki Minaj,1.0,1,2
-2020-07-04,35,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",32.0,1,9
-2020-07-04,36,Emotionally Scarred,Lil Baby,37.0,31,17
-2020-07-04,38,Here And Now,Kenny Chesney,46.0,38,12
-2020-07-04,39,Walk Em Down,NLE Choppa Featuring Roddy Ricch,38.0,38,14
-2020-07-04,40,Memories,Maroon 5,39.0,2,40
-2020-07-04,41,Be Kind,Marshmello & Halsey,40.0,29,8
-2020-07-04,42,Supalonely,BENEE Featuring Gus Dapperton,45.0,39,15
-2020-07-04,43,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,81.0,43,2
-2020-07-04,44,Nobody But You,Blake Shelton Duet With Gwen Stefani,44.0,18,24
-2020-07-04,45,I Hope You're Happy Now,Carly Pearce & Lee Brice,41.0,27,25
-2020-07-04,46,Dior,Pop Smoke,49.0,30,19
-2020-07-04,47,Hot Girl Bummer,blackbear,50.0,11,41
-2020-07-04,48,Does To Me,Luke Combs Featuring Eric Church,42.0,20,15
-2020-07-04,49,Everything I Wanted,Billie Eilish,43.0,8,33
-2020-07-04,50,Gooba,6ix9ine,36.0,3,7
-2020-06-27,2,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,9
-2020-06-27,4,Savage,Megan Thee Stallion,2.0,1,14
-2020-06-27,5,Blinding Lights,The Weeknd,3.0,1,29
-2020-06-27,6,Say So,Doja Cat Featuring Nicki Minaj,4.0,1,24
-2020-06-27,7,Intentions,Justin Bieber Featuring Quavo,5.0,5,19
-2020-06-27,8,Roses,SAINt JHN,7.0,7,13
-2020-06-27,9,Rain On Me,Lady Gaga & Ariana Grande,10.0,1,4
-2020-06-27,10,The Box,Roddy Ricch,9.0,1,28
-2020-06-27,11,Blueberry Faygo,Lil Mosey,12.0,11,19
-2020-06-27,12,Toosie Slide,Drake,6.0,1,11
-2020-06-27,13,Circles,Post Malone,11.0,1,42
-2020-06-27,14,Don't Start Now,Dua Lipa,8.0,2,33
-2020-06-27,15,The Bones,Maren Morris,13.0,12,39
-2020-06-27,16,Adore You,Harry Styles,14.0,6,28
-2020-06-27,17,Life Is Good,Future Featuring Drake,15.0,2,23
-2020-06-27,18,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",16.0,16,19
-2020-06-27,19,Watermelon Sugar,Harry Styles,29.0,19,13
-2020-06-27,20,Falling,Trevor Daniel,17.0,17,31
-2020-06-27,21,Sunday Best,Surfaces,19.0,19,16
-2020-06-27,22,Party Girl,StaySolidRocky,21.0,21,8
-2020-06-27,23,I Hope,Gabby Barrett Featuring Charlie Puth,18.0,16,25
-2020-06-27,24,Death Bed,Powfu Featuring beabadoobee,23.0,23,14
-2020-06-27,25,Break My Heart,Dua Lipa,26.0,21,12
-2020-06-27,26,Stuck With U,Ariana Grande & Justin Bieber,20.0,1,6
-2020-06-27,27,We Paid,Lil Baby & 42 Dugg,34.0,27,7
-2020-06-27,28,Hard To Forget,Sam Hunt,30.0,28,12
-2020-06-27,29,Before You Go,Lewis Capaldi,27.0,27,20
-2020-06-27,30,High Fashion,Roddy Ricch Featuring Mustard,24.0,20,25
-2020-06-27,31,Chasin' You,Morgan Wallen,22.0,16,21
-2020-06-27,32,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",25.0,1,8
-2020-06-27,33,Bluebird,Miranda Lambert,45.0,33,11
-2020-06-27,34,Go Crazy,Chris Brown & Young Thug,37.0,34,6
-2020-06-27,35,One Margarita,Luke Bryan,39.0,35,7
-2020-06-27,36,Gooba,6ix9ine,43.0,3,6
-2020-06-27,37,Emotionally Scarred,Lil Baby,47.0,31,16
-2020-06-27,38,Walk Em Down,NLE Choppa Featuring Roddy Ricch,44.0,38,13
-2020-06-27,39,Memories,Maroon 5,32.0,2,39
-2020-06-27,40,Be Kind,Marshmello & Halsey,33.0,29,7
-2020-06-27,41,I Hope You're Happy Now,Carly Pearce & Lee Brice,31.0,27,24
-2020-06-27,42,Does To Me,Luke Combs Featuring Eric Church,28.0,20,14
-2020-06-27,43,Everything I Wanted,Billie Eilish,36.0,8,32
-2020-06-27,44,Nobody But You,Blake Shelton Duet With Gwen Stefani,38.0,18,23
-2020-06-27,45,Supalonely,BENEE Featuring Gus Dapperton,42.0,39,14
-2020-06-27,46,Here And Now,Kenny Chesney,49.0,46,11
-2020-06-27,47,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,41.0,39,21
-2020-06-27,48,After A Few,Travis Denning,35.0,31,12
-2020-06-27,49,Dior,Pop Smoke,48.0,30,18
-2020-06-27,50,Hot Girl Bummer,blackbear,46.0,11,40
-2020-06-20,1,Rockstar,DaBaby Featuring Roddy Ricch,1.0,1,8
-2020-06-20,2,Savage,Megan Thee Stallion,2.0,1,13
-2020-06-20,3,Blinding Lights,The Weeknd,3.0,1,28
-2020-06-20,4,Say So,Doja Cat Featuring Nicki Minaj,4.0,1,23
-2020-06-20,5,Intentions,Justin Bieber Featuring Quavo,8.0,5,18
-2020-06-20,6,Toosie Slide,Drake,6.0,1,10
-2020-06-20,7,Roses,SAINt JHN,10.0,7,12
-2020-06-20,8,Don't Start Now,Dua Lipa,7.0,2,32
-2020-06-20,9,The Box,Roddy Ricch,9.0,1,27
-2020-06-20,10,Rain On Me,Lady Gaga & Ariana Grande,5.0,1,3
-2020-06-20,11,Circles,Post Malone,11.0,1,41
-2020-06-20,12,Blueberry Faygo,Lil Mosey,15.0,12,18
-2020-06-20,13,The Bones,Maren Morris,14.0,12,38
-2020-06-20,14,Adore You,Harry Styles,12.0,6,27
-2020-06-20,15,Life Is Good,Future Featuring Drake,13.0,2,22
-2020-06-20,16,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",21.0,16,18
-2020-06-20,17,Falling,Trevor Daniel,18.0,17,30
-2020-06-20,18,I Hope,Gabby Barrett Featuring Charlie Puth,19.0,16,24
-2020-06-20,19,Sunday Best,Surfaces,20.0,19,15
-2020-06-20,20,Stuck With U,Ariana Grande & Justin Bieber,17.0,1,5
-2020-06-20,21,Party Girl,StaySolidRocky,26.0,21,7
-2020-06-20,22,Chasin' You,Morgan Wallen,16.0,16,20
-2020-06-20,23,Death Bed,Powfu Featuring beabadoobee,24.0,23,13
-2020-06-20,24,High Fashion,Roddy Ricch Featuring Mustard,23.0,20,24
-2020-06-20,25,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",22.0,1,7
-2020-06-20,26,Break My Heart,Dua Lipa,29.0,21,11
-2020-06-20,27,Before You Go,Lewis Capaldi,28.0,27,19
-2020-06-20,28,Does To Me,Luke Combs Featuring Eric Church,25.0,20,13
-2020-06-20,29,Watermelon Sugar,Harry Styles,40.0,29,12
-2020-06-20,30,Hard To Forget,Sam Hunt,30.0,30,11
-2020-06-20,31,I Hope You're Happy Now,Carly Pearce & Lee Brice,27.0,27,23
-2020-06-20,32,Memories,Maroon 5,32.0,2,38
-2020-06-20,33,Be Kind,Marshmello & Halsey,36.0,29,6
-2020-06-20,34,We Paid,Lil Baby & 42 Dugg,55.0,34,6
-2020-06-20,35,After A Few,Travis Denning,31.0,31,11
-2020-06-20,36,Everything I Wanted,Billie Eilish,38.0,8,31
-2020-06-20,37,Go Crazy,Chris Brown & Young Thug,50.0,37,5
-2020-06-20,38,Nobody But You,Blake Shelton Duet With Gwen Stefani,35.0,18,22
-2020-06-20,39,One Margarita,Luke Bryan,44.0,39,6
-2020-06-20,40,My Oh My,Camila Cabello Featuring DaBaby,34.0,12,27
-2020-06-20,41,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,39.0,39,20
-2020-06-20,42,Supalonely,BENEE Featuring Gus Dapperton,43.0,39,13
-2020-06-20,43,Gooba,6ix9ine,37.0,3,5
-2020-06-20,44,Walk Em Down,NLE Choppa Featuring Roddy Ricch,45.0,44,12
-2020-06-20,45,Bluebird,Miranda Lambert,46.0,45,10
-2020-06-20,46,Hot Girl Bummer,blackbear,47.0,11,39
-2020-06-20,47,Emotionally Scarred,Lil Baby,52.0,31,15
-2020-06-20,48,Dior,Pop Smoke,54.0,30,17
-2020-06-20,49,Here And Now,Kenny Chesney,48.0,48,10
-2020-06-20,50,Dance Monkey,Tones And I,49.0,4,36
-2020-06-13,1,Rockstar,DaBaby Featuring Roddy Ricch,3.0,1,7
-2020-06-13,2,Savage,Megan Thee Stallion,2.0,1,12
-2020-06-13,3,Blinding Lights,The Weeknd,4.0,1,27
-2020-06-13,4,Say So,Doja Cat Featuring Nicki Minaj,5.0,1,22
-2020-06-13,5,Rain On Me,Lady Gaga & Ariana Grande,1.0,1,2
-2020-06-13,6,Toosie Slide,Drake,6.0,1,9
-2020-06-13,7,Don't Start Now,Dua Lipa,7.0,2,31
-2020-06-13,8,Intentions,Justin Bieber Featuring Quavo,9.0,8,17
-2020-06-13,9,The Box,Roddy Ricch,8.0,1,26
-2020-06-13,10,Roses,SAINt JHN,14.0,10,11
-2020-06-13,11,Circles,Post Malone,11.0,1,40
-2020-06-13,12,Adore You,Harry Styles,12.0,6,26
-2020-06-13,13,Life Is Good,Future Featuring Drake,10.0,2,21
-2020-06-13,14,The Bones,Maren Morris,13.0,12,37
-2020-06-13,15,Blueberry Faygo,Lil Mosey,16.0,15,17
-2020-06-13,16,Chasin' You,Morgan Wallen,18.0,16,19
-2020-06-13,17,Stuck With U,Ariana Grande & Justin Bieber,15.0,1,4
-2020-06-13,18,Falling,Trevor Daniel,21.0,18,29
-2020-06-13,19,I Hope,Gabby Barrett Featuring Charlie Puth,19.0,16,23
-2020-06-13,20,Sunday Best,Surfaces,24.0,20,14
-2020-06-13,21,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",25.0,21,17
-2020-06-13,22,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",17.0,1,6
-2020-06-13,23,High Fashion,Roddy Ricch Featuring Mustard,23.0,20,23
-2020-06-13,24,Death Bed,Powfu Featuring beabadoobee,26.0,24,12
-2020-06-13,25,Does To Me,Luke Combs Featuring Eric Church,20.0,20,12
-2020-06-13,26,Party Girl,StaySolidRocky,27.0,26,6
-2020-06-13,27,I Hope You're Happy Now,Carly Pearce & Lee Brice,29.0,27,22
-2020-06-13,28,Before You Go,Lewis Capaldi,30.0,28,18
-2020-06-13,29,Break My Heart,Dua Lipa,34.0,21,10
-2020-06-13,30,Hard To Forget,Sam Hunt,37.0,30,10
-2020-06-13,31,After A Few,Travis Denning,33.0,31,10
-2020-06-13,32,Memories,Maroon 5,36.0,2,37
-2020-06-13,34,My Oh My,Camila Cabello Featuring DaBaby,31.0,12,26
-2020-06-13,35,Nobody But You,Blake Shelton Duet With Gwen Stefani,28.0,18,21
-2020-06-13,36,Be Kind,Marshmello & Halsey,39.0,29,5
-2020-06-13,37,Gooba,6ix9ine,22.0,3,4
-2020-06-13,38,Everything I Wanted,Billie Eilish,35.0,8,30
-2020-06-13,39,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,53.0,39,19
-2020-06-13,40,Watermelon Sugar,Harry Styles,45.0,40,11
-2020-06-13,43,Supalonely,BENEE Featuring Gus Dapperton,44.0,39,12
-2020-06-13,44,One Margarita,Luke Bryan,47.0,44,5
-2020-06-13,45,Walk Em Down,NLE Choppa Featuring Roddy Ricch,46.0,45,11
-2020-06-13,46,Bluebird,Miranda Lambert,51.0,46,9
-2020-06-13,47,Hot Girl Bummer,blackbear,43.0,11,38
-2020-06-13,48,Here And Now,Kenny Chesney,69.0,48,9
-2020-06-13,49,Dance Monkey,Tones And I,48.0,4,35
-2020-06-13,50,Go Crazy,Chris Brown & Young Thug,52.0,50,4
-2020-06-06,2,Savage,Megan Thee Stallion,1.0,1,11
-2020-06-06,3,Rockstar,DaBaby Featuring Roddy Ricch,4.0,3,6
-2020-06-06,4,Blinding Lights,The Weeknd,3.0,1,26
-2020-06-06,5,Say So,Doja Cat Featuring Nicki Minaj,2.0,1,21
-2020-06-06,6,Toosie Slide,Drake,5.0,1,8
-2020-06-06,7,Don't Start Now,Dua Lipa,8.0,2,30
-2020-06-06,8,The Box,Roddy Ricch,7.0,1,25
-2020-06-06,9,Intentions,Justin Bieber Featuring Quavo,9.0,8,16
-2020-06-06,10,Life Is Good,Future Featuring Drake,6.0,2,20
-2020-06-06,11,Circles,Post Malone,10.0,1,39
-2020-06-06,12,Adore You,Harry Styles,12.0,6,25
-2020-06-06,13,The Bones,Maren Morris,14.0,12,36
-2020-06-06,14,Roses,SAINt JHN,15.0,14,10
-2020-06-06,15,Stuck With U,Ariana Grande & Justin Bieber,13.0,1,3
-2020-06-06,16,Blueberry Faygo,Lil Mosey,17.0,16,16
-2020-06-06,17,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",16.0,1,5
-2020-06-06,18,Chasin' You,Morgan Wallen,18.0,18,18
-2020-06-06,19,I Hope,Gabby Barrett Featuring Charlie Puth,19.0,16,22
-2020-06-06,20,Does To Me,Luke Combs Featuring Eric Church,22.0,20,11
-2020-06-06,21,Falling,Trevor Daniel,21.0,21,28
-2020-06-06,22,Gooba,6ix9ine,11.0,3,3
-2020-06-06,23,High Fashion,Roddy Ricch Featuring Mustard,24.0,20,22
-2020-06-06,24,Sunday Best,Surfaces,26.0,24,13
-2020-06-06,25,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",28.0,25,16
-2020-06-06,26,Death Bed,Powfu Featuring beabadoobee,29.0,26,11
-2020-06-06,27,Party Girl,StaySolidRocky,38.0,27,5
-2020-06-06,28,Nobody But You,Blake Shelton Duet With Gwen Stefani,23.0,18,20
-2020-06-06,29,I Hope You're Happy Now,Carly Pearce & Lee Brice,35.0,29,21
-2020-06-06,30,Before You Go,Lewis Capaldi,36.0,30,17
-2020-06-06,31,My Oh My,Camila Cabello Featuring DaBaby,25.0,12,25
-2020-06-06,32,In Your Eyes,The Weeknd,58.0,16,10
-2020-06-06,33,After A Few,Travis Denning,37.0,33,9
-2020-06-06,34,Break My Heart,Dua Lipa,39.0,21,9
-2020-06-06,35,Everything I Wanted,Billie Eilish,27.0,8,29
-2020-06-06,36,Memories,Maroon 5,31.0,2,36
-2020-06-06,37,Hard To Forget,Sam Hunt,44.0,37,9
-2020-06-06,39,Be Kind,Marshmello & Halsey,43.0,29,4
-2020-06-06,40,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,42.0,36,11
-2020-06-06,42,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,41.0,26,27
-2020-06-06,43,Hot Girl Bummer,blackbear,46.0,11,37
-2020-06-06,44,Supalonely,BENEE Featuring Gus Dapperton,45.0,39,11
-2020-06-06,45,Watermelon Sugar,Harry Styles,64.0,45,10
-2020-06-06,46,Walk Em Down,NLE Choppa Featuring Roddy Ricch,52.0,46,10
-2020-06-06,47,One Margarita,Luke Bryan,48.0,47,4
-2020-06-06,48,Dance Monkey,Tones And I,47.0,4,34
-2020-06-06,49,Flex,Polo G Featuring Juice WRLD,30.0,30,2
-2020-06-06,50,Sum 2 Prove,Lil Baby,51.0,16,20
-2020-05-30,1,Savage,Megan Thee Stallion,5.0,1,10
-2020-05-30,2,Say So,Doja Cat Featuring Nicki Minaj,2.0,1,20
-2020-05-30,3,Blinding Lights,The Weeknd,4.0,1,25
-2020-05-30,4,Rockstar,DaBaby Featuring Roddy Ricch,8.0,4,5
-2020-05-30,5,Toosie Slide,Drake,6.0,1,7
-2020-05-30,6,Life Is Good,Future Featuring Drake,13.0,2,19
-2020-05-30,7,The Box,Roddy Ricch,7.0,1,24
-2020-05-30,8,Don't Start Now,Dua Lipa,9.0,2,29
-2020-05-30,9,Intentions,Justin Bieber Featuring Quavo,11.0,8,15
-2020-05-30,10,Circles,Post Malone,10.0,1,38
-2020-05-30,11,Gooba,6ix9ine,3.0,3,2
-2020-05-30,12,Adore You,Harry Styles,12.0,6,24
-2020-05-30,13,Stuck With U,Ariana Grande & Justin Bieber,1.0,1,2
-2020-05-30,14,The Bones,Maren Morris,14.0,12,35
-2020-05-30,15,Roses,SAINt JHN,16.0,15,9
-2020-05-30,16,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",15.0,1,4
-2020-05-30,17,Blueberry Faygo,Lil Mosey,20.0,16,15
-2020-05-30,18,Chasin' You,Morgan Wallen,21.0,18,17
-2020-05-30,19,I Hope,Gabby Barrett Featuring Charlie Puth,23.0,16,21
-2020-05-30,20,Someone You Loved,Lewis Capaldi,18.0,1,54
-2020-05-30,21,Falling,Trevor Daniel,22.0,21,27
-2020-05-30,22,Does To Me,Luke Combs Featuring Eric Church,28.0,22,10
-2020-05-30,23,Nobody But You,Blake Shelton Duet With Gwen Stefani,25.0,18,19
-2020-05-30,24,High Fashion,Roddy Ricch Featuring Mustard,26.0,20,21
-2020-05-30,25,My Oh My,Camila Cabello Featuring DaBaby,17.0,12,24
-2020-05-30,26,Sunday Best,Surfaces,29.0,26,12
-2020-05-30,27,Everything I Wanted,Billie Eilish,19.0,8,28
-2020-05-30,28,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",32.0,28,15
-2020-05-30,29,Death Bed,Powfu Featuring beabadoobee,27.0,26,10
-2020-05-30,31,Memories,Maroon 5,24.0,2,35
-2020-05-30,35,I Hope You're Happy Now,Carly Pearce & Lee Brice,34.0,34,20
-2020-05-30,36,Before You Go,Lewis Capaldi,37.0,36,16
-2020-05-30,37,After A Few,Travis Denning,38.0,37,8
-2020-05-30,38,Party Girl,StaySolidRocky,48.0,38,4
-2020-05-30,39,Break My Heart,Dua Lipa,31.0,21,8
-2020-05-30,41,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,30.0,26,26
-2020-05-30,42,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,36.0,36,10
-2020-05-30,43,Be Kind,Marshmello & Halsey,33.0,29,3
-2020-05-30,44,Hard To Forget,Sam Hunt,44.0,40,8
-2020-05-30,45,Supalonely,BENEE Featuring Gus Dapperton,39.0,39,10
-2020-05-30,46,Hot Girl Bummer,blackbear,35.0,11,36
-2020-05-30,47,Dance Monkey,Tones And I,42.0,4,33
-2020-05-30,48,One Margarita,Luke Bryan,69.0,48,3
-2020-05-30,49,Ballin',Mustard & Roddy Ricch,41.0,11,44
-2020-05-30,50,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,58.0,50,17
-2020-05-23,2,Say So,Doja Cat Featuring Nicki Minaj,1.0,1,19
-2020-05-23,4,Blinding Lights,The Weeknd,3.0,1,24
-2020-05-23,5,Savage,Megan Thee Stallion,2.0,2,9
-2020-05-23,6,Toosie Slide,Drake,4.0,1,6
-2020-05-23,7,The Box,Roddy Ricch,5.0,1,23
-2020-05-23,8,Rockstar,DaBaby Featuring Roddy Ricch,9.0,8,4
-2020-05-23,9,Don't Start Now,Dua Lipa,6.0,2,28
-2020-05-23,10,Circles,Post Malone,8.0,1,37
-2020-05-23,11,Intentions,Justin Bieber Featuring Quavo,10.0,8,14
-2020-05-23,12,Adore You,Harry Styles,11.0,6,23
-2020-05-23,13,Life Is Good,Future Featuring Drake,13.0,2,18
-2020-05-23,14,The Bones,Maren Morris,15.0,12,34
-2020-05-23,15,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",12.0,1,3
-2020-05-23,16,Roses,SAINt JHN,20.0,16,8
-2020-05-23,17,My Oh My,Camila Cabello Featuring DaBaby,16.0,12,23
-2020-05-23,18,Someone You Loved,Lewis Capaldi,18.0,1,53
-2020-05-23,19,Everything I Wanted,Billie Eilish,17.0,8,27
-2020-05-23,20,Blueberry Faygo,Lil Mosey,22.0,16,14
-2020-05-23,21,Chasin' You,Morgan Wallen,23.0,21,16
-2020-05-23,22,Falling,Trevor Daniel,28.0,22,26
-2020-05-23,23,I Hope,Gabby Barrett Featuring Charlie Puth,21.0,16,20
-2020-05-23,24,Memories,Maroon 5,26.0,2,34
-2020-05-23,25,Nobody But You,Blake Shelton Duet With Gwen Stefani,24.0,18,18
-2020-05-23,26,High Fashion,Roddy Ricch Featuring Mustard,33.0,20,20
-2020-05-23,27,Death Bed,Powfu Featuring beabadoobee,31.0,26,9
-2020-05-23,28,Does To Me,Luke Combs Featuring Eric Church,36.0,28,9
-2020-05-23,29,Sunday Best,Surfaces,37.0,28,11
-2020-05-23,30,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,38.0,26,25
-2020-05-23,31,Break My Heart,Dua Lipa,40.0,21,7
-2020-05-23,32,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",44.0,32,14
-2020-05-23,33,Be Kind,Marshmello & Halsey,29.0,29,2
-2020-05-23,34,I Hope You're Happy Now,Carly Pearce & Lee Brice,50.0,34,19
-2020-05-23,35,Hot Girl Bummer,blackbear,43.0,11,35
-2020-05-23,36,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,41.0,36,9
-2020-05-23,37,Before You Go,Lewis Capaldi,53.0,37,15
-2020-05-23,38,After A Few,Travis Denning,48.0,38,7
-2020-05-23,39,Supalonely,BENEE Featuring Gus Dapperton,54.0,39,9
-2020-05-23,40,Heart On Ice,Rod Wave,46.0,25,27
-2020-05-23,41,Ballin',Mustard & Roddy Ricch,47.0,11,43
-2020-05-23,42,Dance Monkey,Tones And I,49.0,4,32
-2020-05-23,44,Hard To Forget,Sam Hunt,55.0,40,7
-2020-05-23,45,Sum 2 Prove,Lil Baby,57.0,16,18
-2020-05-23,46,Chicago Freestyle,Drake Featuring Giveon,14.0,14,2
-2020-05-23,47,Level Of Concern,twenty one pilots,60.0,23,5
-2020-05-23,48,Party Girl,StaySolidRocky,64.0,48,3
-2020-05-23,49,Righteous,Juice WRLD,42.0,11,3
-2020-05-16,1,Say So,Doja Cat Featuring Nicki Minaj,6.0,1,18
-2020-05-16,2,Savage,Megan Thee Stallion,4.0,2,8
-2020-05-16,3,Blinding Lights,The Weeknd,2.0,1,23
-2020-05-16,4,Toosie Slide,Drake,3.0,1,5
-2020-05-16,5,The Box,Roddy Ricch,5.0,1,22
-2020-05-16,6,Don't Start Now,Dua Lipa,7.0,2,27
-2020-05-16,8,Circles,Post Malone,8.0,1,36
-2020-05-16,9,Rockstar,DaBaby Featuring Roddy Ricch,14.0,9,3
-2020-05-16,10,Intentions,Justin Bieber Featuring Quavo,9.0,8,13
-2020-05-16,11,Adore You,Harry Styles,10.0,6,22
-2020-05-16,12,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",1.0,1,2
-2020-05-16,13,Life Is Good,Future Featuring Drake,12.0,2,17
-2020-05-16,15,The Bones,Maren Morris,15.0,12,33
-2020-05-16,16,My Oh My,Camila Cabello Featuring DaBaby,13.0,12,22
-2020-05-16,17,Everything I Wanted,Billie Eilish,16.0,8,26
-2020-05-16,18,Someone You Loved,Lewis Capaldi,17.0,1,52
-2020-05-16,20,Roses,SAINt JHN,23.0,20,7
-2020-05-16,21,I Hope,Gabby Barrett Featuring Charlie Puth,19.0,16,19
-2020-05-16,22,Blueberry Faygo,Lil Mosey,20.0,16,13
-2020-05-16,23,Chasin' You,Morgan Wallen,22.0,21,15
-2020-05-16,24,Nobody But You,Blake Shelton Duet With Gwen Stefani,18.0,18,17
-2020-05-16,26,Memories,Maroon 5,21.0,2,33
-2020-05-16,28,Falling,Trevor Daniel,24.0,22,25
-2020-05-16,31,Death Bed,Powfu Featuring beabadoobee,26.0,26,8
-2020-05-16,33,High Fashion,Roddy Ricch Featuring Mustard,25.0,20,19
-2020-05-16,36,Does To Me,Luke Combs Featuring Eric Church,30.0,30,8
-2020-05-16,37,Sunday Best,Surfaces,28.0,28,10
-2020-05-16,38,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,29.0,26,24
-2020-05-16,40,Break My Heart,Dua Lipa,36.0,21,6
-2020-05-16,41,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,40.0,40,8
-2020-05-16,42,Righteous,Juice WRLD,11.0,11,2
-2020-05-16,43,Hot Girl Bummer,blackbear,27.0,11,34
-2020-05-16,44,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",35.0,35,13
-2020-05-16,46,Heart On Ice,Rod Wave,31.0,25,26
-2020-05-16,47,Ballin',Mustard & Roddy Ricch,32.0,11,42
-2020-05-16,48,After A Few,Travis Denning,44.0,44,6
-2020-05-16,49,Dance Monkey,Tones And I,34.0,4,31
-2020-05-16,50,I Hope You're Happy Now,Carly Pearce & Lee Brice,39.0,39,18
-2020-05-09,2,Blinding Lights,The Weeknd,1.0,1,22
-2020-05-09,3,Toosie Slide,Drake,2.0,1,4
-2020-05-09,4,Savage,Megan Thee Stallion,14.0,4,7
-2020-05-09,5,The Box,Roddy Ricch,3.0,1,21
-2020-05-09,6,Say So,Doja Cat Featuring Nicki Minaj,5.0,5,17
-2020-05-09,7,Don't Start Now,Dua Lipa,4.0,2,26
-2020-05-09,8,Circles,Post Malone,6.0,1,35
-2020-05-09,9,Intentions,Justin Bieber Featuring Quavo,8.0,8,12
-2020-05-09,10,Adore You,Harry Styles,7.0,6,21
-2020-05-09,12,Life Is Good,Future Featuring Drake,10.0,2,16
-2020-05-09,13,My Oh My,Camila Cabello Featuring DaBaby,12.0,12,21
-2020-05-09,14,Rockstar,DaBaby Featuring Roddy Ricch,9.0,9,2
-2020-05-09,15,The Bones,Maren Morris,13.0,12,32
-2020-05-09,16,Everything I Wanted,Billie Eilish,11.0,8,25
-2020-05-09,17,Someone You Loved,Lewis Capaldi,15.0,1,51
-2020-05-09,18,Nobody But You,Blake Shelton Duet With Gwen Stefani,20.0,18,16
-2020-05-09,19,I Hope,Gabby Barrett Featuring Charlie Puth,16.0,16,18
-2020-05-09,20,Blueberry Faygo,Lil Mosey,19.0,16,12
-2020-05-09,21,Memories,Maroon 5,18.0,2,32
-2020-05-09,22,Chasin' You,Morgan Wallen,21.0,21,14
-2020-05-09,23,Roses,SAINt JHN,22.0,22,6
-2020-05-09,24,Falling,Trevor Daniel,23.0,22,24
-2020-05-09,25,High Fashion,Roddy Ricch Featuring Mustard,25.0,20,18
-2020-05-09,26,Death Bed,Powfu Featuring beabadoobee,27.0,26,7
-2020-05-09,27,Hot Girl Bummer,blackbear,24.0,11,33
-2020-05-09,28,Sunday Best,Surfaces,38.0,28,9
-2020-05-09,29,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,34.0,26,23
-2020-05-09,30,Does To Me,Luke Combs Featuring Eric Church,40.0,30,7
-2020-05-09,31,Heart On Ice,Rod Wave,29.0,25,25
-2020-05-09,32,Ballin',Mustard & Roddy Ricch,32.0,11,41
-2020-05-09,33,Roxanne,Arizona Zervas,26.0,4,26
-2020-05-09,34,Dance Monkey,Tones And I,31.0,4,30
-2020-05-09,35,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",37.0,35,12
-2020-05-09,36,Break My Heart,Dua Lipa,39.0,21,5
-2020-05-09,37,Heartless,The Weeknd,28.0,1,23
-2020-05-09,39,I Hope You're Happy Now,Carly Pearce & Lee Brice,47.0,39,17
-2020-05-09,40,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,51.0,40,7
-2020-05-09,41,Level Of Concern,twenty one pilots,45.0,23,3
-2020-05-09,42,I Love Me,Demi Lovato,42.0,18,8
-2020-05-09,43,More Hearts Than Mine,Ingrid Andress,30.0,30,18
-2020-05-09,44,After A Few,Travis Denning,56.0,44,5
-2020-05-09,46,"10,000 Hours",Dan + Shay & Justin Bieber,41.0,4,30
-2020-05-09,47,Hard To Forget,Sam Hunt,49.0,40,5
-2020-05-09,48,Supalonely,BENEE Featuring Gus Dapperton,59.0,48,7
-2020-05-09,50,Before You Go,Lewis Capaldi,57.0,50,13
-2020-05-02,1,Blinding Lights,The Weeknd,1.0,1,21
-2020-05-02,2,Toosie Slide,Drake,2.0,1,3
-2020-05-02,3,The Box,Roddy Ricch,3.0,1,20
-2020-05-02,4,Don't Start Now,Dua Lipa,4.0,2,25
-2020-05-02,5,Say So,Doja Cat Featuring Nicki Minaj,5.0,5,16
-2020-05-02,6,Circles,Post Malone,7.0,1,34
-2020-05-02,7,Adore You,Harry Styles,6.0,6,20
-2020-05-02,8,Intentions,Justin Bieber Featuring Quavo,9.0,8,11
-2020-05-02,10,Life Is Good,Future Featuring Drake,8.0,2,15
-2020-05-02,11,Everything I Wanted,Billie Eilish,10.0,8,24
-2020-05-02,12,My Oh My,Camila Cabello Featuring DaBaby,12.0,12,20
-2020-05-02,13,The Bones,Maren Morris,13.0,12,31
-2020-05-02,14,Savage,Megan Thee Stallion,14.0,14,6
-2020-05-02,15,Someone You Loved,Lewis Capaldi,11.0,1,50
-2020-05-02,16,I Hope,Gabby Barrett Featuring Charlie Puth,17.0,16,17
-2020-05-02,18,Memories,Maroon 5,15.0,2,31
-2020-05-02,19,Blueberry Faygo,Lil Mosey,16.0,16,11
-2020-05-02,20,Nobody But You,Blake Shelton Duet With Gwen Stefani,18.0,18,15
-2020-05-02,21,Chasin' You,Morgan Wallen,25.0,21,13
-2020-05-02,22,Roses,SAINt JHN,26.0,22,5
-2020-05-02,23,Falling,Trevor Daniel,22.0,22,23
-2020-05-02,24,Hot Girl Bummer,blackbear,20.0,11,32
-2020-05-02,25,High Fashion,Roddy Ricch Featuring Mustard,29.0,20,17
-2020-05-02,26,Roxanne,Arizona Zervas,19.0,4,25
-2020-05-02,27,Death Bed,Powfu Featuring beabadoobee,30.0,27,6
-2020-05-02,28,Heartless,The Weeknd,21.0,1,22
-2020-05-02,29,Heart On Ice,Rod Wave,28.0,25,24
-2020-05-02,30,More Hearts Than Mine,Ingrid Andress,32.0,30,17
-2020-05-02,31,Dance Monkey,Tones And I,24.0,4,29
-2020-05-02,32,Ballin',Mustard & Roddy Ricch,27.0,11,40
-2020-05-02,33,Find My Way,DaBaby,51.0,22,3
-2020-05-02,34,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,31.0,26,22
-2020-05-02,37,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",36.0,36,11
-2020-05-02,38,Sunday Best,Surfaces,38.0,38,8
-2020-05-02,39,Break My Heart,Dua Lipa,35.0,21,4
-2020-05-02,40,Does To Me,Luke Combs Featuring Eric Church,48.0,40,6
-2020-05-02,41,"10,000 Hours",Dan + Shay & Justin Bieber,34.0,4,29
-2020-05-02,42,I Love Me,Demi Lovato,41.0,18,7
-2020-05-02,43,BOP,DaBaby,39.0,11,30
-2020-05-02,45,Level Of Concern,twenty one pilots,23.0,23,2
-2020-05-02,46,Stupid Love,Lady Gaga,33.0,5,8
-2020-05-02,47,I Hope You're Happy Now,Carly Pearce & Lee Brice,42.0,42,16
-2020-05-02,48,No Guidance,Chris Brown Featuring Drake,40.0,5,46
-2020-05-02,49,Hard To Forget,Sam Hunt,49.0,40,4
-2020-04-25,1,Blinding Lights,The Weeknd,2.0,1,20
-2020-04-25,2,Toosie Slide,Drake,1.0,1,2
-2020-04-25,3,The Box,Roddy Ricch,3.0,1,19
-2020-04-25,4,Don't Start Now,Dua Lipa,4.0,2,24
-2020-04-25,5,Say So,Doja Cat Featuring Nicki Minaj,8.0,5,15
-2020-04-25,6,Adore You,Harry Styles,7.0,6,19
-2020-04-25,7,Circles,Post Malone,6.0,1,33
-2020-04-25,8,Life Is Good,Future Featuring Drake,5.0,2,14
-2020-04-25,9,Intentions,Justin Bieber Featuring Quavo,9.0,8,10
-2020-04-25,10,Everything I Wanted,Billie Eilish,10.0,8,23
-2020-04-25,11,Someone You Loved,Lewis Capaldi,11.0,1,49
-2020-04-25,12,My Oh My,Camila Cabello Featuring DaBaby,13.0,12,19
-2020-04-25,13,The Bones,Maren Morris,12.0,12,30
-2020-04-25,14,Savage,Megan Thee Stallion,14.0,14,5
-2020-04-25,15,Memories,Maroon 5,15.0,2,30
-2020-04-25,16,Blueberry Faygo,Lil Mosey,18.0,16,10
-2020-04-25,17,I Hope,Gabby Barrett Featuring Charlie Puth,20.0,17,16
-2020-04-25,18,Nobody But You,Blake Shelton Duet With Gwen Stefani,24.0,18,14
-2020-04-25,19,Roxanne,Arizona Zervas,16.0,4,24
-2020-04-25,20,Hot Girl Bummer,blackbear,17.0,11,31
-2020-04-25,21,Heartless,The Weeknd,19.0,1,21
-2020-04-25,22,Falling,Trevor Daniel,23.0,22,22
-2020-04-25,24,Dance Monkey,Tones And I,21.0,4,28
-2020-04-25,25,Chasin' You,Morgan Wallen,27.0,25,12
-2020-04-25,26,Roses,SAINt JHN,30.0,26,4
-2020-04-25,27,Ballin',Mustard & Roddy Ricch,26.0,11,39
-2020-04-25,28,Heart On Ice,Rod Wave,25.0,25,23
-2020-04-25,29,High Fashion,Roddy Ricch Featuring Mustard,31.0,20,16
-2020-04-25,30,Death Bed,Powfu Featuring beabadoobee,33.0,30,5
-2020-04-25,31,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,28.0,26,21
-2020-04-25,32,More Hearts Than Mine,Ingrid Andress,37.0,32,16
-2020-04-25,33,Stupid Love,Lady Gaga,32.0,5,7
-2020-04-25,34,"10,000 Hours",Dan + Shay & Justin Bieber,34.0,4,28
-2020-04-25,35,Break My Heart,Dua Lipa,39.0,21,3
-2020-04-25,36,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",36.0,36,10
-2020-04-25,37,Catch,Brett Young,29.0,29,12
-2020-04-25,38,Sunday Best,Surfaces,44.0,38,7
-2020-04-25,39,BOP,DaBaby,35.0,11,29
-2020-04-25,40,No Guidance,Chris Brown Featuring Drake,38.0,5,45
-2020-04-25,41,I Love Me,Demi Lovato,41.0,18,6
-2020-04-25,42,I Hope You're Happy Now,Carly Pearce & Lee Brice,51.0,42,15
-2020-04-25,43,Slide,H.E.R. Featuring YG,45.0,43,17
-2020-04-25,44,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,54.0,44,5
-2020-04-25,45,In Your Eyes,The Weeknd,47.0,16,4
-2020-04-25,46,Dior,Pop Smoke,55.0,30,9
-2020-04-25,47,Suicidal,YNW Melly & Juice WRLD,43.0,20,20
-2020-04-25,48,Does To Me,Luke Combs Featuring Eric Church,50.0,48,5
-2020-04-25,49,Hard To Forget,Sam Hunt,40.0,40,3
-2020-04-25,50,Slow Dance In A Parking Lot,Jordan Davis,42.0,37,15
-2020-04-18,2,Blinding Lights,The Weeknd,1.0,1,19
-2020-04-18,3,The Box,Roddy Ricch,2.0,1,18
-2020-04-18,4,Don't Start Now,Dua Lipa,3.0,2,23
-2020-04-18,5,Life Is Good,Future Featuring Drake,5.0,2,13
-2020-04-18,6,Circles,Post Malone,4.0,1,32
-2020-04-18,7,Adore You,Harry Styles,6.0,6,18
-2020-04-18,8,Say So,Doja Cat Featuring Nicki Minaj,7.0,7,14
-2020-04-18,9,Intentions,Justin Bieber Featuring Quavo,8.0,8,9
-2020-04-18,10,Everything I Wanted,Billie Eilish,9.0,8,22
-2020-04-18,11,Someone You Loved,Lewis Capaldi,10.0,1,48
-2020-04-18,12,The Bones,Maren Morris,14.0,12,29
-2020-04-18,13,My Oh My,Camila Cabello Featuring DaBaby,15.0,13,18
-2020-04-18,14,Savage,Megan Thee Stallion,18.0,14,4
-2020-04-18,15,Memories,Maroon 5,13.0,2,29
-2020-04-18,16,Roxanne,Arizona Zervas,11.0,4,23
-2020-04-18,17,Hot Girl Bummer,blackbear,16.0,11,30
-2020-04-18,18,Blueberry Faygo,Lil Mosey,19.0,18,9
-2020-04-18,19,Heartless,The Weeknd,12.0,1,20
-2020-04-18,20,I Hope,Gabby Barrett Featuring Charlie Puth,22.0,20,15
-2020-04-18,21,Dance Monkey,Tones And I,20.0,4,27
-2020-04-18,23,Falling,Trevor Daniel,25.0,23,21
-2020-04-18,24,Nobody But You,Blake Shelton Duet With Gwen Stefani,32.0,24,13
-2020-04-18,25,Heart On Ice,Rod Wave,30.0,25,22
-2020-04-18,26,Ballin',Mustard & Roddy Ricch,24.0,11,38
-2020-04-18,27,Chasin' You,Morgan Wallen,36.0,27,11
-2020-04-18,28,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,26.0,26,20
-2020-04-18,29,Catch,Brett Young,40.0,29,11
-2020-04-18,30,Roses,SAINt JHN,39.0,30,3
-2020-04-18,31,High Fashion,Roddy Ricch Featuring Mustard,31.0,20,15
-2020-04-18,32,Stupid Love,Lady Gaga,27.0,5,6
-2020-04-18,33,Death Bed,Powfu Featuring beabadoobee,43.0,33,4
-2020-04-18,34,"10,000 Hours",Dan + Shay & Justin Bieber,28.0,4,27
-2020-04-18,35,BOP,DaBaby,29.0,11,28
-2020-04-18,36,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",49.0,36,9
-2020-04-18,37,More Hearts Than Mine,Ingrid Andress,44.0,37,15
-2020-04-18,38,No Guidance,Chris Brown Featuring Drake,35.0,5,44
-2020-04-18,39,Break My Heart,Dua Lipa,21.0,21,2
-2020-04-18,40,Hard To Forget,Sam Hunt,91.0,40,2
-2020-04-18,41,I Love Me,Demi Lovato,41.0,18,5
-2020-04-18,42,Slow Dance In A Parking Lot,Jordan Davis,37.0,37,14
-2020-04-18,43,Suicidal,YNW Melly & Juice WRLD,33.0,20,19
-2020-04-18,44,Sunday Best,Surfaces,52.0,44,6
-2020-04-18,45,Slide,H.E.R. Featuring YG,45.0,45,16
-2020-04-18,46,Turks,"NAV, Gunna & Travis Scott",17.0,17,2
-2020-04-18,47,In Your Eyes,The Weeknd,42.0,16,3
-2020-04-18,48,Homesick,Kane Brown,38.0,35,21
-2020-04-18,49,BEST ON EARTH,Russ & BIA,48.0,46,18
-2020-04-18,50,Does To Me,Luke Combs Featuring Eric Church,59.0,50,4
-2020-04-11,1,Blinding Lights,The Weeknd,1.0,1,18
-2020-04-11,2,The Box,Roddy Ricch,2.0,1,17
-2020-04-11,3,Don't Start Now,Dua Lipa,3.0,2,22
-2020-04-11,4,Circles,Post Malone,5.0,1,31
-2020-04-11,5,Life Is Good,Future Featuring Drake,6.0,2,12
-2020-04-11,6,Adore You,Harry Styles,7.0,6,17
-2020-04-11,7,Say So,Doja Cat Featuring Nicki Minaj,9.0,7,13
-2020-04-11,8,Intentions,Justin Bieber Featuring Quavo,8.0,8,8
-2020-04-11,9,Everything I Wanted,Billie Eilish,12.0,8,21
-2020-04-11,10,Someone You Loved,Lewis Capaldi,11.0,1,47
-2020-04-11,11,Roxanne,Arizona Zervas,10.0,4,22
-2020-04-11,12,Heartless,The Weeknd,4.0,1,19
-2020-04-11,13,Memories,Maroon 5,14.0,2,28
-2020-04-11,14,The Bones,Maren Morris,17.0,14,28
-2020-04-11,15,My Oh My,Camila Cabello Featuring DaBaby,18.0,15,17
-2020-04-11,16,Hot Girl Bummer,blackbear,13.0,11,29
-2020-04-11,18,Savage,Megan Thee Stallion,20.0,18,3
-2020-04-11,19,Blueberry Faygo,Lil Mosey,37.0,19,8
-2020-04-11,20,Dance Monkey,Tones And I,15.0,4,26
-2020-04-11,22,I Hope,Gabby Barrett Featuring Charlie Puth,30.0,22,14
-2020-04-11,24,Ballin',Mustard & Roddy Ricch,23.0,11,37
-2020-04-11,25,Falling,Trevor Daniel,29.0,25,20
-2020-04-11,26,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,26.0,26,19
-2020-04-11,27,Stupid Love,Lady Gaga,27.0,5,5
-2020-04-11,28,"10,000 Hours",Dan + Shay & Justin Bieber,19.0,4,26
-2020-04-11,29,BOP,DaBaby,31.0,11,27
-2020-04-11,30,Heart On Ice,Rod Wave,43.0,30,21
-2020-04-11,31,High Fashion,Roddy Ricch Featuring Mustard,36.0,20,14
-2020-04-11,32,Nobody But You,Blake Shelton Duet With Gwen Stefani,44.0,32,12
-2020-04-11,33,Suicidal,YNW Melly & Juice WRLD,35.0,20,18
-2020-04-11,34,You Should Be Sad,Halsey,33.0,26,12
-2020-04-11,35,No Guidance,Chris Brown Featuring Drake,34.0,5,43
-2020-04-11,36,Chasin' You,Morgan Wallen,53.0,36,10
-2020-04-11,37,Slow Dance In A Parking Lot,Jordan Davis,49.0,37,13
-2020-04-11,38,Homesick,Kane Brown,40.0,35,20
-2020-04-11,39,Roses,SAINt JHN,55.0,39,2
-2020-04-11,40,Catch,Brett Young,61.0,40,10
-2020-04-11,41,I Love Me,Demi Lovato,48.0,18,4
-2020-04-11,42,In Your Eyes,The Weeknd,16.0,16,2
-2020-04-11,43,Death Bed,Powfu Featuring beabadoobee,59.0,43,3
-2020-04-11,44,More Hearts Than Mine,Ingrid Andress,56.0,44,14
-2020-04-11,45,Slide,H.E.R. Featuring YG,51.0,45,15
-2020-04-11,46,Woah,Lil Baby,42.0,15,21
-2020-04-11,47,Godzilla,Eminem Featuring Juice WRLD,38.0,3,11
-2020-04-11,48,BEST ON EARTH,Russ & BIA,52.0,46,17
-2020-04-11,49,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",57.0,48,8
-2020-04-11,50,What She Wants Tonight,Luke Bryan,46.0,46,15
-2020-04-04,1,Blinding Lights,The Weeknd,2.0,1,17
-2020-04-04,2,The Box,Roddy Ricch,1.0,1,16
-2020-04-04,3,Don't Start Now,Dua Lipa,3.0,2,21
-2020-04-04,4,Heartless,The Weeknd,16.0,1,18
-2020-04-04,5,Circles,Post Malone,5.0,1,30
-2020-04-04,6,Life Is Good,Future Featuring Drake,4.0,2,11
-2020-04-04,7,Adore You,Harry Styles,7.0,7,16
-2020-04-04,8,Intentions,Justin Bieber Featuring Quavo,8.0,8,7
-2020-04-04,9,Say So,Doja Cat Featuring Nicki Minaj,14.0,9,12
-2020-04-04,10,Roxanne,Arizona Zervas,6.0,4,21
-2020-04-04,11,Someone You Loved,Lewis Capaldi,9.0,1,46
-2020-04-04,12,Everything I Wanted,Billie Eilish,10.0,8,20
-2020-04-04,13,Hot Girl Bummer,blackbear,11.0,11,28
-2020-04-04,14,Memories,Maroon 5,12.0,2,27
-2020-04-04,15,Dance Monkey,Tones And I,15.0,4,25
-2020-04-04,17,The Bones,Maren Morris,17.0,17,27
-2020-04-04,18,My Oh My,Camila Cabello Featuring DaBaby,18.0,18,16
-2020-04-04,19,"10,000 Hours",Dan + Shay & Justin Bieber,22.0,4,25
-2020-04-04,20,Savage,Megan Thee Stallion,98.0,20,2
-2020-04-04,23,Ballin',Mustard & Roddy Ricch,21.0,11,36
-2020-04-04,26,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,30.0,26,18
-2020-04-04,27,Stupid Love,Lady Gaga,25.0,5,4
-2020-04-04,29,Falling,Trevor Daniel,29.0,25,19
-2020-04-04,30,I Hope,Gabby Barrett Featuring Charlie Puth,36.0,30,13
-2020-04-04,31,BOP,DaBaby,24.0,11,26
-2020-04-04,33,You Should Be Sad,Halsey,34.0,26,11
-2020-04-04,34,No Guidance,Chris Brown Featuring Drake,32.0,5,42
-2020-04-04,35,Suicidal,YNW Melly & Juice WRLD,20.0,20,17
-2020-04-04,36,High Fashion,Roddy Ricch Featuring Mustard,33.0,20,13
-2020-04-04,37,Blueberry Faygo,Lil Mosey,38.0,37,7
-2020-04-04,38,Godzilla,Eminem Featuring Juice WRLD,23.0,3,10
-2020-04-04,40,Homesick,Kane Brown,35.0,35,19
-2020-04-04,42,Woah,Lil Baby,28.0,15,20
-2020-04-04,43,Heart On Ice,Rod Wave,40.0,40,20
-2020-04-04,44,Nobody But You,Blake Shelton Duet With Gwen Stefani,53.0,43,11
-2020-04-04,46,What She Wants Tonight,Luke Bryan,49.0,46,14
-2020-04-04,47,Lose You To Love Me,Selena Gomez,31.0,1,23
-2020-04-04,48,I Love Me,Demi Lovato,43.0,18,3
-2020-04-04,49,Slow Dance In A Parking Lot,Jordan Davis,59.0,49,12
-2020-04-04,50,Homemade,Jake Owen,39.0,39,9
-2020-03-28,1,The Box,Roddy Ricch,1.0,1,15
-2020-03-28,2,Blinding Lights,The Weeknd,4.0,2,16
-2020-03-28,3,Don't Start Now,Dua Lipa,2.0,2,20
-2020-03-28,4,Life Is Good,Future Featuring Drake,3.0,2,10
-2020-03-28,5,Circles,Post Malone,5.0,1,29
-2020-03-28,6,Roxanne,Arizona Zervas,7.0,4,20
-2020-03-28,7,Adore You,Harry Styles,16.0,7,15
-2020-03-28,8,Intentions,Justin Bieber Featuring Quavo,10.0,8,6
-2020-03-28,9,Someone You Loved,Lewis Capaldi,15.0,1,45
-2020-03-28,10,Everything I Wanted,Billie Eilish,14.0,8,19
-2020-03-28,11,Hot Girl Bummer,blackbear,17.0,11,27
-2020-03-28,12,Memories,Maroon 5,13.0,2,26
-2020-03-28,14,Say So,Doja Cat Featuring Nicki Minaj,19.0,14,11
-2020-03-28,15,Dance Monkey,Tones And I,12.0,4,24
-2020-03-28,16,Heartless,The Weeknd,21.0,1,17
-2020-03-28,17,The Bones,Maren Morris,23.0,17,26
-2020-03-28,18,My Oh My,Camila Cabello Featuring DaBaby,26.0,18,15
-2020-03-28,21,Ballin',Mustard & Roddy Ricch,29.0,11,35
-2020-03-28,22,"10,000 Hours",Dan + Shay & Justin Bieber,27.0,4,24
-2020-03-28,23,Godzilla,Eminem Featuring Juice WRLD,32.0,3,9
-2020-03-28,24,BOP,DaBaby,35.0,11,25
-2020-03-28,25,Stupid Love,Lady Gaga,30.0,5,3
-2020-03-28,27,Baby Pluto,Lil Uzi Vert,6.0,6,2
-2020-03-28,28,Woah,Lil Baby,31.0,15,19
-2020-03-28,29,Falling,Trevor Daniel,42.0,25,18
-2020-03-28,30,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,47.0,30,17
-2020-03-28,31,Lose You To Love Me,Selena Gomez,38.0,1,22
-2020-03-28,32,No Guidance,Chris Brown Featuring Drake,46.0,5,41
-2020-03-28,33,High Fashion,Roddy Ricch Featuring Mustard,43.0,20,12
-2020-03-28,34,You Should Be Sad,Halsey,41.0,26,10
-2020-03-28,35,Homesick,Kane Brown,44.0,35,18
-2020-03-28,36,I Hope,Gabby Barrett Featuring Charlie Puth,50.0,36,12
-2020-03-28,37,P2,Lil Uzi Vert,11.0,11,2
-2020-03-28,38,Blueberry Faygo,Lil Mosey,53.0,38,6
-2020-03-28,39,Homemade,Jake Owen,60.0,39,8
-2020-03-28,40,Heart On Ice,Rod Wave,58.0,40,19
-2020-03-28,41,That Way,Lil Uzi Vert,20.0,20,3
-2020-03-28,42,Lo Mein,Lil Uzi Vert,8.0,8,2
-2020-03-28,43,I Love Me,Demi Lovato,18.0,18,2
-2020-03-28,44,Good As Hell,Lizzo,49.0,3,30
-2020-03-28,46,BEST ON EARTH,Russ & BIA,62.0,46,15
-2020-03-28,47,Slide,H.E.R. Featuring YG,61.0,47,13
-2020-03-28,48,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",73.0,48,6
-2020-03-28,49,What She Wants Tonight,Luke Bryan,78.0,49,13
-2020-03-28,50,Dior,Pop Smoke,55.0,30,5
-2020-03-21,1,The Box,Roddy Ricch,1.0,1,14
-2020-03-21,2,Don't Start Now,Dua Lipa,3.0,2,19
-2020-03-21,3,Life Is Good,Future Featuring Drake,2.0,2,9
-2020-03-21,4,Blinding Lights,The Weeknd,7.0,4,15
-2020-03-21,5,Circles,Post Malone,4.0,1,28
-2020-03-21,7,Roxanne,Arizona Zervas,6.0,4,19
-2020-03-21,10,Intentions,Justin Bieber Featuring Quavo,10.0,9,5
-2020-03-21,12,Dance Monkey,Tones And I,8.0,4,23
-2020-03-21,13,Memories,Maroon 5,9.0,2,25
-2020-03-21,14,Everything I Wanted,Billie Eilish,12.0,8,18
-2020-03-21,15,Someone You Loved,Lewis Capaldi,11.0,1,44
-2020-03-21,16,Adore You,Harry Styles,14.0,14,14
-2020-03-21,17,Hot Girl Bummer,blackbear,13.0,13,26
-2020-03-21,19,Say So,Doja Cat Featuring Nicki Minaj,16.0,16,10
-2020-03-21,20,That Way,Lil Uzi Vert,21.0,20,2
-2020-03-21,21,Heartless,The Weeknd,17.0,1,16
-2020-03-21,23,The Bones,Maren Morris,19.0,18,25
-2020-03-21,26,My Oh My,Camila Cabello Featuring DaBaby,25.0,22,14
-2020-03-21,27,"10,000 Hours",Dan + Shay & Justin Bieber,20.0,4,23
-2020-03-21,29,Ballin',Mustard & Roddy Ricch,22.0,11,34
-2020-03-21,30,Stupid Love,Lady Gaga,5.0,5,2
-2020-03-21,31,Woah,Lil Baby,15.0,15,18
-2020-03-21,32,Godzilla,Eminem Featuring Juice WRLD,42.0,3,8
-2020-03-21,35,BOP,DaBaby,24.0,11,24
-2020-03-21,38,Lose You To Love Me,Selena Gomez,27.0,1,21
-2020-03-21,40,P*$$y Fairy (OTW),Jhene Aiko,100.0,40,8
-2020-03-21,41,You Should Be Sad,Halsey,29.0,26,9
-2020-03-21,42,Falling,Trevor Daniel,34.0,25,17
-2020-03-21,43,High Fashion,Roddy Ricch Featuring Mustard,30.0,20,11
-2020-03-21,44,Homesick,Kane Brown,39.0,39,17
-2020-03-21,46,No Guidance,Chris Brown Featuring Drake,37.0,5,40
-2020-03-21,47,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,44.0,36,16
-2020-03-21,49,Good As Hell,Lizzo,35.0,3,29
-2020-03-21,50,I Hope,Gabby Barrett Featuring Charlie Puth,51.0,44,11
-2020-03-14,1,The Box,Roddy Ricch,1.0,1,13
-2020-03-14,2,Life Is Good,Future Featuring Drake,2.0,2,8
-2020-03-14,3,Don't Start Now,Dua Lipa,5.0,3,18
-2020-03-14,4,Circles,Post Malone,3.0,1,27
-2020-03-14,6,Roxanne,Arizona Zervas,6.0,4,18
-2020-03-14,7,Blinding Lights,The Weeknd,8.0,7,14
-2020-03-14,8,Dance Monkey,Tones And I,7.0,4,22
-2020-03-14,9,Memories,Maroon 5,9.0,2,24
-2020-03-14,10,Intentions,Justin Bieber Featuring Quavo,11.0,9,4
-2020-03-14,11,Someone You Loved,Lewis Capaldi,10.0,1,43
-2020-03-14,12,Everything I Wanted,Billie Eilish,12.0,8,17
-2020-03-14,13,Hot Girl Bummer,blackbear,14.0,13,25
-2020-03-14,14,Adore You,Harry Styles,15.0,14,13
-2020-03-14,15,Woah,Lil Baby,24.0,15,17
-2020-03-14,16,Say So,Doja Cat Featuring Nicki Minaj,33.0,16,9
-2020-03-14,17,Heartless,The Weeknd,13.0,1,15
-2020-03-14,19,The Bones,Maren Morris,19.0,18,24
-2020-03-14,20,"10,000 Hours",Dan + Shay & Justin Bieber,16.0,4,22
-2020-03-14,22,Ballin',Mustard & Roddy Ricch,17.0,11,33
-2020-03-14,24,BOP,DaBaby,18.0,11,23
-2020-03-14,25,My Oh My,Camila Cabello Featuring DaBaby,22.0,22,13
-2020-03-14,26,Sum 2 Prove,Lil Baby,46.0,16,8
-2020-03-14,27,Lose You To Love Me,Selena Gomez,21.0,1,20
-2020-03-14,29,You Should Be Sad,Halsey,26.0,26,8
-2020-03-14,30,High Fashion,Roddy Ricch Featuring Mustard,25.0,20,10
-2020-03-14,34,Falling,Trevor Daniel,29.0,25,16
-2020-03-14,35,Good As Hell,Lizzo,27.0,3,28
-2020-03-14,36,Vete,Bad Bunny,99.0,33,14
-2020-03-14,37,No Guidance,Chris Brown Featuring Drake,31.0,5,39
-2020-03-14,39,Homesick,Kane Brown,39.0,39,16
-2020-03-14,40,Yummy,Justin Bieber,23.0,2,9
-2020-03-14,41,What A Man Gotta Do,Jonas Brothers,32.0,16,7
-2020-03-14,42,Godzilla,Eminem Featuring Juice WRLD,37.0,3,7
-2020-03-14,43,Senorita,Shawn Mendes & Camila Cabello,35.0,1,37
-2020-03-14,44,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,38.0,36,15
-2020-03-14,45,Bad Guy,Billie Eilish,36.0,1,49
-2020-03-14,46,Kinfolks,Sam Hunt,34.0,34,21
-2020-03-14,47,Dior,Pop Smoke,30.0,30,3
-2020-03-14,50,One Man Band,Old Dominion,42.0,20,28
-2020-03-07,1,The Box,Roddy Ricch,1.0,1,12
-2020-03-07,2,Life Is Good,Future Featuring Drake,2.0,2,7
-2020-03-07,3,Circles,Post Malone,3.0,1,26
-2020-03-07,5,Don't Start Now,Dua Lipa,5.0,5,17
-2020-03-07,6,Roxanne,Arizona Zervas,6.0,4,17
-2020-03-07,7,Dance Monkey,Tones And I,4.0,4,21
-2020-03-07,8,Blinding Lights,The Weeknd,10.0,8,13
-2020-03-07,9,Memories,Maroon 5,7.0,2,23
-2020-03-07,10,Someone You Loved,Lewis Capaldi,8.0,1,42
-2020-03-07,11,Intentions,Justin Bieber Featuring Quavo,9.0,9,3
-2020-03-07,12,Everything I Wanted,Billie Eilish,12.0,8,16
-2020-03-07,13,Heartless,The Weeknd,14.0,1,14
-2020-03-07,14,Hot Girl Bummer,blackbear,15.0,14,24
-2020-03-07,15,Adore You,Harry Styles,20.0,15,12
-2020-03-07,16,"10,000 Hours",Dan + Shay & Justin Bieber,13.0,4,21
-2020-03-07,17,Ballin',Mustard & Roddy Ricch,17.0,11,32
-2020-03-07,18,BOP,DaBaby,18.0,11,22
-2020-03-07,19,The Bones,Maren Morris,19.0,18,23
-2020-03-07,20,After Hours,The Weeknd,77.0,20,2
-2020-03-07,21,Lose You To Love Me,Selena Gomez,21.0,1,19
-2020-03-07,22,My Oh My,Camila Cabello Featuring DaBaby,25.0,22,12
-2020-03-07,23,Yummy,Justin Bieber,11.0,2,8
-2020-03-07,24,Woah,Lil Baby,28.0,16,16
-2020-03-07,25,High Fashion,Roddy Ricch Featuring Mustard,26.0,20,9
-2020-03-07,26,You Should Be Sad,Halsey,29.0,26,7
-2020-03-07,27,Good As Hell,Lizzo,22.0,3,27
-2020-03-07,29,Falling,Trevor Daniel,27.0,25,15
-2020-03-07,30,Dior,Pop Smoke,49.0,30,2
-2020-03-07,31,No Guidance,Chris Brown Featuring Drake,31.0,5,38
-2020-03-07,32,What A Man Gotta Do,Jonas Brothers,33.0,16,6
-2020-03-07,33,Say So,Doja Cat Featuring Nicki Minaj,51.0,33,8
-2020-03-07,34,Kinfolks,Sam Hunt,34.0,34,20
-2020-03-07,35,Senorita,Shawn Mendes & Camila Cabello,32.0,1,36
-2020-03-07,36,Bad Guy,Billie Eilish,30.0,1,48
-2020-03-07,37,Godzilla,Eminem Featuring Juice WRLD,36.0,3,6
-2020-03-07,38,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,40.0,36,14
-2020-03-07,39,Homesick,Kane Brown,43.0,39,15
-2020-03-07,40,HIGHEST IN THE ROOM,Travis Scott,35.0,1,21
-2020-03-07,41,Trampoline,SHAED,37.0,13,39
-2020-03-07,42,One Man Band,Old Dominion,38.0,20,27
-2020-03-07,43,Sucker,Jonas Brothers,41.0,1,47
-2020-03-07,44,I Don't Care,Ed Sheeran & Justin Bieber,39.0,2,39
-2020-03-07,45,I Hope,Gabby Barrett Featuring Charlie Puth,44.0,44,9
-2020-03-07,46,Sum 2 Prove,Lil Baby,50.0,16,7
-2020-03-07,48,Only Human,Jonas Brothers,42.0,18,36
-2020-03-07,49,Make Me Want To,Jimmie Allen,53.0,49,9
-2020-03-07,50,Numbers,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",23.0,23,2
-2020-02-29,1,The Box,Roddy Ricch,1.0,1,11
-2020-02-29,2,Life Is Good,Future Featuring Drake,2.0,2,6
-2020-02-29,3,Circles,Post Malone,3.0,1,25
-2020-02-29,4,Dance Monkey,Tones And I,5.0,4,20
-2020-02-29,5,Don't Start Now,Dua Lipa,6.0,5,16
-2020-02-29,6,Roxanne,Arizona Zervas,7.0,4,16
-2020-02-29,7,Memories,Maroon 5,4.0,2,22
-2020-02-29,8,Someone You Loved,Lewis Capaldi,8.0,1,41
-2020-02-29,9,Intentions,Justin Bieber Featuring Quavo,11.0,9,2
-2020-02-29,10,Blinding Lights,The Weeknd,12.0,10,12
-2020-02-29,11,Yummy,Justin Bieber,19.0,2,7
-2020-02-29,12,Everything I Wanted,Billie Eilish,10.0,8,15
-2020-02-29,13,"10,000 Hours",Dan + Shay & Justin Bieber,9.0,4,20
-2020-02-29,14,Heartless,The Weeknd,17.0,1,13
-2020-02-29,15,Hot Girl Bummer,blackbear,16.0,15,23
-2020-02-29,17,Ballin',Mustard & Roddy Ricch,14.0,11,31
-2020-02-29,18,BOP,DaBaby,15.0,11,21
-2020-02-29,19,The Bones,Maren Morris,18.0,18,22
-2020-02-29,20,Adore You,Harry Styles,22.0,20,11
-2020-02-29,21,Lose You To Love Me,Selena Gomez,13.0,1,18
-2020-02-29,22,Good As Hell,Lizzo,20.0,3,26
-2020-02-29,25,My Oh My,Camila Cabello Featuring DaBaby,26.0,25,11
-2020-02-29,26,High Fashion,Roddy Ricch Featuring Mustard,21.0,20,8
-2020-02-29,27,Falling,Trevor Daniel,25.0,25,14
-2020-02-29,28,Woah,Lil Baby,24.0,16,15
-2020-02-29,29,You Should Be Sad,Halsey,31.0,26,6
-2020-02-29,30,Bad Guy,Billie Eilish,29.0,1,47
-2020-02-29,31,No Guidance,Chris Brown Featuring Drake,27.0,5,37
-2020-02-29,32,Senorita,Shawn Mendes & Camila Cabello,33.0,1,35
-2020-02-29,33,What A Man Gotta Do,Jonas Brothers,32.0,16,5
-2020-02-29,34,Kinfolks,Sam Hunt,34.0,34,19
-2020-02-29,35,HIGHEST IN THE ROOM,Travis Scott,30.0,1,20
-2020-02-29,36,Godzilla,Eminem Featuring Juice WRLD,28.0,3,5
-2020-02-29,37,Trampoline,SHAED,35.0,13,38
-2020-02-29,38,One Man Band,Old Dominion,38.0,20,26
-2020-02-29,39,I Don't Care,Ed Sheeran & Justin Bieber,40.0,2,38
-2020-02-29,40,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,36.0,36,13
-2020-02-29,41,Sucker,Jonas Brothers,37.0,1,46
-2020-02-29,42,Only Human,Jonas Brothers,39.0,18,35
-2020-02-29,43,Homesick,Kane Brown,45.0,43,14
-2020-02-29,44,I Hope,Gabby Barrett Featuring Charlie Puth,48.0,44,8
-2020-02-29,45,Truth Hurts,Lizzo,41.0,1,42
-2020-02-29,47,Tusa,Karol G & Nicki Minaj,42.0,42,12
-2020-02-29,50,Sum 2 Prove,Lil Baby,49.0,16,6
-2020-02-22,1,The Box,Roddy Ricch,1.0,1,10
-2020-02-22,2,Life Is Good,Future Featuring Drake,2.0,2,5
-2020-02-22,3,Circles,Post Malone,3.0,1,24
-2020-02-22,4,Memories,Maroon 5,4.0,2,21
-2020-02-22,5,Dance Monkey,Tones And I,5.0,5,19
-2020-02-22,6,Don't Start Now,Dua Lipa,9.0,6,15
-2020-02-22,7,Roxanne,Arizona Zervas,7.0,4,15
-2020-02-22,8,Someone You Loved,Lewis Capaldi,6.0,1,40
-2020-02-22,9,"10,000 Hours",Dan + Shay & Justin Bieber,8.0,4,19
-2020-02-22,10,Everything I Wanted,Billie Eilish,10.0,8,14
-2020-02-22,12,Blinding Lights,The Weeknd,15.0,11,11
-2020-02-22,13,Lose You To Love Me,Selena Gomez,11.0,1,17
-2020-02-22,14,Ballin',Mustard & Roddy Ricch,12.0,11,30
-2020-02-22,15,BOP,DaBaby,13.0,11,20
-2020-02-22,16,Hot Girl Bummer,blackbear,19.0,16,22
-2020-02-22,17,Heartless,The Weeknd,17.0,1,12
-2020-02-22,18,The Bones,Maren Morris,18.0,18,21
-2020-02-22,19,Yummy,Justin Bieber,14.0,2,6
-2020-02-22,20,Good As Hell,Lizzo,16.0,3,25
-2020-02-22,21,High Fashion,Roddy Ricch Featuring Mustard,21.0,20,7
-2020-02-22,22,Adore You,Harry Styles,23.0,22,10
-2020-02-22,24,Woah,Lil Baby,24.0,16,14
-2020-02-22,25,Falling,Trevor Daniel,27.0,25,13
-2020-02-22,26,My Oh My,Camila Cabello Featuring DaBaby,31.0,26,10
-2020-02-22,27,No Guidance,Chris Brown Featuring Drake,22.0,5,36
-2020-02-22,28,Godzilla,Eminem Featuring Juice WRLD,20.0,3,4
-2020-02-22,29,Bad Guy,Billie Eilish,25.0,1,46
-2020-02-22,30,HIGHEST IN THE ROOM,Travis Scott,26.0,1,19
-2020-02-22,31,You Should Be Sad,Halsey,30.0,26,5
-2020-02-22,32,What A Man Gotta Do,Jonas Brothers,29.0,16,4
-2020-02-22,33,Senorita,Shawn Mendes & Camila Cabello,28.0,1,34
-2020-02-22,34,Kinfolks,Sam Hunt,34.0,34,18
-2020-02-22,35,Trampoline,SHAED,32.0,13,37
-2020-02-22,36,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,44.0,36,12
+song,artist,peak-rank,weeks-on-board
+(There's No Place Like) Home For The Holidays,Perry Como,32,6
+...Ready For It?,Taylor Swift,4,20
+1 Night,Lil Yachty,49,20
+1-800-273-8255,Logic Featuring Alessia Cara & Khalid,3,42
+10 Freaky Girls,Metro Boomin Featuring 21 Savage,42,4
+"10,000 Hours",Dan + Shay & Justin Bieber,4,30
+1400 / 999 Freestyle,Trippie Redd Featuring Juice WRLD,55,3
+1942,G-Eazy Featuring Yo Gotti & YBN Nahmir,70,8
+1985 (Intro To The Fall Off),J. Cole,20,2
+21,Polo G,62,8
+223's,YNW Melly & 9lokknine,34,19
+24,Money Man Featuring Lil Baby,49,14
+24/7,Meek Mill Featuring Ella Mai,54,19
+24K Magic,Bruno Mars,4,41
+2U,David Guetta Featuring Justin Bieber,16,11
+3 Headed Goat,Lil Durk Featuring Lil Baby & Polo G,43,16
+31 Days,Future,65,2
+34+35,Ariana Grande,8,7
+4 AM,2 Chainz Featuring Travis Scott,55,12
+44 Bulldog,Pop Smoke,39,2
+44 More,Logic,22,5
+4422,Drake Featuring Sampha,50,2
+444+222,Lil Uzi Vert,60,3
+4:44,JAY-Z,35,2
+5% Tint,Travis Scott,36,2
+6 Kiss,Trippie Redd Featuring Juice WRLD & YNW Melly,60,4
+7 Rings,Ariana Grande,1,33
+7 Summers,Morgan Wallen,6,17
+8 Out Of 10,Drake,21,3
+80s Mercedes,Maren Morris,74,13
+92 Explorer,Post Malone,40,3
+A Guy With A Girl,Blake Shelton,42,17
+A Holly Jolly Christmas,Burl Ives,4,18
+A Lot,21 Savage,12,23
+A Thousand Bad Times,Post Malone,29,3
+ATM,J. Cole,6,5
+Act Up,City Girls,26,21
+Adicto,"Tainy, Anuel AA & Ozuna",86,2
+Adore You,Harry Styles,6,50
+Africa,Weezer,51,15
+After A Few,Travis Denning,31,15
+After Dark,Drake Featuring Static Major & Ty Dolla $ign,41,3
+After Hours,The Weeknd,20,7
+After Party,Don Toliver,57,20
+Aim For The Moon,Pop Smoke Featuring Quavo,34,2
+Ain't Always The Cowboy,Jon Pardi,55,16
+All Dat,Moneybagg Yo X Megan Thee Stallion,70,4
+All Girls Are The Same,Juice WRLD,41,20
+All I Want,Olivia Rodrigo,90,2
+All I Want For Christmas Is You,Mariah Carey,1,42
+All In,Lil Baby,45,8
+All In,YoungBoy Never Broke Again,90,2
+All Mine,Kanye West,11,9
+All My Friends,21 Savage,67,2
+All On Me,Devin Dawson,52,20
+All The Good Girls Go To Hell,Billie Eilish,46,7
+All The Pretty Girls,Kenny Chesney,63,14
+All The Stars,Kendrick Lamar & SZA,7,21
+All Time Low,Jon Bellion,16,22
+All To Myself,Dan + Shay,31,20
+All We Know,The Chainsmokers Featuring Phoebe Ryan,18,16
+Allergic,Post Malone,37,2
+Alone,Halsey Featuring Big Sean & Stefflon Don,66,14
+Alone,Marshmello,60,10
+Always Remember Us This Way,Lady Gaga,41,9
+Antisocial,Ed Sheeran & Travis Scott,37,4
+Any Ol' Barstool,Jason Aldean,52,18
+Anyone,Demi Lovato,34,2
+Apes**t,The Carters,13,15
+Armed And Dangerous,Juice WRLD,44,17
+Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,28,17
+Ask Me How I Know,Garth Brooks,71,7
+At My Best,Machine Gun Kelly Featuring Hailee Steinfeld,60,8
+At The Club,Jacquees X Dej Loaf,86,7
+Attention,Charlie Puth,5,40
+August,Taylor Swift,23,2
+B*tch From da Souf,Mulatto,95,3
+B.E.D.,Jacquees,69,13
+B.I.T.C.H.,Megan Thee Stallion,31,10
+B.S.,Jhene Aiko Featuring H.E.R.,24,20
+BAD!,XXXTENTACION,16,10
+BBO (Bad Bitches Only),Migos Featuring 21 Savage,48,2
+BEBE,6ix9ine Featuring Anuel AA,30,4
+BEST ON EARTH,Russ & BIA,46,20
+BLOW,Ed Sheeran With Chris Stapleton & Bruno Mars,60,2
+BOP,DaBaby,11,30
+Baby,Lil Baby & DaBaby,21,20
+Baby Pluto,Lil Uzi Vert,6,4
+Baby Shark,Pinkfong,32,20
+Baby Sitter,DaBaby Featuring Offset,59,20
+Bacc At It Again,"Yella Beezy, Gucci Mane & Quavo",78,6
+Back To The Streets,Saweetie Featuring Jhene Aiko,76,4
+Back To You,Louis Tomlinson Featuring Bebe Rexha & Digital Farm Animals,40,10
+Back To You,Selena Gomez,18,26
+Backin' It Up,Pardison Fontaine Featuring Cardi B,40,20
+Bad And Boujee,Migos Featuring Lil Uzi Vert,1,36
+Bad At Love,Halsey,5,33
+Bad Bad Bad,Young Thug Featuring Lil Baby,32,9
+Bad Energy,Juice WRLD,16,2
+Bad Guy,Billie Eilish,1,49
+Bad Idea,Ariana Grande,27,3
+Bad Liar,Imagine Dragons,56,9
+Bad Liar,Selena Gomez,20,14
+Bad Things,Machine Gun Kelly x Camila Cabello,4,23
+Baguettes In The Face,"Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",81,6
+Baila Baila Baila,Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA,69,9
+Ball For Me,Post Malone Featuring Nicki Minaj,16,14
+Ballin',Mustard & Roddy Ricch,11,44
+Bandit,Juice WRLD & YoungBoy Never Broke Again,10,20
+Bang!,AJR,24,24
+Bank Account,21 Savage,12,29
+Barbie Dreams,Nicki Minaj,18,7
+Barbie Tingz,Nicki Minaj,25,3
+Bartier Cardi,Cardi B Featuring 21 Savage,14,20
+Be A Light,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",42,22
+Be Alright,Dean Lewis,23,29
+Be Careful,Cardi B,11,20
+Be Kind,Marshmello & Halsey,29,15
+Be Like That,Kane Brown With Swae Lee & Khalid,19,21
+Be Something,Polo G Featuring Lil Baby,57,2
+Bean (Kobe),Lil Uzi Vert Featuring Chief Keef,19,2
+Beautiful,Bazzi Featuring Camila Cabello,26,27
+Beautiful Crazy,Luke Combs,21,31
+Beautiful People,Ed Sheeran Featuring Khalid,13,26
+Beautiful Trauma,P!nk,78,15
+Bed,Nicki Minaj Featuring Ariana Grande,42,10
+Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,36,18
+Beer Never Broke My Heart,Luke Combs,21,21
+Beers And Sunshine,Darius Rucker,93,2
+Before I Let Go,Beyonce,65,16
+Before You Go,Lewis Capaldi,9,44
+Behind Barz,Drake,75,2
+Beibs In The Trap,Travis Scott,90,3
+Believe It,PARTYNEXTDOOR & Rihanna,23,14
+Believer,Imagine Dragons,4,52
+Best Friend,"Sofi Tukker Featuring NERVO, The Knocks & Alisa Ueno",81,5
+Best Life,Cardi B Featuring Chance The Rapper,39,3
+Best Part,Daniel Caesar Featuring H.E.R.,75,19
+Best Shot,Jimmie Allen,37,20
+Betrayed,Lil Xan,64,20
+Better,Khalid,8,48
+Better Man,Little Big Town,34,20
+Better Now,Post Malone,3,52
+Better Together,Luke Combs,30,11
+Betty,Taylor Swift,42,2
+Bichota,Karol G,89,3
+Bickenhead,Cardi B,43,2
+Big Bank,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",16,24
+Big Ole Freak,Megan Thee Stallion,65,12
+Big Shot,Kendrick Lamar & Travis Scott,71,2
+"Big, Big Plans",Chris Lane,42,11
+Bigger > You,"2 Chainz, Drake & Quavo",53,2
+Billy,6ix9ine,50,8
+Black,Dierks Bentley,56,19
+Black Beatles,Rae Sremmurd Featuring Gucci Mane,1,27
+Black Parade,Beyonce,37,2
+Blame It On Me,Post Malone,47,2
+Blem,Drake,38,4
+Blind,DaBaby Featuring Young Thug,74,9
+Blinding Lights,The Weeknd,1,55
+Blood On My Jeans,Juice WRLD,12,4
+Bloodline,Ariana Grande,22,3
+Bloody Valentine,Machine Gun Kelly,50,4
+Blue Ain't Your Color,Keith Urban,24,21
+Blue Tacoma,Russell Dickerson,52,18
+Blue Tint,Drake,30,3
+Blue World,Mac Miller,38,2
+Blueberry Faygo,Lil Mosey,8,33
+Bluebird,Miranda Lambert,26,20
+Bodak Yellow (Money Moves),Cardi B,1,35
+Body,Loud Luxury Featuring Brando,80,8
+Body,Megan Thee Stallion,12,4
+Body Like A Back Road,Sam Hunt,6,41
+Bohemian Rhapsody,Queen,2,44
+Bon Appetit,Katy Perry Featuring Migos,59,6
+Boo'd Up,Ella Mai,5,35
+Booty,Blac Youngsta,73,5
+Born To Be Yours,Kygo & Imagine Dragons,74,2
+Boss,The Carters,77,2
+Both,Gucci Mane Featuring Drake,41,22
+Bounce Back,Big Sean,6,28
+Boy With Luv,BTS Featuring Halsey,8,8
+Boyfriend,Ariana Grande & Social House,8,12
+Break My Heart,Dua Lipa,13,32
+Break Up In The End,Cole Swindell,49,17
+"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,2,20
+Breaking Me,Topic & A7S,53,13
+Breathin,Ariana Grande,12,25
+Broccoli,D.R.A.M. Featuring Lil Yachty,5,37
+Broke In A Minute,Tory Lanez,64,2
+Broken,lovelytheband,29,22
+Broken Clocks,SZA,82,4
+Broken Halos,Chris Stapleton,45,20
+Burn Out,Midland,63,9
+Burning Man,Dierks Bentley Featuring Brothers Osborne,45,17
+Bury A Friend,Billie Eilish,14,20
+Butterfly Doors,Lil Pump,81,2
+Butterfly Effect,Travis Scott,51,22
+Buy My Own Drinks,Runaway June,88,5
+Cake,Flo Rida & 99 Percent,73,6
+Call It What You Want,Taylor Swift,27,2
+Call On Me,Starley,65,18
+Call Out My Name,The Weeknd,4,18
+Call You Mine,The Chainsmokers & Bebe Rexha,56,14
+Callaita,Bad Bunny & Tainy,52,20
+Calling My Spirit,Kodak Black,46,17
+Calma,Pedro Capo X Farruko,71,20
+Camelot,NLE Choppa,37,20
+Can't Be Broken,Lil Wayne,17,2
+Can't Die,Juice WRLD,50,2
+Can't Have Everything,Drake,82,2
+Can't Leave Without It,21 Savage,58,4
+Can't Say,Travis Scott,38,2
+Can't Stop The Feeling!,Justin Timberlake,1,52
+Can't Take A Joke,Drake,18,4
+Candy,Doja Cat,86,6
+Candy Paint,Post Malone,50,20
+Captain Hook,Megan Thee Stallion,74,4
+Caramelo,Ozuna x Karol G x Myke Towers,76,10
+Cardigan,Taylor Swift,1,14
+Caroline,Amine,11,28
+Carousel,Travis Scott,24,2
+Carter Son,YoungBoy Never Broke Again,62,2
+Cash Me Outside (#CashMeOutside),DJ Suede The Remix God,72,3
+Cash Shit,Megan Thee Stallion Featuring DaBaby,36,20
+Castle On The Hill,Ed Sheeran,6,33
+Catch,Brett Young,29,16
+Chained To The Rhythm,Katy Perry Featuring Skip Marley,4,15
+Champagne Night,Lady A,75,8
+Chanel (Go Get It),Young Thug Featuring Gunna & Lil Baby,78,3
+Change,J. Cole,21,2
+Changes,XXXTENTACION,18,20
+Chantaje,Shakira Featuring Maluma,51,18
+Chasin' You,Morgan Wallen,16,36
+Cheap Thrills,Sia Featuring Sean Paul,1,52
+Chicago Freestyle,Drake Featuring Giveon,14,12
+Chill Bill,Rob $tone Featuring J. Davi$ & Spooks,29,26
+China,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",43,17
+Christmas (Baby Please Come Home),Darlene Love,29,6
+Chun-Li,Nicki Minaj,10,16
+Circles,Post Malone,1,61
+Close Friends,Lil Baby,28,33
+Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,24,25
+Closed On Sunday,Kanye West,17,2
+Closer,The Chainsmokers Featuring Halsey,1,52
+Clout,Offset Featuring Cardi B,39,20
+Codeine Dreaming,Kodak Black Featuring Lil Wayne,52,14
+Cold,Maroon 5 Featuring Future,16,20
+Cold Water,Major Lazer Featuring Justin Bieber & MO,2,27
+Come & Go,Juice WRLD x Marshmello,2,20
+Come Thru,Summer Walker & Usher,42,19
+Comin Out Strong,Future Featuring The Weeknd,48,3
+Coming Home,Keith Urban Featuring Julia Michaels,50,7
+Commercial,Lil Baby Featuring Lil Uzi Vert,23,2
+Con Calma,Daddy Yankee & Katy Perry Featuring Snow,22,25
+Congratulations,Post Malone Featuring Quavo,8,50
+Consequences,Camila Cabello,51,12
+Conversations,Juice WRLD,7,6
+Cool,Jonas Brothers,27,17
+Cool Again,Kane Brown,29,20
+Cooler Than A Bitch,Gunna Featuring Roddy Ricch,41,3
+Corazon,Maluma X Nego do Borel,87,9
+Cozy Little Christmas,Katy Perry,53,2
+Craving You,Thomas Rhett Featuring Maren Morris,39,20
+Crew,GoldLink Featuring Brent Faiyaz & Shy Glizzy,45,21
+Criminal,Natti Natasha x Ozuna,95,3
+Cross Me,Ed Sheeran Featuring Chance The Rapper & PnB Rock,25,10
+Cruel Summer,Taylor Swift,29,2
+Crushed Up,Future,43,5
+Cry Pretty,Carrie Underwood,48,11
+Crying In The Club,Camila Cabello,47,9
+Cuban Links,Rod Wave & Kevin Gates,92,3
+Curve,Gucci Mane Featuring The Weeknd,67,2
+D4L,"Future, Drake & Young Thug",19,2
+DNA,BTS,67,4
+DNA.,Kendrick Lamar,4,20
+Daddy,Blueface & Rich The Kid,78,4
+Daisies,Katy Perry,40,7
+Dakiti,Bad Bunny & Jhay Cortez,5,7
+Dame Tu Cosita,Pitbull x El Chombo x Karol G Featuring Cutty Ranks,36,9
+Dance Monkey,Tones And I,4,36
+Dancing With A Stranger,Sam Smith & Normani,7,45
+Dangerous,Meek Mill Featuring Jeremih & PnB Rock,31,20
+Dark Knight Dummo,Trippie Redd Featuring Travis Scott,72,7
+Dark Queen,Lil Uzi Vert,91,2
+Darkness,Eminem,28,2
+Death,Trippie Redd Featuring DaBaby,59,7
+Death Bed,Powfu Featuring beabadoobee,23,26
+Dedicate,Lil Wayne,14,2
+Dedication,Nipsey Hussle Featuring Kendrick Lamar,93,2
+Deep End Freestyle,Sleepy Hallow,80,2
+Deja Vu,J. Cole,7,20
+Delicate,Taylor Swift,12,35
+Demons,Drake Featuring Fivio Foreign & Sosa Geek,34,2
+Demons And Angels,A Boogie Wit da Hoodie Featuring Juice WRLD,90,3
+Desires,Drake Featuring Future,27,2
+Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,1,52
+Desperate Man,Eric Church,68,15
+Diamond Teeth Samurai,YoungBoy Never Broke Again,59,5
+Diamonds,Sam Smith,40,13
+Dicked Down In Dallas,Trey Lewis,65,2
+Did It Again,Lil Tecca,64,7
+Die For Me,Post Malone Featuring Future & Halsey,20,5
+Die From A Broken Heart,Maddie & Tae,22,25
+Die Young,Roddy Ricch,99,2
+Dior,Pop Smoke,22,21
+Dip,Tyga & Nicki Minaj,63,8
+Diplomatic Immunity,Drake,7,3
+Dirt On My Boots,Jon Pardi,37,20
+Dirty Laundry,Carrie Underwood,48,16
+Dive,Ed Sheeran,49,2
+Dive Bar,Garth Brooks & Blake Shelton,78,5
+Do I Make You Wanna,Billy Currington,47,19
+Do It,Chloe X Halle,63,11
+Do Not Disturb,Drake,60,2
+Do Re Mi,blackbear,40,25
+Do You Mind,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",27,20
+Does To Me,Luke Combs Featuring Eric Church,20,19
+Doin' Time,Lana Del Rey,59,2
+Dollaz On My Head,Gunna Featuring Young Thug,38,19
+Don't Call Me Angel (Charlie's Angels),"Ariana Grande, Miley Cyrus & Lana Del Rey",13,7
+Don't Call Me Up,Mabel,66,10
+Don't Come Out The House,Metro Boomin Featuring 21 Savage,38,4
+Don't Cry,Lil Wayne Featuring XXXTENTACION,5,3
+Don't Go Breaking My Heart,Backstreet Boys,63,10
+Don't Let Me Down,The Chainsmokers Featuring Daya,3,52
+Don't Matter To Me,Drake Featuring Michael Jackson,9,5
+Don't Rush,Young T & Bugsey Featuring Headie One,56,14
+Don't Start Now,Dua Lipa,2,52
+Don't Stop,Megan Thee Stallion Featuring Young Thug,30,10
+Don't Wanna Know,Maroon 5 Featuring Kendrick Lamar,6,27
+Done,Chris Janson,41,12
+Done For Me,Charlie Puth Featuring Kehlani,53,9
+Double Up,Nipsey Hussle Featuring Belly & DOM KENNEDY,65,3
+Down,Fifth Harmony Featuring Gucci Mane,42,9
+Down,Marian Hill,21,17
+Down To The Honkytonk,Jake Owen,65,13
+Draco,Future,46,8
+Drankin N Smokin,Future & Lil Uzi Vert,31,2
+Dreams,Fleetwood Mac,1,23
+Drew Barrymore,Bryce Vine,46,14
+Drinkin' Problem,Midland,45,20
+Drinking Alone,Carrie Underwood,74,7
+Drip,Cardi B Featuring Migos,21,10
+Drip Too Hard,Lil Baby & Gunna,4,35
+Drowning,A Boogie Wit da Hoodie Featuring Kodak Black,38,21
+Drowns The Whiskey,Jason Aldean Featuring Miranda Lambert,32,19
+Drug Addiction,YoungBoy Never Broke Again,44,2
+Drunk Girl,Chris Janson,79,10
+Drunk Me,Mitchell Tenpenny,39,21
+Dura,Daddy Yankee,43,21
+Dusk Till Dawn,Zayn Featuring Sia,44,17
+Dynamite,BTS,1,17
+EARFQUAKE,"Tyler, The Creator",13,15
+Earth,Lil Dicky,17,6
+Easier,5 Seconds Of Summer,48,16
+Eastside,"benny blanco, Halsey & Khalid",9,52
+Easy,DaniLeigh Featuring Chris Brown,79,15
+Echame La Culpa,Luis Fonsi & Demi Lovato,47,20
+El Amante,Nicky Jam,92,15
+El Farsante,Ozuna & Romeo Santos,49,20
+Electricity,Silk City x Dua Lipa,62,10
+Element.,Kendrick Lamar,16,11
+Elevate,Drake,14,3
+Ella Quiere Beber,Anuel AA & Romeo Santos,61,20
+Emotionally Scarred,Lil Baby,31,25
+Emotionless,Drake,8,4
+Empty,Juice WRLD,41,3
+End Game,Taylor Swift Featuring Ed Sheeran & Future,18,14
+Enemies,Post Malone Featuring DaBaby,16,18
+Envy Me,Calboy,31,27
+Epidemic,Polo G,47,3
+Errbody,Lil Baby,41,2
+Escapate Conmigo,Wisin Featuring Ozuna,63,20
+Esskeetit,Lil Pump,24,12
+Even Though I'm Leaving,Luke Combs,11,24
+Every Little Thing,Carly Pearce,50,17
+Every Little Thing,Russell Dickerson,50,12
+Every Time I Hear That Song,Blake Shelton,56,11
+Everybody Dies In Their Nightmares,XXXTENTACION,42,7
+Everyday,Ariana Grande Featuring Future,55,7
+Everyday,Logic & Marshmello,29,13
+Everyday We Lit,YFN Lucci Featuring PnB Rock,33,20
+Everything I Wanted,Billie Eilish,8,33
+Everything's Gonna Be Alright,David Lee Murphy & Kenny Chesney,66,13
+Everywhere But On,Matt Stell,48,11
+Exile,Taylor Swift Featuring Bon Iver,6,5
+Eyes On You,Chase Rice,38,20
+F**k Love,XXXTENTACION Featuring Trippie Redd,28,21
+F.N,Lil Tjay,56,13
+FEFE,6ix9ine Featuring Nicki Minaj & Murda Beatz,3,20
+Fake Love,BTS,10,6
+Fake Love,Drake,8,25
+Fake Smile,Ariana Grande,26,2
+Faking It,Calvin Harris Featuring Kehlani & Lil Yachty,94,4
+Fall,Eminem,12,4
+Falling,Trevor Daniel,17,38
+Falling Down,Lil Peep & XXXTENTACION,13,11
+Famous,Mason Ramsey,62,2
+Fast,Juice WRLD,47,2
+Fast,Luke Bryan,58,13
+Faucet Failure,Ski Mask The Slump God,87,11
+Favorite Time Of Year,Carrie Underwood,80,3
+Fear.,Kendrick Lamar,50,2
+Feel It Still,Portugal. The Man,4,45
+Feel.,Kendrick Lamar,35,2
+Feels,"Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",20,18
+Feels Like Summer,Childish Gambino,54,2
+Felices Los 4,Maluma,48,20
+Feliz Navidad,Jose Feliciano,10,13
+Female,Keith Urban,69,5
+Fetish,Selena Gomez Featuring Gucci Mane,27,12
+Fighting Demons,Juice WRLD,35,2
+Filthy,Justin Timberlake,9,6
+Find My Way,DaBaby,22,5
+Fine China,Future & Juice WRLD,26,13
+Finesse,Bruno Mars & Cardi B,3,23
+Finesse,Drake,42,2
+First Day Out,Tee Grizzley,48,20
+First Off,Future Featuring Travis Scott,47,3
+Five More Minutes,Scotty McCreery,44,20
+Fix A Drink,Chris Janson,67,14
+Flatliner,Cole Swindell,56,18
+Flex,Polo G Featuring Juice WRLD,30,8
+Foldin Clothes,J. Cole,30,2
+Follow God,Kanye West,7,6
+For Her,Chris Lane,92,4
+For The First Time,Darius Rucker,58,10
+For The Night,Pop Smoke Featuring Lil Baby & DaBaby,6,24
+For Whom The Bell Tolls,J. Cole,23,2
+For You (Fifty Shades Freed),Liam Payne & Rita Ora,76,3
+Forever,Justin Bieber Featuring Post Malone & Clever,24,2
+Forever After All,Luke Combs,2,8
+Forget Me Too,Machine Gun Kelly & Halsey,44,2
+Franchise,Travis Scott Featuring Young Thug & M.I.A.,1,9
+Freaky Friday,Lil Dicky Featuring Chris Brown,8,20
+Free Smoke,Drake,18,4
+Fresh Eyes,Andy Grammer,59,18
+Friends,Justin Bieber + BloodPop,20,10
+Friends,Marshmello & Anne-Marie,11,29
+Futsal Shuffle 2020,Lil Uzi Vert,5,11
+GANG GANG,JACKBOYS & Sheck Wes,48,2
+GIRL,Maren Morris,44,21
+Galway Girl,Ed Sheeran,53,4
+Gangstas,Pop Smoke,37,2
+Get Along,Kenny Chesney,22,21
+Get It Together,Drake Featuring Jorja Smith & Black Coffee,45,2
+Get Up 10,Cardi B,38,2
+Get You,Daniel Caesar Featuring Kali Uchis,93,5
+Ghost Town,Kanye West Featuring PARTYNEXTDOOR,16,2
+Ghostface Killers,"21 Savage, Offset & Metro Boomin Featuring Travis Scott",35,7
+Ghostin,Ariana Grande,25,2
+Girl Like You,Jason Aldean,46,19
+Girl Of My Dreams,Rod Wave,65,16
+Girls In The Hood,Megan Thee Stallion,28,17
+Girls Like You,Maroon 5 Featuring Cardi B,1,52
+Girls Need Love,Summer Walker X Drake,37,20
+Glock In My Lap,21 Savage & Metro Boomin,19,3
+Glorious,Macklemore Featuring Skylar Grey,49,18
+Glow,Drake Featuring Kanye West,54,2
+Go Crazy,Chris Brown & Young Thug,9,32
+Go Flex,Post Malone,76,11
+Go Loko,"YG, Tyga & Jon Z",49,19
+Go Stupid,Polo G Featuring NLE Choppa & Stunna 4 Vegas,60,9
+Go!,Kid LAROI & Juice WRLD,52,4
+God Is A Woman,Ariana Grande,8,22
+God Whispered Your Name,Keith Urban,60,20
+God's Country,Blake Shelton,17,23
+God's Plan,Drake,1,36
+"God, Your Mama, And Me",Florida Georgia Line Featuring Backstreet Boys,46,19
+God.,Kendrick Lamar,58,2
+Godzilla,Eminem Featuring Juice WRLD,3,20
+Going Bad,Meek Mill Featuring Drake,6,37
+Gold Roses,Rick Ross Featuring Drake,39,3
+Golden,Harry Styles,74,8
+Gooba,6ix9ine,3,10
+Good As Hell,Lizzo,3,30
+Good As You,Kane Brown,36,20
+Good Drank,2 Chainz x Gucci Mane x Quavo,70,16
+Good Form,Nicki Minaj Featuring Lil Wayne,60,6
+Good Girl,Dustin Lynch,44,15
+Good Life,G-Eazy & Kehlani,59,5
+Good News,Mac Miller,17,4
+Good Old Days,Macklemore Featuring Kesha,48,20
+Good Time,Niko Moon,71,11
+Good Vibes,Chris Janson,48,13
+Goodbyes,Post Malone Featuring Young Thug,3,21
+Goosebumps,Travis Scott,32,34
+Gorgeous,Taylor Swift,13,4
+Got It On Me,Pop Smoke,31,9
+Got What I Got,Jason Aldean,16,25
+Grace,Lil Baby & 42 Dugg,48,15
+Graveyard,Halsey,34,20
+Greatest,Eminem,23,2
+Greatest Love Story,LANCO,45,21
+Greece,DJ Khaled Featuring Drake,8,15
+Green Light,Lorde,19,9
+Growing Pains,Alessia Cara,65,8
+Gucci Flip Flops,Bhad Bhabie Featuring Lil Yachty,79,3
+Gucci Gang,Lil Pump,3,24
+Gummo,6ix9ine,12,20
+Guys My Age,Hey Violet,68,5
+Gyalchester,Drake,29,11
+HAD ENOUGH,Don Toliver Featuring Quavo & Offset,52,2
+HIGHEST IN THE ROOM,Travis Scott,1,21
+Hallelujah,Carrie Underwood & John Legend,84,2
+Hallelujah,Pentatonix,23,11
+HandClap,Fitz And The Tantrums,53,20
+Handgun,YG Featuring A$AP Rocky,98,2
+Hangin' On,Chris Young,63,13
+Happier,Ed Sheeran,59,2
+Happier,Marshmello & Bastille,2,52
+Happy Anywhere,Blake Shelton Featuring Gwen Stefani,36,20
+Happy Does,Kenny Chesney,85,6
+Happy Holiday / The Holiday Season,Andy Williams,24,7
+Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,42,2
+Hard To Forget,Sam Hunt,26,20
+Hardaway,Derez De'Shon,61,11
+Hate Me,Ellie Goulding & Juice WRLD,56,20
+Hate The Other Side,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,10,7
+Havana,Camila Cabello Featuring Young Thug,1,46
+Hawai,Maluma & The Weeknd,12,17
+Head Above Water,Avril Lavigne,64,2
+Hear Me Calling,Juice WRLD,38,4
+Heart On Ice,Rod Wave,25,27
+Heartache Medication,Jon Pardi,42,20
+Heartache On The Dance Floor,Jon Pardi,47,18
+Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,39,21
+Heartless,The Weeknd,1,23
+Heat,Chris Brown Featuring Gunna,36,20
+Heathens,twenty one pilots,2,39
+Heather,Conan Gray,46,14
+Heatin Up,Lil Baby & Gunna,18,6
+Heaven,Kane Brown,15,27
+Heavy,Linkin Park Featuring Kiiara,45,19
+Here And Now,Kenny Chesney,38,15
+Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,28,9
+Here Tonight,Brett Young,42,20
+Here With Me,Marshmello Featuring CHVRCHES,31,16
+"Hey Look Ma, I Made It",Panic! At The Disco,16,22
+High Fashion,Roddy Ricch Featuring Mustard,20,28
+High Hopes,Panic! At The Disco,4,52
+Higher,DJ Khaled Featuring Nipsey Hussle & John Legend,21,2
+Higher Love,Kygo X Whitney Houston,63,9
+Him & I,G-Eazy & Halsey,14,20
+Hit Different,SZA Featuring Ty Dolla $ign,29,14
+Hole In The Bottle,Kelsea Ballerini,72,9
+Holiday,Lil Nas X,37,5
+Hollywood's Bleeding,Post Malone,15,6
+Holy,Justin Bieber Featuring Chance The Rapper,3,13
+Home,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",90,5
+Homecoming,Lil Uzi Vert,22,2
+Homemade,Jake Owen,39,16
+Homesick,Kane Brown,35,21
+Hometown Girl,Josh Turner,56,16
+Homicide,Logic Featuring Eminem,5,5
+Honest,The Chainsmokers,77,4
+Hooked,Dylan Scott,48,11
+Hope,XXXTENTACION,70,2
+Hopeless Romantic,Wiz Khalifa Featuring Swae Lee,72,7
+Hot,Young Thug Featuring Gunna,11,26
+Hot Girl Bummer,blackbear,11,42
+Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",11,16
+Hot Now,YoungBoy Never Broke Again,66,5
+Hot Shower,Chance The Rapper Featuring MadeinTYO & DaBaby,58,8
+Hotel Key,Old Dominion,48,19
+How Do You Sleep?,Sam Smith,24,20
+How Far I'll Go,Alessia Cara,56,19
+How Far I'll Go,Auli'i Cravalho,41,20
+How I'll Always Be,Tim McGraw,70,12
+How Long,Charlie Puth,21,24
+How Not To,Dan + Shay,57,14
+How You Like That,BLACKPINK,33,2
+Human,Rag'n'Bone Man,74,7
+Humble.,Kendrick Lamar,1,37
+Hurricane,Luke Combs,31,22
+I,Lil Skies,39,4
+I Am Who They Say I Am,YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo,69,2
+I Called Mama,Tim McGraw,53,12
+I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin",66,5
+I Could Use A Love Song,Maren Morris,56,21
+I Do,Cardi B Featuring SZA,23,5
+I Do It,Lil Wayne Featuring Big Sean & Lil Baby,33,2
+I Don't Care,Ed Sheeran & Justin Bieber,2,39
+I Don't Know About You,Chris Lane,39,20
+I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,2,23
+I Fall Apart,Post Malone,16,30
+I Feel It Coming,The Weeknd Featuring Daft Punk,4,26
+I Forgot That You Existed,Taylor Swift,28,2
+I Get The Bag,Gucci Mane Featuring Migos,11,27
+I Got You,Bebe Rexha,43,11
+I Hate U I Love U,gnash Featuring Olivia O'Brien,10,39
+I Hope,Gabby Barrett Featuring Charlie Puth,3,51
+I Hope You're Happy Now,Carly Pearce & Lee Brice,27,25
+I Know You,Lil Skies Featuring Yung Pinch,79,3
+I Like It,"Cardi B, Bad Bunny & J Balvin",1,51
+I Like Me Better,Lauv,27,41
+I Lived It,Blake Shelton,63,18
+I Love It,Kanye West & Lil Pump,6,12
+I Love Me,Demi Lovato,18,10
+I Love My Country,Florida Georgia Line,40,20
+I Should Probably Go To Bed,Dan + Shay,42,20
+I Was Jack (You Were Diane),Jake Owen,43,11
+I Wish Grandpas Never Died,Riley Green,66,12
+I'll Kill You,Summer Walker Featuring Jhene Aiko,61,3
+I'll Name The Dogs,Blake Shelton,56,20
+I'll Never Love Again,Lady Gaga,36,6
+I'm A Mess,Bebe Rexha,35,20
+I'm Gonna Be,Post Malone,33,2
+I'm Ready,Sam Smith & Demi Lovato,36,4
+I'm So Tired...,Lauv & Troye Sivan,81,6
+I'm The One,"DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",1,22
+I'm Upset,Drake,7,16
+I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,62,9
+IDGAF,Dua Lipa,49,23
+IDOL,BTS Featuring Nicki Minaj,11,3
+INTRO,DaBaby,13,6
+Ice Cream,BLACKPINK X Selena Gomez,13,8
+Ice Melts,Drake Featuring Young Thug,62,2
+Ice Tray,Quavo & Lil Yachty,74,6
+If I Can't Have You,Shawn Mendes,2,23
+If I Told You,Darius Rucker,53,11
+"If I'm Lyin, I'm Flyin",Kodak Black,56,3
+If The Boot Fits,Granger Smith,80,3
+If The World Was Ending,JP Saxe Featuring Julia Michaels,27,29
+Ignorantes,Bad Bunny & Sech,49,3
+Imagine,Ariana Grande,21,8
+Immortal,21 Savage,55,2
+Immortal,J. Cole,11,5
+In Between,Scotty McCreery,53,13
+In Case You Didn't Know,Brett Young,19,28
+In Control,YoungBoy Never Broke Again,73,2
+In My Blood,Shawn Mendes,11,23
+In My Feelings,Drake,1,22
+In My Head,Ariana Grande,38,2
+In The Name Of Love,Martin Garrix & Bebe Rexha,24,23
+In Your Eyes,The Weeknd,16,15
+Intentions,Justin Bieber Featuring Quavo,5,31
+Into The Unknown,Idina Menzel & AURORA,46,12
+Into The Unknown,Panic! At The Disco,98,2
+Invisible String,Taylor Swift,37,2
+Is There More,Drake,36,2
+Isis,Joyner Lucas Featuring Logic,59,2
+Issues,Julia Michaels,11,29
+It Ain't Me,Kygo x Selena Gomez,10,29
+It Ain't My Fault,Brothers Osborne,79,16
+It All Comes Out In The Wash,Miranda Lambert,70,2
+It's A Vibe,"2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",44,20
+It's Beginning To Look A Lot Like Christmas,Michael Buble,33,4
+It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,12,7
+It's Goin' Down,Descendants 2 Cast,77,4
+It's The Most Wonderful Time Of The Year,Andy Williams,6,19
+It's You,Ali Gatie,70,15
+Jackie Chan,Tiesto & Dzeko Featuring Preme & Post Malone,52,19
+Jaded,Drake,32,2
+Japan,Famous Dex,28,15
+Jerry Sprunger,Tory Lanez & T-Pain,44,10
+Jingle Bell Rock,Bobby Helms,3,34
+Jocelyn Flores,XXXTENTACION,19,20
+Jorja Interlude,Drake,49,2
+Juice,Lizzo,82,4
+Juice,Yo Gotti,90,6
+Juicy,Doja Cat & Tyga,41,20
+Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,5,21
+July,Noah Cyrus & Leon Bridges,85,16
+Jump,DaBaby Featuring YoungBoy Never Broke Again,17,4
+Jumpin On A Jet,Future,57,2
+Jumpsuit,twenty one pilots,50,3
+Just Hold On,Steve Aoki & Louis Tomlinson,52,6
+Just Like Magic,Ariana Grande,43,2
+Just Us,DJ Khaled Featuring SZA,43,13
+KEKE,"6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",43,8
+KIKA,6ix9ine Featuring Tory Lanez,44,6
+KMT,Drake Featuring Giggs,48,2
+KOD,J. Cole,10,12
+Kacey Talk,YoungBoy Never Broke Again,50,14
+Kamikaze,Eminem,16,3
+Keanu Reeves,Logic,38,3
+Kelly Price,Migos Featuring Travis Scott,58,2
+Kevin's Heart,J. Cole,8,5
+Kill A Word,Eric Church Featuring Rhiannon Giddens,71,15
+Kill This Love,BLACKPINK,41,4
+Killshot,Eminem,3,8
+Kinfolks,Sam Hunt,34,21
+King Of My City,A Boogie Wit da Hoodie,69,3
+King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",21,20
+Kings & Queens,Ava Max,13,19
+Kiss Somebody,Morgan Evans,53,8
+Knockin' Boots,Luke Bryan,31,22
+Know No Better,"Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",87,2
+Know Your Worth,Khalid x Disclosure,57,8
+Kooda,6ix9ine,50,8
+Krippy Kush,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage & Rvssian",75,6
+La Cancion,J Balvin & Bad Bunny,84,8
+La Dificil,Bad Bunny,33,5
+La Jeepeta,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,93,10
+La La Land,Bryce Vine Featuring YG,75,11
+La Modelo,Ozuna x Cardi B,52,14
+La Noche de Anoche,Bad Bunny & Rosalia,53,2
+La Santa,Bad Bunny X Daddy Yankee,53,2
+La Toxica,Farruko,95,4
+Lalala,Y2K & bbno$,55,21
+Last Christmas,Wham!,11,18
+Last Memory,TakeOff,54,2
+Last Shot,Kip Moore,53,8
+Last Time I Say Sorry,Kane Brown & John Legend,89,2
+Last Time That I Checc'd,Nipsey Hussle Featuring YG,76,3
+Laugh Now Cry Later,Drake Featuring Lil Durk,2,18
+Lean Wit Me,Juice WRLD,68,8
+Leave Em Alone,"Layton Greene, Lil Baby, City Girls & PnB Rock",60,15
+Leave Me Alone,Flipp Dinero,20,25
+Legends,Kelsea Ballerini,68,12
+Lemon,N*E*R*D & Rihanna,36,22
+Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,6,18
+Let It Fly,Lil Wayne Featuring Travis Scott,10,2
+"Let It Snow, Let It Snow, Let It Snow",Dean Martin,11,12
+Let Me Down Slowly,Alec Benjamin + Alessia Cara,79,9
+Let Me Go,Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt,40,22
+Let Me Know (I Wonder Why Freestyle),Juice WRLD,78,3
+Let Me Love You,DJ Snake Featuring Justin Bieber,4,33
+Let You Down,NF,12,28
+Lets Link,WhoHeem,86,3
+Letter To Nipsey,Meek Mill Featuring Roddy Ricch,73,2
+Level Of Concern,twenty one pilots,23,11
+Level Up,Ciara,59,6
+Levitating,Dua Lipa Featuring DaBaby,20,11
+Liar,Camila Cabello,52,11
+Lie,NF,48,20
+Life Changes,Thomas Rhett,36,14
+Life Goes On,BTS,1,3
+Life Goes On,Lil Baby Featuring Gunna & Lil Uzi Vert,74,6
+Life Is Good,Future Featuring Drake,2,38
+Life's A Mess,Juice WRLD X Halsey,9,6
+Light It Up,Luke Bryan,57,19
+Lights Down Low,MAX Featuring gnash,20,28
+Lights Up,Harry Styles,17,3
+Like I Loved You,Brett Young,46,20
+Like It's Christmas,Jonas Brothers,44,4
+Like That,Doja Cat Featuring Gucci Mane,50,18
+Lil Top,YoungBoy Never Broke Again,28,2
+Lion King On Ice,J. Cole,51,2
+Living,Dierks Bentley,51,16
+Lo Mein,Lil Uzi Vert,8,3
+Location,Khalid,16,43
+Lonely,Justin Bieber & benny blanco,14,9
+Lonely Child,YoungBoy Never Broke Again,44,7
+Lonely If You Are,Chase Rice,91,6
+Look Alive,BlocBoy JB Featuring Drake,5,25
+Look At Her Now.,Selena Gomez,27,3
+Look At Me!,XXXTENTACION,34,20
+Look Back At It,A Boogie Wit da Hoodie,27,31
+Look What God Gave Her,Thomas Rhett,32,20
+Look What You Made Me Do,Taylor Swift,1,20
+Lose It,Kane Brown,28,20
+Lose You To Love Me,Selena Gomez,1,23
+Losin Control,Russ,62,19
+Losing Sleep,Chris Young,60,20
+Lost In Japan,Shawn Mendes X Zedd,48,16
+Lost In The Fire,Gesaffelstein & The Weeknd,27,6
+Love,Lana Del Rey,44,2
+Love Ain't,Eli Young Band,50,18
+Love Galore,SZA Featuring Travis Scott,32,20
+Love Lies,Khalid & Normani,9,51
+Love Me Now,John Legend,23,19
+Love On The Brain,Rihanna,5,31
+Love So Soft,Kelly Clarkson,47,13
+Love Someone,Brett Eldredge,52,10
+Love Someone,Lukas Graham,70,10
+Love Wins,Carrie Underwood,83,10
+Love You Like I Used To,Russell Dickerson,31,15
+Love You Too Late,Cole Swindell,49,14
+Love.,Kendrick Lamar Featuring Zacari,11,40
+Lovely,Billie Eilish & Khalid,64,22
+Lover,Taylor Swift,10,22
+Lovin' On You,Luke Combs,23,20
+Loyalty.,Kendrick Lamar Featuring Rihanna,14,26
+Lucid Dreams,Juice WRLD,2,48
+Lucky You,Eminem Featuring Joyner Lucas,6,14
+Lust,Lil Skies,87,4
+Lust.,Kendrick Lamar,42,2
+MAMA,6ix9ine Featuring Nicki Minaj & Kanye West,43,4
+ME!,Taylor Swift Featuring Brendon Urie,2,20
+MEGATRON,Nicki Minaj,20,5
+MIA,Bad Bunny Featuring Drake,5,27
+MIC Drop,BTS Featuring Desiigner,28,10
+Mac 10,Trippie Redd Featuring Lil Baby & Lil Duke,64,2
+Madiba Riddim,Drake,51,2
+Magnolia,Playboi Carti,29,20
+Make It Sweet,Old Dominion,56,20
+Make Me (Cry),Noah Cyrus Featuring Labrinth,46,15
+Make Me Want To,Jimmie Allen,49,10
+Make No Sense,YoungBoy Never Broke Again,57,20
+Make Up,Ariana Grande,48,2
+Malibu,Miley Cyrus,10,15
+Mamacita,"Black Eyed Peas, Ozuna + J.Rey Soul",62,11
+Man Of The Year,Juice WRLD,51,2
+Many Men,21 Savage & Metro Boomin,33,2
+Marry Me,Thomas Rhett,30,20
+Martin & Gina,Polo G,61,19
+Mask Off,Future,5,31
+May We All,Florida Georgia Line Featuring Tim McGraw,30,20
+Mayores,Becky G Featuring Bad Bunny,74,18
+Me And My Guitar,A Boogie Wit da Hoodie,58,2
+Me Vs Me,Moneybagg Yo,88,2
+Meant To Be,Bebe Rexha & Florida Georgia Line,2,52
+Medicine,Queen Naija,45,20
+Memories,Maroon 5,2,41
+Mercy,Brett Young,29,20
+Mercy,Shawn Mendes,15,32
+Met Gala,Gucci Mane Featuring Offset,88,2
+Mi Gente,J Balvin & Willy William Featuring Beyonce,3,30
+Middle Child,J. Cole,4,27
+Midnight Sky,Miley Cyrus,14,17
+Million Reasons,Lady Gaga,4,20
+Millionaire,Chris Stapleton,47,17
+Mine,Bazzi,11,34
+Mirrorball,Taylor Swift,26,2
+Miss Me More,Kelsea Ballerini,47,20
+Mixed Personalities,YNW Melly Featuring Kanye West,42,17
+Mo Bamba,Sheck Wes,6,28
+Mob Ties,Drake,13,7
+Mona Lisa,Lil Wayne Featuring Kendrick Lamar,2,8
+Money,Cardi B,13,26
+Money Bag,Cardi B,58,2
+Money In The Grave,Drake Featuring Rick Ross,7,23
+Monopoly,Ariana Grande & Victoria Monet,69,2
+Monster,21 Savage,73,3
+Monster,Shawn Mendes & Justin Bieber,8,4
+Mood,24kGoldn Featuring iann dior,1,19
+Mood Swings,Pop Smoke Featuring Lil Tjay,17,20
+Moonlight,XXXTENTACION,13,20
+Moral Of The Story,Ashe Featuring Niall Horan,71,2
+More Girls Like You,Kip Moore,66,12
+More Hearts Than Mine,Ingrid Andress,30,20
+More Than My Hometown,Morgan Wallen,15,26
+Most Girls,Hailee Steinfeld,58,16
+Most People Are Good,Luke Bryan,43,18
+Mother's Daughter,Miley Cyrus,54,3
+Motiv8,J. Cole,15,2
+Motivation,Normani,33,10
+Motive,Ariana Grande Featuring Doja Cat,32,2
+MotorSport,"Migos, Nicki Minaj & Cardi B",6,22
+Move Ya Hips,A$AP Ferg Featuring  Nicki Minaj & MadeinTYO,19,2
+Moves,Big Sean,38,18
+Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,10,11
+Murder On My Mind,YNW Melly,14,20
+My Bad,Khalid,77,2
+My Choppa Hate N****s,21 Savage & Metro Boomin,73,2
+My Dawg,Lil Baby,71,7
+My Ex's Best Friend,Machine Gun Kelly X blackbear,28,18
+My Future,Billie Eilish,6,6
+My Girl,Dylan Scott,39,20
+My Oh My,Camila Cabello Featuring DaBaby,12,27
+My Old Man,Zac Brown Band,68,3
+My Sh*t,A Boogie Wit da Hoodie,86,11
+My Strange Addiction,Billie Eilish,43,4
+My Tears Ricochet,Taylor Swift,16,2
+My Truck,Breland,92,2
+My Type,Saweetie,21,20
+My Window,YoungBoy Never Broke Again Featuring Lil Wayne,35,2
+Myron,Lil Uzi Vert,13,7
+NASA,Ariana Grande,17,3
+NASTY,DaBaby Featuring Ashanti & Megan Thee Stallion,50,2
+NBAYoungboat,Lil Yachty Featuring NBA YoungBoy,63,4
+Narcos,Migos,36,15
+Natural,Imagine Dragons,13,27
+Need It,Migos Featuring YoungBoy Never Broke Again,62,15
+Need Me,J.I The Prince Of N.Y,95,2
+Needy,Ariana Grande,14,4
+Neighbors,J. Cole,13,6
+Neon Guts,Lil Uzi Vert Featuring Pharrell Williams,79,2
+Never Be The Same,Camila Cabello,6,37
+Never Enough,Loren Allred,88,4
+Never Really Over,Katy Perry,15,13
+Never Recover,Lil Baby & Gunna Featuring Drake,15,8
+Nevermind,Dennis Lloyd,86,4
+New Freezer,Rich The Kid Featuring Kendrick Lamar,41,19
+New Patek,Lil Uzi Vert,24,7
+New Rules,Dua Lipa,6,48
+Nice For What,Drake,1,25
+Nice To Meet Ya,Niall Horan,63,14
+Night Shift,Jon Pardi,56,16
+Nightmare,Halsey,15,11
+Nights Like This,Kehlani Featuring Ty Dolla $ign,67,9
+No Brainer,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",5,15
+No Bystanders,Travis Scott,31,2
+No Complaints,Metro Boomin Featuring Offset & Drake,71,5
+No Excuses,Meghan Trainor,46,12
+No Favors,Big Sean Featuring Eminem,22,3
+No Frauds,"Nicki Minaj, Drake & Lil Wayne",14,7
+No Guidance,Chris Brown Featuring Drake,5,46
+No Heart,21 Savage & Metro Boomin,43,19
+No Idea,Don Toliver,43,11
+No Limit,G-Eazy Featuring A$AP Rocky & Cardi B,4,29
+No Long Talk,Drake Featuring Giggs,40,2
+No Me Conoce,"Jhay Cortez, J Balvin & Bad Bunny",71,14
+No Promises,A Boogie Wit da Hoodie,74,2
+No Promises,Cheat Codes Featuring Demi Lovato,38,23
+No Roots,Alice Merton,84,3
+No Smoke,YoungBoy Never Broke Again,61,18
+No Stylist,French Montana Featuring Drake,47,20
+No Such Thing As A Broken Heart,Old Dominion,46,19
+No Tears Left To Cry,Ariana Grande,3,27
+No Time To Die,Billie Eilish,16,3
+Nobody But You,Blake Shelton Duet With Gwen Stefani,18,25
+Nobody Else But You,Trey Songz,92,3
+Nobody's Love,Maroon 5,41,10
+None Of Your Concern,Jhene Aiko Featuring Big Sean,55,2
+Nonstop,Drake,2,22
+Not Alike,Eminem Featuring Royce Da 5'9,24,3
+Not Nice,PARTYNEXTDOOR,82,7
+Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,43,13
+Nothings Into Somethings,Drake,61,2
+Notice Me,Migos Featuring Post Malone,52,5
+Noticed,Lil Mosey,80,10
+Now Or Never,Halsey,17,20
+Nowadays,Lil Skies Featuring Landon Cube,55,13
+Nuketown,Ski Mask The Slump God Featuring Juice WRLD,63,6
+Numb,XXXTENTACION,80,3
+Numbers,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",23,3
+OK Not To Be OK,Marshmello & Demi Lovato,36,6
+ON,BTS,4,2
+OOOUUU,Young M.A,19,20
+ORANGE SODA,Baby Keem,98,3
+OTW,DJ Luke Nasty,71,8
+OTW,"Khalid, Ty Dolla $ign & 6LACK",57,18
+Ocean,Martin Garrix Featuring Khalid,78,5
+Ocean,TK Kravitz Featuring Jacqueez,76,3
+Ocean Eyes,Billie Eilish,84,20
+Off The Table,Ariana Grande Featuring The Weeknd,35,2
+Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,1,45
+Omerta,Drake,35,2
+On Chill,Wale Featuring Jeremih,22,23
+On God,Kanye West,23,2
+On Me,Lil Baby,30,2
+On Me,Meek Mill Featuring Cardi B,30,2
+On My Way To You,Cody Johnson,78,16
+On The Road,Post Malone Featuring Meek Mill & Lil Baby,22,4
+One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,33,25
+One Big Country Song,LOCASH,50,11
+One Foot,WALK THE MOON,65,8
+One Kiss,Calvin Harris & Dua Lipa,26,21
+One Man Band,Old Dominion,20,28
+One Margarita,Luke Bryan,19,20
+One Night Standards,Ashley McBryde,76,15
+One Number Away,Luke Combs,34,20
+One Of Them Girls,Lee Brice,17,26
+One That Got Away,Michael Ray,67,9
+One Thing Right,Marshmello & Kane Brown,36,23
+One Too Many,Keith Urban Duet With P!nk,62,4
+Only Human,Jonas Brothers,18,36
+Oprah's Bank Account,"Lil Yachty, Drake & DaBaby",55,6
+Otherside,Post Malone,46,2
+Otherside Of America,Meek Mill,64,2
+Otro Trago,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",34,20
+Out The Mud,Lil Baby Featuring Future,70,3
+Out West,JACKBOYS Featuring Young Thug,38,22
+Outside Today,YoungBoy Never Broke Again,31,19
+Over Now,Calvin Harris X The Weeknd,38,5
+Over Now,Post Malone,24,3
+Overdose,YoungBoy Never Broke Again,42,9
+P*$$y Fairy (OTW),Jhene Aiko,40,25
+P2,Lil Uzi Vert,11,6
+POP STAR,DaBaby Featuring Kevin Gates,49,2
+PTSD,"G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert",38,5
+Pain 1993,Drake Featuring Playboi Carti,7,3
+Panini,Lil Nas X,5,32
+Parachute,Chris Stapleton,78,5
+Paradise,Bazzi,91,2
+Paramedic!,SOB X RBE,65,4
+Paranoid,Post Malone,11,6
+Paris,The Chainsmokers,6,20
+Party,Chris Brown Featuring Usher & Gucci Mane,40,20
+Party Girl,StaySolidRocky,21,20
+Party Monster,The Weeknd,16,19
+Passionfruit,Drake,8,20
+Past Life,Trevor Daniel x Selena Gomez,77,5
+Patek Water,Future & Young Thug Featuring Offset,50,4
+Patty Cake,Kodak Black,76,3
+Peak,Drake,38,2
+Peek A Boo,Lil Yachty Featuring Migos,78,4
+Perfect,Ed Sheeran,1,57
+Perplexing Pegasus,Rae Sremmurd,84,3
+Peta,Roddy Ricch Featuring Meek Mill,72,4
+Photograph,J. Cole,14,2
+Pick It Up,Famous Dex Featuring A$AP Rocky,54,20
+Pick Up The Phone,Young Thug And Travis Scott Featuring Quavo,43,20
+Pills And Automobiles,"Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",46,20
+Plain Jane,A$AP Ferg Featuring Nicki Minaj,26,25
+Play That Song,Train,41,20
+Playing Games,Summer Walker,16,20
+Please Me,Cardi B & Bruno Mars,3,20
+Plug Walk,Rich The Kid,13,20
+Pop Out,Polo G Featuring Lil Tjay,11,27
+Popstar,DJ Khaled Featuring Drake,3,19
+Portland,Drake Featuring Quavo & Travis Scott,9,16
+Positions,Ariana Grande,1,8
+Power Is Power,"SZA, The Weeknd & Travis Scott",90,2
+Powerglide,Rae Sremmurd & Juicy J,28,17
+Practice,DaBaby,86,4
+Praise The Lord (Da Shine),A$AP Rocky Featuring Skepta,45,8
+Pray For Me,The Weeknd & Kendrick Lamar,7,20
+Prayed For You,Matt Stell,36,20
+Praying,Kesha,22,21
+Prblms,6LACK,72,8
+Press,Cardi B,16,16
+Pretty Heart,Parker McCollum,36,20
+Prices,Lil Uzi Vert,25,2
+Pride.,Kendrick Lamar,37,2
+Prisoner,Miley Cyrus Featuring Dua Lipa,54,4
+Privacy,Chris Brown,62,17
+Promises,Calvin Harris & Sam Smith,65,12
+Proud,2 Chainz Featuring YG & Offset,96,2
+Psycho,Post Malone Featuring Ty Dolla $ign,1,39
+Pure Cocaine,Lil Baby,46,15
+Pure Water,Mustard & Migos,23,25
+Put A Date On It,Yo Gotti Featuring Lil Baby,46,20
+Put Your Records On,Ritt Momney,79,8
+Que Pretendes,J Balvin & Bad Bunny,65,4
+Queen Of Mean,Sarah Jeffery,49,8
+Questions,Chris Brown,78,13
+R.I.P Screw,Travis Scott,26,2
+RAW SHIT,DaBaby Featuring Migos,51,2
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,26,27
+Racks In The Middle,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,26,10
+Rags2Riches,Rod Wave Featuring ATR Son Son,12,20
+Rain On Me,Lady Gaga & Ariana Grande,1,20
+Raised On Country,Chris Young,54,13
+Rake It Up,Yo Gotti Featuring Nicki Minaj,8,22
+Ran$om,Lil Tecca,4,31
+Rap Devil,Machine Gun Kelly,13,4
+Rap Saved Me,"21 Savage, Offset & Metro Boomin Featuring Quavo",64,3
+Rare,Selena Gomez,30,7
+Rearview Town,Jason Aldean,40,18
+Reborn,KIDS SEE GHOSTS,39,2
+Red Opps,21 Savage,74,5
+Red Room,Offset,49,3
+Red Roses,Lil Skies Featuring Landon Cube,69,20
+Redbone,Childish Gambino,12,44
+Relacion,"Sech, Daddy Yankee & J Balvin Featuring Rosalia & Farruko",64,11
+Relationship,Young Thug Featuring Future,65,14
+Remember You Young,Thomas Rhett,53,18
+Remind Me To Forget,Kygo Featuring Miguel,63,11
+Reminder,The Weeknd,31,16
+Reply,A Boogie Wit da Hoodie Featuring Lil Uzi Vert,49,2
+Revenge,XXXTENTACION,77,2
+Rewrite The Stars,Zac Efron & Zendaya,70,7
+Ric Flair Drip,Offset & Metro Boomin,13,31
+Rich,Maren Morris,62,8
+Rich & Sad,Post Malone,14,6
+Rich As Hell,YoungBoy Never Broke Again,79,2
+Rich N*gga Sh*t,21 Savage & Metro Boomin Featuring Young Thug,26,2
+Ride It.,Regard,62,10
+Ridin' Roads,Dustin Lynch,47,20
+Right Back,Khalid Featuring A Boogie Wit da Hoodie,73,11
+Righteous,Juice WRLD,11,16
+Ring,Cardi B Featuring Kehlani,28,20
+River,Eminem Featuring Ed Sheeran,11,13
+Road Less Traveled,Lauren Alaina,67,12
+Robbery,Juice WRLD,27,18
+Rock,Plies,95,5
+Rockabye,Clean Bandit Featuring Sean Paul & Anne-Marie,9,27
+Rockin' Around The Christmas Tree,Brenda Lee,2,37
+Rockin' Around The Christmas Tree,Justin Bieber,71,3
+Rockstar,DaBaby Featuring Roddy Ricch,1,35
+Rockstar,Post Malone Featuring 21 Savage,1,41
+Rodeo,Lil Nas X & Cardi B Or Nas,22,8
+Rolex,Ayo & Teo,20,25
+Roll In Peace,Kodak Black Featuring XXXTENTACION,31,26
+Rollin,Calvin Harris Featuring Future & Khalid,62,2
+Roses,SAINt JHN,4,34
+Roses,benny blanco & Juice WRLD Featuring Brendon Urie,85,6
+Round Here Buzz,Eric Church,56,19
+Roxanne,Arizona Zervas,4,26
+Rubbin Off The Paint,YBN Nahmir,46,16
+Rudolph The Red-Nosed Reindeer,Gene Autry,16,11
+Ruin My Life,Zara Larsson,76,7
+Rumor,Lee Brice,25,20
+Run Rudolph Run,Chuck Berry,29,7
+Runnin,21 Savage & Metro Boomin,9,7
+SOS,Avicii Featuring Aloe Blacc,68,3
+STOOPID,6ix9ine Featuring Bobby Shmurda,25,9
+SUGAR,BrockHampton,66,8
+Sacrifices,Drake Featuring 2 Chainz & Young Thug,36,3
+Sad!,XXXTENTACION,1,38
+Safaera,"Bad Bunny, Jowell & Randy & Nengo Flow",81,7
+Said Sum,Moneybagg Yo,17,22
+Saint-Tropez,Post Malone,18,6
+Same Bitches,Post Malone Featuring G-Eazy & YG,20,3
+Sandra's Rose,Drake,27,2
+Sanguine Paradise,Lil Uzi Vert,28,15
+Santa Tell Me,Ariana Grande,32,7
+Sativa,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,74,16
+Saturday Nights,Khalid & Kane Brown,57,12
+Sauce It Up,Lil Uzi Vert,49,15
+Savage,Megan Thee Stallion,1,28
+Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,1,26
+Save Your Tears,The Weeknd,41,2
+Say A',A Boogie Wit da Hoodie,75,2
+Say Amen (Saturday Night),Panic! At The Disco,60,2
+Say It,Flume Featuring Tove Lo,60,4
+Say So,Doja Cat Featuring Nicki Minaj,1,38
+Say Something,Justin Timberlake Featuring Chris Stapleton,9,16
+Say You Won't Let Go,James Arthur,11,52
+Scared To Be Lonely,Martin Garrix & Dua Lipa,76,14
+Scars To Your Beautiful,Alessia Cara,8,43
+Screw Juice,Juice WRLD,46,2
+Secreto,Anuel AA & Karol G,68,11
+Seein' Red,Dustin Lynch,55,9
+Selah,Kanye West,19,2
+Self Care,Mac Miller,33,3
+Self Control,YoungBoy Never Broke Again,50,11
+Selfish,Future Featuring Rihanna,37,10
+Selfish,PnB Rock,51,19
+Senorita,Shawn Mendes & Camila Cabello,1,37
+Seven,Taylor Swift,35,2
+Sex With Me,Rihanna,83,14
+Shaky Shaky,Daddy Yankee,88,2
+Shallow,Lady Gaga & Bradley Cooper,1,45
+Shameless,Camila Cabello,60,3
+Shape Of You,Ed Sheeran,1,59
+She Bad,Cardi B & YG,57,2
+She Got The Best Of Me,Luke Combs,31,23
+She's Mine Pt. 1,J. Cole,22,2
+She's With Me,High Valley,79,8
+Shining,DJ Khaled Featuring Beyonce & JAY Z,57,13
+Shoota,Playboi Carti Featuring Lil Uzi Vert,46,4
+Shot Clock,Ella Mai,62,16
+Shotta Flow,NLE Choppa,36,20
+Shotta Flow 5,NLE Choppa,54,3
+Show Yourself,Idina Menzel & Evan Rachel Wood,70,3
+Si Veo A Tu Mama,Bad Bunny,32,5
+Sick Boy,The Chainsmokers,65,3
+Sicko Mode,Travis Scott,1,52
+Side Effects,The Chainsmokers Featuring Emily Warren,66,6
+Side To Side,Ariana Grande Featuring Nicki Minaj,4,28
+Sidewalks,The Weeknd Featuring Kendrick Lamar,27,4
+Sign Of The Times,Harry Styles,4,13
+Signs,Drake,36,6
+Silence,Marshmello Featuring Khalid,30,23
+Silly Watch,Lil Uzi Vert,9,2
+Simple,Florida Georgia Line,32,20
+Sin Pijama,Becky G + Natti Natasha,70,12
+Single Again,Big Sean,64,3
+Singles You Up,Jordan Davis,50,19
+Sit Next To Me,Foster The People,42,20
+Six Feet Apart,Luke Combs,58,2
+Six Feet Under,The Weeknd,34,4
+Sixteen,Thomas Rhett,42,15
+Sky Walker,Miguel Featuring Travis Scott,29,26
+Sleep Without You,Brett Young,47,18
+Sleigh Ride,The Ronettes,19,10
+Slide,Calvin Harris Featuring Frank Ocean & Migos,25,20
+Slide,H.E.R. Featuring YG,43,20
+Slide Away,Miley Cyrus,47,6
+Slidin,21 Savage & Metro Boomin,32,2
+Slippery,Migos Featuring Gucci Mane,29,21
+Slow Dance In A Parking Lot,Jordan Davis,37,19
+Slow Dancing In The Dark,Joji,69,13
+Slow Hands,Niall Horan,11,31
+Small Town Boy,Dustin Lynch,36,20
+Smile,Juice WRLD & The Weeknd,8,10
+Smile (Living My Best Life),Lil' Duval Featuring Snoop Dogg & Ball Greezy,56,19
+Smooth,Florida Georgia Line,89,7
+Sneakin',Drake Featuring 21 Savage,28,14
+Snow On Tha Bluff,J. Cole,54,2
+So Done,The Kid LAROI,59,7
+Sober,Demi Lovato,47,3
+Sober Saturday Night,Chris Young Featuring Vince Gill,47,11
+Solitaires,Future Featuring Travis Scott,32,3
+Solo,Clean Bandit Featuring Demi Lovato,58,13
+Soltera,"Lunay, Daddy Yankee & Bad Bunny",66,17
+Some Girls,Jameson Rodgers,29,16
+Some Kind Of Drug,G-Eazy Featuring Marc E. Bassy,97,3
+Some Of It,Eric Church,43,13
+Somebody,"Internet Money, Lil Tecca & A Boogie Wit da Hoodie",96,4
+Somebody Else Will,Justin Moore,59,12
+Somebody's Problem,Morgan Wallen,25,3
+Someone You Loved,Lewis Capaldi,1,54
+Something Just Like This,The Chainsmokers & Coldplay,3,39
+Something Special,Pop Smoke,41,7
+Song For Another Time,Old Dominion,59,18
+Sorry Not Sorry,Demi Lovato,6,36
+Sour Candy,Lady Gaga & BLACKPINK,33,2
+South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,49,12
+Southbound,Carrie Underwood,64,13
+Space Cadet,Metro Boomin Featuring Gunna,51,6
+Speak To A Girl,Tim McGraw & Faith Hill,61,2
+Speechless,Dan + Shay,24,40
+Splashin,Rich The Kid,90,4
+Spoil My Night,Post Malone Featuring Swae Lee,15,5
+Star Of The Show,Thomas Rhett,45,19
+Starboy,The Weeknd Featuring Daft Punk,1,30
+Stargazing,Travis Scott,8,8
+Staring At The Sun,Post Malone Featuring SZA,34,2
+Start Wit Me,Roddy Ricch & Gunna,56,13
+Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,59,9
+Starting Over,Chris Stapleton,25,16
+Starving,Hailee Steinfeld & Grey Featuring Zedd,12,29
+Stay,Post Malone,17,4
+Stay,Zedd & Alessia Cara,7,31
+Stay High,Juice WRLD,34,2
+Still Goin Down,Morgan Wallen,46,2
+Stir Fry,Migos,8,21
+Stop Trying To Be God,Travis Scott,27,2
+Strip That Down,Liam Payne Featuring Quavo,10,28
+Stuck In A Dream,Lil Mosey x Gunna,62,4
+Stuck With U,Ariana Grande & Justin Bieber,1,18
+Stupid Love,Lady Gaga,5,9
+Subeme La Radio,"Enrique Iglesias Featuring Descemer Bueno, Zion & Lennox Or Sean Paul",81,9
+Sucker,Jonas Brothers,1,47
+Suge,DaBaby,7,37
+Suicidal,YNW Melly & Juice WRLD,20,20
+Sum 2 Prove,Lil Baby,16,20
+Summer Games,Drake,28,2
+Summertime Magic,Childish Gambino,44,4
+Sunday Best,Surfaces,19,21
+Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,1,53
+"Sunrise, Sunburn, Sunset",Luke Bryan,35,16
+Supalonely,BENEE Featuring Gus Dapperton,39,22
+Survival,Drake,17,2
+Swalla,Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign,29,20
+Swang,Rae Sremmurd,26,26
+Sweet But Psycho,Ava Max,10,35
+Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,38,20
+Swish Swish,Katy Perry Featuring Nicki Minaj,46,10
+T-Shirt,Migos,19,25
+TATI,6ix9ine Featuring DJ SPINKING,46,5
+TIC TOC,6ix9ine Featuring Lil Baby,53,3
+TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,28,13
+Take Back Home Girl,Chris Lane Featuring Tori Kelly,55,12
+Take It From Me,Jordan Davis,46,13
+Take Me Home For Christmas,Dan + Shay,58,2
+Take What You Want,Post Malone Featuring Ozzy Osbourne & Travis Scott,8,20
+Take You Dancing,Jason Derulo,94,3
+Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",11,26
+Takin' Shots,Post Malone,29,3
+Taking A Walk,Trippie Redd,46,3
+Talk,Khalid,3,46
+Talk To Me,Tory Lanez & Rich The Kid,43,16
+Talk Up,Drake Featuring JAY-Z,20,3
+Talk You Out Of It,Florida Georgia Line,57,26
+Tap,NAV Featuring Meek Mill,87,10
+Tap In,Saweetie,20,19
+Taste,Tyga Featuring Offset,8,29
+Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",36,21
+Te Mudaste,Bad Bunny,60,2
+Te Robare,Nicky Jam X Ozuna,91,6
+Teenage Fever,Drake,35,4
+Tell Me U Luv Me,Juice WRLD & Trippie Redd,38,4
+Tell Me You Love Me,Demi Lovato,53,20
+Tempo,Chris Brown,88,4
+Tequila,Dan + Shay,21,50
+"Thank U, Next",Ariana Grande,1,28
+That Way,Lil Uzi Vert,20,12
+That's A Rack,Lil Uzi Vert,76,5
+That's How You Feel,Drake,37,2
+That's On Me,Yella Beezy,56,20
+That's What I Like,Bruno Mars,1,52
+The 1,Taylor Swift,4,6
+The Archer,Taylor Swift,69,2
+The Bigger Picture,Lil Baby,3,20
+The Bones,Maren Morris,12,52
+The Box,Roddy Ricch,1,38
+The Christmas Song,Lauren Daigle,55,2
+The Christmas Song (Merry Christmas To You),Nat King Cole,11,25
+The Climb Back,J. Cole,52,2
+The Cure,Lady Gaga,39,14
+The Fighter,Keith Urban Featuring Carrie Underwood,38,22
+The Git Up,Blanco Brown,14,20
+The Greatest,Sia Featuring Kendrick Lamar,18,23
+The Greatest Show,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble",88,4
+The Heart Part 4,Kendrick Lamar,22,2
+The Last Great American Dynasty,Taylor Swift,13,2
+The London,"Young Thug, J. Cole & Travis Scott",12,20
+The Long Way,Brett Eldredge,65,12
+The Man,Taylor Swift,23,8
+The Middle,"Zedd, Maren Morris & Grey",5,40
+The Night We Met,Lord Huron,84,4
+The One,The Chainsmokers,78,2
+The Ones That Didn't Make It Back Home,Justin Moore,46,16
+The Other Side,SZA X Justin Timberlake,61,7
+The Race,Tay-K,44,20
+The Remedy For A Broken Heart (Why Am I So In Love),XXXTENTACION,55,5
+The Ringer,Eminem,8,4
+The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",1,13
+The Story Of O.J.,JAY-Z,23,3
+The Way I Am,Charlie Puth,61,7
+The Way Life Goes,Lil Uzi Vert Featuring Nicki Minaj,24,23
+The Ways,Khalid & Swae Lee,63,3
+The Weekend,Brantley Gilbert,64,20
+The Weekend,SZA,29,25
+The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,11,20
+There Was This Girl,Riley Green,70,8
+There's Nothing Holdin' Me Back,Shawn Mendes,6,34
+Therefore I Am,Billie Eilish,2,6
+These Heaux,Bhad Bhabie,77,3
+They Don't Know,Jason Aldean,67,12
+Think A Little Less,Michael Ray,54,16
+This Feeling,The Chainsmokers Featuring Kelsea Ballerini,50,20
+This Is America,Childish Gambino,1,17
+This Is It,Scotty McCreery,42,20
+This Is Me,Keala Settle & The Greatest Showman Ensemble,58,14
+This Town,Niall Horan,20,22
+Those Kinda Nights,Eminem Featuring Ed Sheeran,31,2
+Thotiana,Blueface,8,20
+Throat Baby (Go Baby),BRS Kash,69,9
+Thru Your Phone,Cardi B,50,3
+Thunder,Imagine Dragons,4,52
+Thunderclouds,"Labrinth, Sia & Diplo Present... LSD",67,4
+Time,NF,41,20
+Time Flies,Drake,30,2
+Timeless,A Boogie Wit da Hoodie Featuring DJ SPINKING,86,4
+Tip Of My Tongue,Kenny Chesney,73,20
+Tip Toe,Roddy Ricch Featuring A Boogie Wit da Hoodie,73,7
+Titanic,Juice WRLD,14,2
+To Die For,Sam Smith,46,6
+To The Max,DJ Khaled Featuring Drake,53,4
+Today,Brad Paisley,67,11
+Tommy Lee,Tyla Yaweh & Post Malone,65,2
+Too Good At Goodbyes,Sam Smith,4,24
+Too Hotty,"Quavo, Takeoff & Offset",91,4
+Too Much Sauce,DJ ESCO Featuring Future & Lil Uzi Vert,50,20
+Too Much To Ask,Niall Horan,66,12
+Took Her To The O,King Von,47,5
+Toosie Slide,Drake,1,20
+Top Off,"DJ Khaled Featuring JAY Z, Future & B",22,7
+Topanga,Trippie Redd,52,5
+Trampoline,SHAED,13,39
+Transportin',Kodak Black,46,16
+Treat You Better,Shawn Mendes,6,39
+Triggered,Jhene Aiko,51,3
+Trillionaire,Future Featuring YoungBoy Never Broke Again,34,4
+Trip,Ella Mai,11,27
+Trollz,6ix9ine & Nicki Minaj,1,4
+Truth Hurts,Lizzo,1,42
+Try Me,The Weeknd,26,2
+Tunnel Vision,Kodak Black,6,20
+Turks,"NAV, Gunna & Travis Scott",17,11
+Tusa,Karol G & Nicki Minaj,42,21
+Twerk,City Girls Featuring Cardi B,29,13
+Tyler Herro,Jack Harlow,34,8
+U 2 Luv,Ne-Yo & Jeremih,66,8
+U Played,MoneyBagg Yo Featuring Lil Baby,53,5
+Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny & Tainy",63,14
+Unaccommodating,Eminem Featuring Young M.A,36,2
+Undecided,Chris Brown,35,12
+Under The Mistletoe,Kelly Clarkson & Brett Eldredge,59,2
+Under The Sun,"Dreamville Featuring J. Cole, Lute & DaBaby",44,3
+Underdog,Alicia Keys,69,4
+Underneath The Tree,Kelly Clarkson,25,8
+Undrunk,FLETCHER,61,6
+Unforgettable,French Montana Featuring Swae Lee,3,42
+Unforgettable,Thomas Rhett,47,20
+Uno,Ambjaay,82,3
+Unsteady,X Ambassadors,20,34
+Untouchable,YoungBoy Never Broke Again,95,2
+Up Down,Morgan Wallen Featuring Florida Georgia Line,49,20
+Up Up And Away,Juice WRLD,42,2
+Uproar,Lil Wayne,7,20
+Uptown Vibes,Meek Mill Featuring Fabolous & Anuel AA,39,3
+Used To This,Future Featuring Drake,14,18
+VIBEZ,DaBaby,21,20
+Valuable Pain,YoungBoy Never Broke Again,87,2
+Venom,Eminem,43,5
+Versace On The Floor,Bruno Mars,33,14
+Vete,Bad Bunny,33,18
+Ville Mentality,J. Cole,24,2
+Violent Crimes,Kanye West,27,2
+W O R K I N  M E,Quavo,52,15
+WAKA,6ix9ine Featuring A Boogie Wit da Hoodie,51,3
+WAP,Cardi B Featuring Megan Thee Stallion,1,19
+WHAT TO DO?,JACKBOYS Featuring Don Toliver,56,2
+Wait,Maroon 5,24,24
+Wake Up,Travis Scott,30,7
+Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,11,26
+Walk Em Down,NLE Choppa Featuring Roddy Ricch,38,20
+Walk It Talk It,Migos Featuring Drake,10,22
+Walk Me Home,P!nk,49,20
+Walk On Water,Eminem Featuring Beyonce,14,5
+Wanna Be That Song,Brett Eldredge,46,20
+Wanted You,NAV Featuring Lil Uzi Vert,64,5
+Wash Us In The Blood,Kanye West Featuring Travis Scott,49,2
+Wasted,Juice WRLD Featuring Lil Uzi Vert,67,5
+Wasted Times,The Weeknd,27,3
+Watch,Travis Scott Featuring Lil Uzi Vert & Kanye West,16,5
+Water,Ugly God,80,4
+Water Under The Bridge,Adele,26,22
+Watermelon Sugar,Harry Styles,1,37
+Way Down We Go,KALEO,54,8
+We Back,Jason Aldean,62,16
+We Paid,Lil Baby & 42 Dugg,10,22
+We Were,Keith Urban,65,15
+Weak,AJR,73,11
+Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward",78,4
+What A Man Gotta Do,Jonas Brothers,16,12
+What About Us,P!nk,13,22
+What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,53,14
+What If I Never Get Over You,Lady Antebellum,40,21
+What Ifs,Kane Brown Featuring Lauren Alaina,26,23
+What Lovers Do,Maroon 5 Featuring SZA,9,22
+What Makes You Country,Luke Bryan,54,11
+What She Wants Tonight,Luke Bryan,46,17
+What You Know Bout Love,Pop Smoke,25,15
+What's Free,Meek Mill Featuring Rick Ross & JAY-Z,20,2
+What's My Name,"China Anne McClain, Thomas Doherty & Dylan Playfair",61,3
+Whatever It Takes,Imagine Dragons,12,27
+Whatever You Need,Meek Mill Featuring Chris Brown & Ty Dolla $ign,51,13
+Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2,45
+When It Rains It Pours,Luke Combs,33,20
+When The Party's Over,Billie Eilish,29,32
+When We,Tank,78,20
+Whiskey Glasses,Morgan Wallen,17,27
+White Christmas,Bing Crosby,12,19
+Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,52,16
+Who Needs Love,Trippie Redd,58,2
+Whole Lotta Choppas,Sada Baby Featuring Nicki Minaj,35,3
+Whoopty,CJ,51,6
+Why We Drink,Justin Moore,50,15
+Wild Thoughts,DJ Khaled Featuring Rihanna & Bryson Tiller,2,21
+Wish I Knew You,The Revivalists,84,9
+Wish Wish,DJ Khaled Featuring Cardi B & 21 Savage,19,15
+Wish You Were Gay,Billie Eilish,31,11
+Wishing Well,Juice WRLD,5,20
+Without Me,Halsey,1,52
+Without You,The Kid LAROI,63,2
+Woah,Lil Baby,15,21
+Wokeuplikethis*,Playboi Carti Featuring Lil Uzi Vert,76,9
+Wolves,Selena Gomez X Marshmello,20,23
+"Woman, Amen",Dierks Bentley,53,12
+Wonder,Shawn Mendes,18,10
+Wonderful Christmastime,Paul McCartney,45,3
+Worth It,YK Osiris,48,25
+Wouldn't Leave,Kanye West Featuring PARTYNEXTDOOR,24,2
+Wow.,Post Malone,2,44
+Writing On The Wall,"French Montana Featuring Post Malone, Cardi B & Rvssian",56,3
+Written In The Sand,Old Dominion,51,20
+X,21 Savage & Metro Boomin Featuring Future,36,21
+X,Jonas Brothers Featuring Karol G,33,7
+X,Lil Uzi Vert,81,2
+X,Nicky Jam x J Balvin,41,21
+X,"ScHoolboy Q, 2 Chainz & Saudi",49,5
+XO TOUR Llif3,Lil Uzi Vert,7,34
+XXX.,Kendrick Lamar Featuring U2,33,3
+Xanny,Billie Eilish,35,4
+Yah.,Kendrick Lamar,32,3
+Yeah Boy,Kelsea Ballerini,65,13
+Yellow Hearts,Ant Saunders,81,8
+Yes Indeed,Lil Baby & Drake,6,29
+Yessirskiii,Lil Uzi Vert & 21 Savage,26,2
+Yikes,Kanye West,8,5
+Yikes,Nicki Minaj,23,2
+Yo Perreo Sola,Bad Bunny,53,17
+Yosemite,Travis Scott,25,18
+You,Jacquees,58,12
+You Broke Me First.,Tate McRae,50,17
+You Broke Up With Me,Walker Hayes,62,19
+You Da Baddest,Future Featuring Nicki Minaj,38,2
+You Gon' Learn,"Eminem Featuring Royce da 5'9"" & White Gold",52,2
+You Got It,VEDO,87,3
+You Look Good,Lady Antebellum,59,20
+You Make It Easy,Jason Aldean,28,20
+You Need To Calm Down,Taylor Swift,2,21
+You Say,Lauren Daigle,29,43
+You Should Be Sad,Halsey,26,18
+You Should See Me In A Crown,Billie Eilish,41,8
+You Stay,"DJ Khaled Featuring Meek Mill, J Balvin, Lil Baby & Jeremih",44,3
+You Was Right,Lil Uzi Vert,40,28
+You're Mines Still,Yung Bleu Featuring Drake,52,2
+You're Welcome,Dwayne Johnson,65,12
+Young Dumb & Broke,Khalid,18,36
+Youngblood,5 Seconds Of Summer,7,48
+Yours,Russell Dickerson,49,20
+Yours If You Want It,Rascal Flatts,71,10
+Yummy,Justin Bieber,2,15
+ZEZE,Kodak Black Featuring Travis Scott & Offset,2,25
+Zack And Codeine,Post Malone,23,3
+Zombie,Bad Wolves,54,17
+homecoming queen?,Kelsea Ballerini,76,12
+iSpy,KYLE Featuring Lil Yachty,4,30
+idontwannabeyouanymore,Billie Eilish,96,3
+ily,Surf Mesa Featuring Emilee,23,28
+pov,Ariana Grande,40,6
+whoa (mind in awe),XXXTENTACION,37,2

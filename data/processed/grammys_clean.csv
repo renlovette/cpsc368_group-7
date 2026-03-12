@@ -1,786 +1,1204 @@
-year,award,artist,music,winner
+year,award,artist,music_title,winner
+2016,Album Of The Year,Sturgill Simpson,A Sailor's Guide To Earth,False
+2016,Album Of The Year,Drake,Views,False
+2016,Album Of The Year,Justin Bieber,Purpose,False
+2016,Album Of The Year,Beyoncé,Lemonade,False
 2016,Album Of The Year,Adele,25,True
-2016,Best Album Notes,,Sissle And Blake Sing Shuffle Along,True
+2016,Best Alternative Music Album,Radiohead,A Moon Shaped Pool,False
+2016,Best Alternative Music Album,Iggy Pop,Post Pop Depression,False
+2016,Best Alternative Music Album,PJ Harvey,The Hope Six Demolition Project,False
+2016,Best Alternative Music Album,Bon Iver,"22, A Million",False
 2016,Best Alternative Music Album,David Bowie,Blackstar,True
+2016,Best American Roots Performance,Lori McKenna,Wreck You,False
+2016,Best American Roots Performance,Rhiannon Giddens,Factory Girl,False
+2016,Best American Roots Performance,Blind Boys Of Alabama,Mother's Children Have A Hard Time,False
+2016,Best American Roots Performance,The Avett Brothers,Ain't No Man,False
 2016,Best American Roots Performance,Sarah Jarosz,House Of Mercy,True
-2016,Best American Roots Song,,Kid Sister,True
+2016,Best Americana Album,The Time Jumpers,Kid Sister,False
+2016,Best Americana Album,Lori McKenna,The Bird & The Rifle,False
+2016,Best Americana Album,Kris Kristofferson,The Cedar Creek Sessions,False
+2016,Best Americana Album,The Avett Brothers,True Sadness,False
 2016,Best Americana Album,William Bell,This Is Where I Live,True
-2016,"Best Arrangement, Instrumental or A Cappella",,You And I,True
-2016,"Best Arrangement, Instruments and Vocals",,Flintstones,True
+2016,Best Bluegrass Album,Claire Lynch,North By South,False
+2016,Best Bluegrass Album,Laurie Lewis,The Hazel And Alice Sessions,False
+2016,Best Bluegrass Album,Doyle Lawson,Burden Bearer,False
+2016,Best Bluegrass Album,Blue Highway,Original Traditional,False
 2016,Best Bluegrass Album,Mark O'Connor,Coming Home,True
-2016,Best Boxed Or Special Limited Edition Package,,Edith Piaf 1915-2015,True
-2016,Best Chamber Music/Small Ensemble Performance,,Steve Reich,True
+2016,Best Children's Album,The Okee Dokee Brothers,Saddle Up,False
+2016,Best Children's Album,Brady Rymer,Press Play,False
+2016,Best Children's Album,Recess Monkey,Novelties,False
+2016,Best Children's Album,Frances England,Explorer Of The World,False
 2016,Best Children's Album,Secret Agent 23 Skidoo,Infinity Plus One,True
-2016,Best Choral Performance,,"Penderecki Conducts Penderecki, Volume 1",True
-2016,Best Classical Compendium,,Daugherty: Tales Of Hemingway; American Gothic; Once Upon A Castle,True
-2016,Best Classical Instrumental Solo,,Daugherty: Tales Of Hemingway,True
-2016,Best Classical Solo Vocal Album,,Shakespeare Songs,True
+2016,Best Comedy Album,Amy Schumer,Live At The Apollo,False
+2016,Best Comedy Album,Tig Notaro,Boyish Girl Interrupted,False
+2016,Best Comedy Album,Margaret Cho,American Myth,False
+2016,Best Comedy Album,David Cross,...America...Great…,False
 2016,Best Comedy Album,Patton Oswalt,Talking For Clapping,True
-2016,Best Compilation Soundtrack For Visual Media,,Miles Ahead,True
+2016,Best Contemporary Blues Album,Joe Louis Walker,Everybody Wants A Piece,False
+2016,Best Contemporary Blues Album,The Record Company,Give It Back To You,False
+2016,Best Contemporary Blues Album,Kenny Neal,Bloodline,False
+2016,Best Contemporary Blues Album,Janiva Magness,Love Wins Again,False
 2016,Best Contemporary Blues Album,Fantastic Negrito,The Last Days Of Oakland,True
+2016,Best Contemporary Christian Music Album,Natalie Grant,Be One,False
+2016,Best Contemporary Christian Music Album,Crowder,American Prodigal,False
 2016,Best Contemporary Christian Music Album,Hillary Scott,Love Remains,True
-2016,Best Contemporary Christian Music Performance/Song,,Thy Will,True
-2016,Best Contemporary Classical Composition,,Daugherty: Tales Of Hemingway,True
+2016,Best Contemporary Instrumental Album,Chuck Loeb,Unspoken,False
+2016,Best Contemporary Instrumental Album,Steve Gadd Band,"Way Back Home: Live From Rochester, NY",False
+2016,Best Contemporary Instrumental Album,Bill Frisell,When You Wish Upon A Star,False
+2016,Best Contemporary Instrumental Album,Herb Alpert,Human Nature,False
 2016,Best Contemporary Instrumental Album,Snarky Puppy,Culcha Vulcha,True
+2016,Best Country Album,Keith Urban,Ripcord,False
+2016,Best Country Album,Maren Morris,Hero,False
+2016,Best Country Album,Loretta Lynn,Full Circle,False
+2016,Best Country Album,Brandy Clark,Big Day In A Small Town,False
 2016,Best Country Album,Sturgill Simpson,A Sailor's Guide To Earth,True
+2016,Best Country Duo/Group Performance,Chris Young,Think Of You,False
+2016,Best Country Duo/Group Performance,Kenny Chesney,Setting The World On Fire,False
+2016,Best Country Duo/Group Performance,Brothers Osborne,21 Summer,False
+2016,Best Country Duo/Group Performance,Dierks Bentley,Different For Girls,False
 2016,Best Country Duo/Group Performance,Pentatonix,Jolene,True
+2016,Best Country Solo Performance,Keith Urban,Blue Ain't Your Color,False
+2016,Best Country Solo Performance,Carrie Underwood,Church Bells,False
+2016,Best Country Solo Performance,Miranda Lambert,Vice,False
+2016,Best Country Solo Performance,Brandy Clark,Love Can Go To Hell,False
 2016,Best Country Solo Performance,Maren Morris,My Church,True
-2016,Best Country Song,,Humble And Kind,True
+2016,Best Dance Recording,Sofi Tukker,Drinkee,False
+2016,Best Dance Recording,Riton,Rinse & Repeat,False
+2016,Best Dance Recording,Flume,Never Be Like You,False
+2016,Best Dance Recording,Bob Moses,Tearing Me Up,False
 2016,Best Dance Recording,The Chainsmokers,Don't Let Me Down,True
+2016,Best Dance/Electronic Album,Louie Vega,Louie Vega Starring...XXVIII,False
+2016,Best Dance/Electronic Album,Underworld,"Barbara Barbara, We Face A Shining Future",False
+2016,Best Dance/Electronic Album,Tycho,Epoch,False
+2016,Best Dance/Electronic Album,Jean-Michel Jarre,Electronica 1: The Time Machine,False
 2016,Best Dance/Electronic Album,Flume,Skin,True
-2016,"Best Engineered Album, Classical",,Corigliano: The Ghosts Of Versailles,True
-2016,"Best Engineered Album, Non-Classical",,Blackstar,True
+2016,Best Folk Album,Sierra Hull,Weighted Mind,False
+2016,Best Folk Album,Rhiannon Giddens,Factory Girl,False
+2016,Best Folk Album,Robbie Fulks,Upland Stories,False
+2016,Best Folk Album,Judy Collins,Silver Skies Blue,False
 2016,Best Folk Album,Sarah Jarosz,Undercurrent,True
+2016,Best Gospel Album,William Murphy,Demonstrate [Live],False
+2016,Best Gospel Album,Todd Dulaney,A Worshipper's Heart [Live],False
+2016,Best Gospel Album,Shirley Caesar,Fill This House,False
+2016,Best Gospel Album,Tim Bowman Jr.,Listen,False
 2016,Best Gospel Album,Kirk Franklin,Losing My Religion,True
-2016,Best Gospel Performance/Song,,God Provides,True
-2016,Best Historical Album,,"The Cutting Edge 1965-1966: The Bootleg Series, Vol.12",True
-2016,Best Improvised Jazz Solo,,I’m So Lonesome I Could Cry,True
-2016,Best Instrumental Composition,,Spoken At Midnight,True
+2016,Best Jazz Instrumental Album,Joshua Redman,Nearness,False
+2016,Best Jazz Instrumental Album,The Fred Hersch Trio,Sunday Night At The Vanguard,False
+2016,Best Jazz Instrumental Album,Peter Erskine,Dr. Um,False
+2016,Best Jazz Instrumental Album,Kenny Barron Trio,Book Of Intuition,False
 2016,Best Jazz Instrumental Album,John Scofield,Country For Old Men,True
+2016,Best Jazz Vocal Album,The Tierney Sutton Band,The Sting Variations,False
+2016,Best Jazz Vocal Album,Catherine Russell,Harlem On My Mind,False
+2016,Best Jazz Vocal Album,Branford Marsalis Quartet,Upward Spiral,False
+2016,Best Jazz Vocal Album,René Marie,Sound Of Red,False
 2016,Best Jazz Vocal Album,Gregory Porter,Take Me To The Alley,True
+2016,Best Large Jazz Ensemble Album,Bob Mintzer,All L.A. Band,False
+2016,Best Large Jazz Ensemble Album,John Daversa,Kaleidoscope Eyes: Music Of The Beatles,False
+2016,Best Large Jazz Ensemble Album,John Beasley,"MONK'estra, Vol. 1",False
+2016,Best Large Jazz Ensemble Album,Darcy James Argue's Secret Society,Real Enemies,False
 2016,Best Large Jazz Ensemble Album,Ted Nash Big Band,Presidential Suite: Eight Variations On Freedom,True
+2016,Best Latin Jazz Album,Trio Da Paz,30,False
+2016,Best Latin Jazz Album,Michael Spiro/Wayne Wallace La Orquesta Sinfonietta,Canto América,False
+2016,Best Latin Jazz Album,Andy González,Entre Colegas,False
 2016,Best Latin Jazz Album,Chucho Valdés,Tribute To Irakere: Live In Marciac,True
-2016,Best Latin Pop Album,,Un Besito Más,True
+2016,Best Latin Pop Album,Diego Torres,Buena Vida,False
+2016,Best Latin Pop Album,Sanalejo,Seguir Latiendo,False
+2016,Best Latin Pop Album,Laura Pausini,Similares,False
+2016,Best Latin Pop Album,Gaby Moreno,Ilusión,False
+2016,"Best Latin Rock, Urban or Alternative Album",Carla Morrison,Amor Supremo,False
+2016,"Best Latin Rock, Urban or Alternative Album",Los Rakas,Los Rakas,False
+2016,"Best Latin Rock, Urban or Alternative Album",La Santa Cecilia,Buenaventura,False
 2016,"Best Latin Rock, Urban or Alternative Album",iLe,iLevitable,True
+2016,Best Metal Performance,Periphery,The Price Is Wrong,False
+2016,Best Metal Performance,Korn,Rotting In Vain,False
+2016,Best Metal Performance,Gojira,Silvera,False
+2016,Best Metal Performance,Baroness,Shock Me,False
 2016,Best Metal Performance,Megadeth,Dystopia,True
-2016,Best Music Film,,The Beatles: Eight Days A Week The Touring Years,True
+2016,Best Music Film,Yo-Yo Ma,The Music Of Strangers,False
+2016,Best Music Film,Beyoncé,Lemonade,False
+2016,Best Music Film,Steve Aoki,I'll Sleep When I'm Dead,False
+2016,Best Music Video,OK Go,Upside Down & Inside Out,False
+2016,Best Music Video,Jamie XX,Gosh,False
+2016,Best Music Video,Coldplay,Up&Up,False
+2016,Best Music Video,Leon Bridges,River,False
 2016,Best Music Video,Beyoncé,Formation,True
-2016,Best Musical Theater Album,,The Color Purple,True
+2016,Best New Age Album,Vangelis,Rosetta,False
+2016,Best New Age Album,Peter Kater,Inner Passion,False
+2016,Best New Age Album,Enya,Dark Sky Island,False
+2016,Best New Age Album,John Burke,Orogen,False
 2016,Best New Age Album,White Sun,White Sun II,True
-2016,Best New Artist,,Chance The Rapper,True
-2016,Best Opera Recording,,Corigliano: The Ghosts Of Versailles,True
-2016,Best Orchestral Performance,,"Shostakovich: Under Stalin's Shadow - Symphonies Nos. 5, 8 & 9",True
+2016,Best Pop Duo/Group Performance,Sia,Cheap Thrills,False
+2016,Best Pop Duo/Group Performance,Rihanna,Work,False
+2016,Best Pop Duo/Group Performance,Lukas Graham,7 Years,False
+2016,Best Pop Duo/Group Performance,The Chainsmokers,Closer,False
 2016,Best Pop Duo/Group Performance,Twenty One Pilots,Stressed Out,True
+2016,Best Pop Solo Performance,Ariana Grande,Dangerous Woman,False
+2016,Best Pop Solo Performance,Kelly Clarkson,Piece By Piece,False
+2016,Best Pop Solo Performance,Justin Bieber,Love Yourself,False
+2016,Best Pop Solo Performance,Beyoncé,Hold Up,False
 2016,Best Pop Solo Performance,Adele,Hello,True
+2016,Best Pop Vocal Album,Sia,This Is Acting,False
+2016,Best Pop Vocal Album,Demi Lovato,Confident,False
+2016,Best Pop Vocal Album,Ariana Grande,Dangerous Woman,False
+2016,Best Pop Vocal Album,Justin Bieber,Purpose,False
 2016,Best Pop Vocal Album,Adele,25,True
+2016,Best R&B Album,Mýa,Smoove Jones,False
+2016,Best R&B Album,Mint Condition,Healing Season,False
+2016,Best R&B Album,Terrace Martin,Velvet Portraits,False
+2016,Best R&B Album,BJ The Chicago Kid,In My Mind,False
 2016,Best R&B Album,Lalah Hathaway,Lalah Hathaway Live,True
+2016,Best R&B Performance,Rihanna,Needed Me,False
+2016,Best R&B Performance,Musiq Soulchild,I Do,False
+2016,Best R&B Performance,Ro James,Permission,False
+2016,Best R&B Performance,BJ The Chicago Kid,Turnin' Me Up,False
 2016,Best R&B Performance,Solange,Cranes In The Sky,True
-2016,Best R&B Song,,Lake By The Ocean,True
+2016,Best Rap Album,Kanye West,The Life Of Pablo,False
+2016,Best Rap Album,ScHoolboy Q,Blank Face LP,False
+2016,Best Rap Album,Drake,Views,False
+2016,Best Rap Album,DJ Khaled,Major Key,False
+2016,Best Rap Album,De La Soul,And The Anonymous Nobody,False
 2016,Best Rap Album,Chance The Rapper,Coloring Book,True
+2016,Best Rap Performance,Schoolboy Q,That Part,False
+2016,Best Rap Performance,Fat Joe,All The Way Up,False
+2016,Best Rap Performance,Drake,Pop Style,False
+2016,Best Rap Performance,Desiigner,Panda,False
 2016,Best Rap Performance,Chance The Rapper,No Problem,True
-2016,Best Rap Song,,Hotline Bling,True
+2016,Best Rap/Sung Performance,Kanye West,Famous,False
+2016,Best Rap/Sung Performance,Kanye West,Ultralight Beam,False
+2016,Best Rap/Sung Performance,D.R.A.M.,Broccoli,False
+2016,Best Rap/Sung Performance,Beyoncé,Freedom,False
 2016,Best Rap/Sung Performance,Drake,Hotline Bling,True
-2016,Best Recording Package,,Blackstar,True
+2016,Best Reggae Album,SOJA,SOJA: Live In Virginia,False
+2016,Best Reggae Album,Rebelution,Falling Into Place,False
+2016,Best Reggae Album,Raging Fyah,Everlasting,False
+2016,Best Reggae Album,J Boog,Rose Petals,False
+2016,Best Reggae Album,Devin Di Dakta,Sly & Robbie Presents... Reggae For Her,False
 2016,Best Reggae Album,Ziggy Marley,Ziggy Marley,True
+2016,Best Regional Mexican Music Album (Including Tejano),Mariachi Divas De Cindy Shea,Tributo A Joan Sebastian Y Rigoberto Alfaro,False
+2016,Best Regional Mexican Music Album (Including Tejano),La Maquinaria Norteña,Generación Maquinaria Est. 2006.,False
+2016,Best Regional Mexican Music Album (Including Tejano),Joss Favela,Hecho A Mano,False
+2016,Best Regional Mexican Music Album (Including Tejano),Banda El Recodo De Cruz Lizárraga,Raíces,False
 2016,Best Regional Mexican Music Album (Including Tejano),Vicente Fernández,"Un Azteca En El Azteca, Vol. 1",True
+2016,Best Regional Roots Music Album,Roddie Romero,Gulfstream,False
+2016,Best Regional Roots Music Album,Northern Cree,It's A Cree Thing,False
+2016,Best Regional Roots Music Album,Barry Jean Ancelet,Broken Promised Land,False
 2016,Best Regional Roots Music Album,Kalani Pe'a,E Walea,True
-2016,Best Remixed Recording,,Tearing Me Up,True
+2016,Best Rock Album,Weezer,Weezer,False
+2016,Best Rock Album,Panic! At The Disco,Death Of A Bachelor,False
+2016,Best Rock Album,Gojira,Magma,False
+2016,Best Rock Album,Blink-182,California,False
 2016,Best Rock Album,Cage The Elephant,Tell Me I'm Pretty,True
+2016,Best Rock Performance,Twenty One Pilots,Heathens,False
+2016,Best Rock Performance,Disturbed,The Sound Of Silence,False
+2016,Best Rock Performance,Beyoncé,Don't Hurt Yourself,False
+2016,Best Rock Performance,Alabama Shakes,Joe,False
 2016,Best Rock Performance,David Bowie,Blackstar,True
-2016,Best Rock Song,,Blackstar,True
+2016,Best Roots Gospel Album,Gordon Mote,Hymns And Songs Of Inspiration,False
+2016,Best Roots Gospel Album,The Isaacs,Nature's Symphony In 432,False
+2016,Best Roots Gospel Album,Gaither Vocal Band,Better Together,False
 2016,Best Roots Gospel Album,Joey+Rory,Hymns,True
-2016,Best Score Soundtrack For Visual Media,,Star Wars: The Force Awakens,True
+2016,Best Song Written For Visual Media,Peter Gabriel,The Veil,False
+2016,Best Song Written For Visual Media,Mikkel S. Eriksen,Try Everything,False
+2016,Best Song Written For Visual Media,Shamann Cooke,Purple Lamborghini,False
+2016,Best Song Written For Visual Media,Oscar Holter,Just Like Fire,False
+2016,Best Song Written For Visual Media,Tyler Joseph,Heathens,False
 2016,Best Song Written For Visual Media,Max Martin,Can't Stop The Feeling!,True
+2016,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Elvis Costello,Unfaithful Music & Disappearing Ink,False
+2016,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Patti Smith,M Train,False
+2016,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Amy Schumer,The Girl With The Lower Back Tattoo,False
 2016,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Carol Burnett,"In Such Good Company: Eleven Years Of Laughter, Mayhem, And Fun In The Sandbox",True
-2016,Best Surround Sound Album,,"Dutilleux: Sur Le Même Accord; Les Citations; Mystère De L'instant & Timbres, Espace, Mouvement",True
+2016,Best Traditional Blues Album,Vasti Jackson,The Soul Of Jimmie Rodgers,False
+2016,Best Traditional Blues Album,Luther Dickinson,Blues & Ballads,False
+2016,Best Traditional Blues Album,Joe Bonamassa,Live At The Greek Theatre,False
+2016,Best Traditional Blues Album,Lurrie Bell,Can't Shake This Feeling,False
 2016,Best Traditional Blues Album,Bobby Rush,Porcupine Meat,True
+2016,Best Traditional Pop Vocal Album,Barbra Streisand,Encore: Movie Partners Sing Broadway,False
+2016,Best Traditional Pop Vocal Album,Josh Groban,Stages Live,False
+2016,Best Traditional Pop Vocal Album,Bob Dylan,Fallen Angels,False
+2016,Best Traditional Pop Vocal Album,Andrea Bocelli,Cinema,False
 2016,Best Traditional Pop Vocal Album,Willie Nelson,Summertime: Willie Nelson Sings Gershwin,True
+2016,Best Traditional R&B Performance,Jill Scott,Can't Wait,False
+2016,Best Traditional R&B Performance,Fantasia,Sleeping With The One I Love,False
+2016,Best Traditional R&B Performance,BJ The Chicago Kid,Woman's World,False
+2016,Best Traditional R&B Performance,William Bell,The Three Of Me,False
 2016,Best Traditional R&B Performance,Lalah Hathaway,Angel,True
+2016,Best Tropical Latin Album,La Sonora Santanera,La Sonora Santanera En Su 60 Aniversario,False
+2016,Best Tropical Latin Album,Grupo Niche,35 Aniversario,False
+2016,Best Tropical Latin Album,Formell Y Los Van Van,La Fantasia Homenaje A Juan Formell,False
+2016,Best Tropical Latin Album,Fonseca,Conexión,False
 2016,Best Tropical Latin Album,Jose Lugo,Donde Están?,True
+2016,Best Urban Contemporary Album,Rihanna,Anti,False
+2016,Best Urban Contemporary Album,Anderson .Paak,Malibu,False
+2016,Best Urban Contemporary Album,KING,We Are King,False
+2016,Best Urban Contemporary Album,Gallant,Ology,False
 2016,Best Urban Contemporary Album,Beyoncé,Lemonade,True
+2016,Best World Music Album,Caetano Veloso,"Dois Amigos, Um Século De Música: Multishow Live",False
+2016,Best World Music Album,Anoushka Shankar,Land Of Gold,False
+2016,Best World Music Album,Ladysmith Black Mambazo,Walking In The Footsteps Of Our Fathers,False
+2016,Best World Music Album,Celtic Woman,Destiny,False
 2016,Best World Music Album,Yo-Yo Ma,Sing Me Home,True
-2016,"Producer Of The Year, Classical",,David Frost,True
-2016,"Producer Of The Year, Non-Classical",,Greg Kurstin,True
+2016,Record Of The Year,Twenty One Pilots,Stressed Out,False
+2016,Record Of The Year,Rihanna,Work,False
+2016,Record Of The Year,Lukas Graham,7 Years,False
+2016,Record Of The Year,Beyoncé,Formation,False
 2016,Record Of The Year,Adele,Hello,True
-2016,Song Of The Year,,Hello,True
+2017,Album Of The Year,Lorde,Melodrama,False
+2017,Album Of The Year,Kendrick Lamar,DAMN.,False
+2017,Album Of The Year,JAY-Z,4:44,False
+2017,Album Of The Year,Childish Gambino,"Awaken, My Love!",False
 2017,Album Of The Year,Bruno Mars,24K Magic,True
-2017,Best Album Notes,,Live At The Whisky A Go Go: The Complete Recordings,True
+2017,Best Alternative Music Album,Father John Misty,Pure Comedy,False
+2017,Best Alternative Music Album,LCD Soundsystem,American Dream,False
+2017,Best Alternative Music Album,Gorillaz,Humanz,False
+2017,Best Alternative Music Album,Arcade Fire,Everything Now,False
 2017,Best Alternative Music Album,The National,Sleep Well Beast,True
+2017,Best American Roots Performance,Alison Krauss,I Never Cared For You,False
+2017,Best American Roots Performance,Leonard Cohen,Steer Your Way,False
+2017,Best American Roots Performance,Glen Campbell,Arkansas Farmboy,False
+2017,Best American Roots Performance,Blind Boys Of Alabama,Let My Mother Live,False
 2017,Best American Roots Performance,Alabama Shakes,Killer Diller Blues,True
-2017,Best American Roots Song,,If We Were Vampires,True
+2017,Best Americana Album,The Mavericks,Brand New Day,False
+2017,Best Americana Album,Brent Cobb,Shine On Rainy Day,False
+2017,Best Americana Album,Gregg Allman,Southern Blood,False
 2017,Best Americana Album,Jason Isbell,The Nashville Sound,True
-2017,"Best Arrangement, Instrumental or A Cappella",,Escapades For Alto Saxophone And Orchestra From Catch Me If You Can,True
-2017,"Best Arrangement, Instruments and Vocals",,Putin,True
+2017,Best Bluegrass Album,Noam Pikelny,Universal Favorite,False
+2017,Best Bluegrass Album,Bobby Osborne,Original,False
+2017,Best Bluegrass Album,Michael Cleveland,Fiddler's Dream,False
 2017,Best Bluegrass Album,Rhonda Vincent,All The Rage - In Concert Volume One [Live],True
-2017,Best Boxed Or Special Limited Edition Package,,The Voyager Golden Record: 40th Anniversary Edition,True
-2017,Best Chamber Music/Small Ensemble Performance,,Death & The Maiden,True
+2017,Best Children's Album,Ladysmith Black Mambazo,Songs Of Peace & Love For Kids & Parents Around The World,False
+2017,Best Children's Album,Alphabet Rockers,Rise Shine #Woke,False
+2017,Best Children's Album,Justin Roberts,Lemonade,False
+2017,Best Children's Album,Gustafer Yellowgold,Brighter Side,False
 2017,Best Children's Album,Lisa Loeb,Feel What U Feel,True
-2017,Best Choral Performance,,Bryars: The Fifth Century,True
-2017,Best Classical Compendium,,"Higdon: All Things Majestic, Viola Concerto & Oboe Concerto",True
-2017,Best Classical Instrumental Solo,,Transcendental,True
-2017,Best Classical Solo Vocal Album,,Crazy Girl Crazy,True
+2017,Best Comedy Album,Kevin Hart,What Now?,False
+2017,Best Comedy Album,Sarah Silverman,A Speck Of Dust,False
+2017,Best Comedy Album,Jerry Seinfeld,Jerry Before Seinfeld,False
+2017,Best Comedy Album,Jim Gaffigan,Cinco,False
 2017,Best Comedy Album,Dave Chappelle,The Age Of Spin & Deep In The Heart Of Texas,True
-2017,Best Compilation Soundtrack For Visual Media,,La La Land,True
+2017,Best Contemporary Blues Album,Tedeschi Trucks Band,Live From The Fox Oakland,False
+2017,Best Contemporary Blues Album,Robert Randolph,Got Soul,False
+2017,Best Contemporary Blues Album,Sonny Landreth,Recorded Live In Lafayette,False
+2017,Best Contemporary Blues Album,Robert Cray,Robert Cray & Hi Rhythm,False
 2017,Best Contemporary Blues Album,Taj Mahal,TajMo,True
+2017,Best Contemporary Christian Music Album,Tauren Wells,Hills And Valleys,False
+2017,Best Contemporary Christian Music Album,MercyMe,Lifer,False
+2017,Best Contemporary Christian Music Album,Matt Maher,Echoes,False
+2017,Best Contemporary Christian Music Album,Danny Gokey,Rise,False
 2017,Best Contemporary Christian Music Album,Zach Williams,Chain Breaker,True
-2017,Best Contemporary Christian Music Performance/Song,,What A Beautiful Name,True
-2017,Best Contemporary Classical Composition,,Viola Concerto,True
+2017,Best Contemporary Instrumental Album,Antonio Sanchez,Bad Hombre,False
+2017,Best Contemporary Instrumental Album,Julian Lage,Mount Royal,False
+2017,Best Contemporary Instrumental Album,Alex Han,Spirit,False
+2017,Best Contemporary Instrumental Album,The Jerry Douglas Band,What If,False
 2017,Best Contemporary Instrumental Album,Jeff Lorber Fusion,Prototype,True
+2017,Best Country Album,Thomas Rhett,Life Changes,False
+2017,Best Country Album,Little Big Town,The Breaker,False
+2017,Best Country Album,Lady Antebellum,Heart Break,False
+2017,Best Country Album,Kenny Chesney,Cosmic Hallelujah,False
 2017,Best Country Album,Chris Stapleton,From A Room: Volume 1,True
+2017,Best Country Duo/Group Performance,Midland,Drinkin' Problem,False
+2017,Best Country Duo/Group Performance,Lady Antebellum,You Look Good,False
+2017,Best Country Duo/Group Performance,Zac Brown Band,My Old Man,False
+2017,Best Country Duo/Group Performance,Brothers Osborne,It Ain't My Fault,False
 2017,Best Country Duo/Group Performance,Little Big Town,Better Man,True
+2017,Best Country Solo Performance,Maren Morris,I Could Use A Love Song,False
+2017,Best Country Solo Performance,Miranda Lambert,Tin Man,False
+2017,Best Country Solo Performance,Alison Krauss,Losing You,False
+2017,Best Country Solo Performance,Sam Hunt,Body Like A Back Road,False
 2017,Best Country Solo Performance,Chris Stapleton,Either Way,True
-2017,Best Country Song,,Broken Halos,True
+2017,Best Dance Recording,ODESZA,Line Of Sight,False
+2017,Best Dance Recording,Gorillaz,Andromeda,False
+2017,Best Dance Recording,CamelPhat,Cola,False
+2017,Best Dance Recording,Bonobo,Bambro Koyo Ganda,False
 2017,Best Dance Recording,LCD Soundsystem,Tonite,True
+2017,Best Dance/Electronic Album,Sylvan Esso,What Now,False
+2017,Best Dance/Electronic Album,ODESZA,A Moment Apart,False
+2017,Best Dance/Electronic Album,Mura Masa,Mura Masa,False
+2017,Best Dance/Electronic Album,Bonobo,Migration,False
 2017,Best Dance/Electronic Album,Kraftwerk,3-D The Catalogue,True
-2017,"Best Engineered Album, Classical",,Shostakovich: Symphony No. 5; Barber: Adagio,True
-2017,"Best Engineered Album, Non-Classical",,24K Magic,True
+2017,Best Folk Album,Yusuf / Cat Stevens,The Laughing Apple,False
+2017,Best Folk Album,The Secret Sisters,You Don't Own Me Anymore,False
+2017,Best Folk Album,Offa Rex,The Queen Of Hearts,False
+2017,Best Folk Album,Laura Marling,Semper Femina,False
 2017,Best Folk Album,Aimee Mann,Mental Illness,True
+2017,Best Gospel Album,Anita Wilson,Sunday Song,False
+2017,Best Gospel Album,Marvin Sapp,Close,False
+2017,Best Gospel Album,Le'Andria,Bigger Than Me,False
+2017,Best Gospel Album,Travis Greene,Crossover: Live From Music City,False
 2017,Best Gospel Album,CeCe Winans,Let Them Fall In Love,True
-2017,Best Gospel Performance/Song,,Never Have To Be Alone,True
-2017,Best Historical Album,,Leonard Bernstein - The Composer,True
-2017,Best Improvised Jazz Solo,,Miles Beyond,True
-2017,Best Instrumental Composition,,Three Revolutions,True
+2017,Best Jazz Instrumental Album,Chris Potter,The Dreamer Is The Dream,False
+2017,Best Jazz Instrumental Album,Fred Hersch,Open Book,False
+2017,Best Jazz Instrumental Album,Joey DeFrancesco,Project Freedom,False
+2017,Best Jazz Instrumental Album,Bill Charlap Trio,"Uptown, Downtown",False
 2017,Best Jazz Instrumental Album,Billy Childs,Rebirth,True
+2017,Best Jazz Vocal Album,Randy Porter Trio,Porter Plays Porter,False
+2017,Best Jazz Vocal Album,Raul Midón,Bad Ass And Blind,False
+2017,Best Jazz Vocal Album,Jazzmeia Horn,A Social Call,False
+2017,Best Jazz Vocal Album,The Baylor Project,The Journey,False
 2017,Best Jazz Vocal Album,Cécile McLorin Salvant,Dreams And Daggers,True
+2017,Best Large Jazz Ensemble Album,Chuck Owen,Whispers On The Wind,False
+2017,Best Large Jazz Ensemble Album,Vince Mendoza,Homecoming,False
+2017,Best Large Jazz Ensemble Album,Alan Ferber Big Band,Jigsaw,False
+2017,Best Large Jazz Ensemble Album,John Beasley,MONK'estra Vol. 2,False
 2017,Best Large Jazz Ensemble Album,Christian McBride Big Band,Bringin' It,True
+2017,Best Latin Jazz Album,Miguel Zenón,Típico,False
+2017,Best Latin Jazz Album,Anat Cohen,Outra Coisa - The Music Of Moacir Santos,False
+2017,Best Latin Jazz Album,Jane Bunnett,Oddara,False
+2017,Best Latin Jazz Album,Antonio Adolfo,Hybrido - From Rio To Wayne Shorter,False
 2017,Best Latin Jazz Album,Pablo Ziegler Trio,Jazz Tango,True
+2017,Best Latin Pop Album,Natalia Lafourcade,Musas,False
+2017,Best Latin Pop Album,La Santa Cecilia,"Amar Y Vivir  En Vivo Desde La Ciudad De México, 2017",False
+2017,Best Latin Pop Album,Juanes,Mis Planes Son Amarte,False
+2017,Best Latin Pop Album,Alex Cuba,Lo Único Constante,False
 2017,Best Latin Pop Album,Shakira,El Dorado,True
+2017,"Best Latin Rock, Urban or Alternative Album",Los Amigos Invisibles,El Paradise,False
+2017,"Best Latin Rock, Urban or Alternative Album",Jorge Drexler,Salvavidas De Hielo,False
+2017,"Best Latin Rock, Urban or Alternative Album",C4 Trío,Pa' Fuera,False
+2017,"Best Latin Rock, Urban or Alternative Album",Bomba Estéreo,Ayo,False
 2017,"Best Latin Rock, Urban or Alternative Album",Residente,Residente,True
+2017,Best Metal Performance,Meshuggah,Clockworks,False
+2017,Best Metal Performance,Code Orange,Forever,False
+2017,Best Metal Performance,Body Count,Black Hoodie,False
+2017,Best Metal Performance,August Burns Red,Invisible Enemy,False
 2017,Best Metal Performance,Mastodon,Sultan’s Curse,True
-2017,Best Music Film,,The Defiant Ones,True
+2017,Best Music Film,Nick Cave,One More Time With Feeling,False
+2017,Best Music Video,Logic,1-800-273-8255,False
+2017,Best Music Video,JAY-Z,The Story Of O.J.,False
+2017,Best Music Video,Jain,Makeba,False
+2017,Best Music Video,Beck,Up All Night,False
 2017,Best Music Video,Kendrick Lamar,HUMBLE.,True
-2017,Best Musical Theater Album,,Dear Evan Hansen,True
+2017,Best New Age Album,Steve Roach,Spiral Revelation,False
+2017,Best New Age Album,Kitaro,"Sacred Journey Of Ku-Kai, Volume 5",False
+2017,Best New Age Album,India.Arie,SongVersation: Medicine,False
+2017,Best New Age Album,Brian Eno,Reflection,False
 2017,Best New Age Album,Peter Kater,Dancing On Water,True
-2017,Best New Artist,,Alessia Cara,True
-2017,Best Opera Recording,,Berg: Wozzeck,True
-2017,Best Orchestral Performance,,Shostakovich: Symphony No. 5; Barber: Adagio,True
+2017,Best Pop Duo/Group Performance,Zedd,Stay,False
+2017,Best Pop Duo/Group Performance,Imagine Dragons,Thunder,False
+2017,Best Pop Duo/Group Performance,Luis Fonsi,Despacito,False
+2017,Best Pop Duo/Group Performance,The Chainsmokers,Something Just Like This,False
 2017,Best Pop Duo/Group Performance,Portugal. The Man,Feel It Still,True
+2017,Best Pop Solo Performance,P!nk,What About Us,False
+2017,Best Pop Solo Performance,Lady Gaga,Million Reasons,False
+2017,Best Pop Solo Performance,Kesha,Praying,False
+2017,Best Pop Solo Performance,Kelly Clarkson,Love So Soft,False
 2017,Best Pop Solo Performance,Ed Sheeran,Shape Of You,True
+2017,Best Pop Vocal Album,Lady Gaga,Joanne,False
+2017,Best Pop Vocal Album,Kesha,Rainbow,False
+2017,Best Pop Vocal Album,Imagine Dragons,Evolve,False
+2017,Best Pop Vocal Album,Lana Del Rey,Lust For Life,False
+2017,Best Pop Vocal Album,Coldplay,Kaleidoscope EP,False
 2017,Best Pop Vocal Album,Ed Sheeran,÷,True
+2017,Best R&B Album,Musiq Soulchild,Feel The Real,False
+2017,Best R&B Album,PJ Morton,Gumbo,False
+2017,Best R&B Album,Ledisi,Let Love Rule,False
+2017,Best R&B Album,Daniel Caesar,Freudian,False
 2017,Best R&B Album,Bruno Mars,24K Magic,True
+2017,Best R&B Performance,SZA,The Weekend,False
+2017,Best R&B Performance,Ledisi,High,False
+2017,Best R&B Performance,Kehlani,Distraction,False
+2017,Best R&B Performance,Daniel Caesar,Get You,False
 2017,Best R&B Performance,Bruno Mars,That's What I Like,True
-2017,Best R&B Song,,That's What I Like,True
+2017,Best Rap Album,Rapsody,Laila's Wisdom,False
+2017,Best Rap Album,Migos,Culture,False
+2017,Best Rap Album,JAY-Z,4:44,False
 2017,Best Rap Album,Kendrick Lamar,DAMN.,True
+2017,Best Rap Performance,Migos,Bad And Boujee,False
+2017,Best Rap Performance,JAY-Z,4:44,False
+2017,Best Rap Performance,Cardi B,Bodak Yellow,False
+2017,Best Rap Performance,Big Sean,Bounce Back,False
 2017,Best Rap Performance,Kendrick Lamar,HUMBLE.,True
-2017,Best Rap Song,,HUMBLE.,True
+2017,Best Rap/Sung Performance,SZA,Love Galore,False
+2017,Best Rap/Sung Performance,JAY-Z,Family Feud,False
+2017,Best Rap/Sung Performance,Goldlink,Crew,False
+2017,Best Rap/Sung Performance,6LACK,PRBLMS,False
 2017,Best Rap/Sung Performance,Kendrick Lamar,LOYALTY.,True
-2017,Best Recording Package,,Pure Comedy,True
+2017,Best Reggae Album,Morgan Heritage,Avrakedabra,False
+2017,Best Reggae Album,J Boog,Wash House Ting,False
+2017,Best Reggae Album,Common Kings,Lost In Paradise,False
+2017,Best Reggae Album,Chronixx,Chronology,False
 2017,Best Reggae Album,Damian  Jr. Gong  Marley,Stony Hill,True
+2017,Best Regional Mexican Music Album (Including Tejano),Alex Campos,Momentos,False
+2017,Best Regional Mexican Music Album (Including Tejano),Julión Álvarez Y Su Norteño Banda,Ni Diablo Ni Santo,False
 2017,Best Regional Mexican Music Album (Including Tejano),Aida Cuevas,Arrieros Somos Sesiones Acústicas,True
+2017,Best Regional Roots Music Album,Josh Tatofi,Pua Kiele,False
+2017,Best Regional Roots Music Album,Northern Cree,"Miyo Kekisepa, Make A Stand [Live]",False
+2017,Best Regional Roots Music Album,Dwayne Dopsie,Top Of The Mountain,False
 2017,Best Regional Roots Music Album,Lost Bayou Ramblers,Kalenda,True
-2017,Best Remixed Recording,,You Move,True
+2017,Best Rock Album,Queens Of The Stone Age,Villains,False
+2017,Best Rock Album,Nothing More,The Stories We Tell Ourselves,False
+2017,Best Rock Album,Metallica,Hardwired...To Self-Destruct,False
+2017,Best Rock Album,Mastodon,Emperor Of Sand,False
 2017,Best Rock Album,The War On Drugs,A Deeper Understanding,True
+2017,Best Rock Performance,Nothing More,Go To War,False
+2017,Best Rock Performance,Kaleo,No Good,False
+2017,Best Rock Performance,Foo Fighters,Run,False
+2017,Best Rock Performance,Chris Cornell,The Promise,False
 2017,Best Rock Performance,Leonard Cohen,You Want It Darker,True
-2017,Best Rock Song,,Run,True
+2017,Best Roots Gospel Album,Joseph Habedank,Resurrection,False
+2017,Best Roots Gospel Album,Larry Cordle,Give Me Jesus,False
+2017,Best Roots Gospel Album,The Collingsworth Family,The Best Of The Collingsworth Family - Volume 1,False
 2017,Best Roots Gospel Album,Reba McEntire,Sing It Now: Songs Of Faith & Hope,True
-2017,Best Score Soundtrack For Visual Media,,La La Land,True
+2017,Best Song Written For Visual Media,Common,Stand Up For Something,False
+2017,Best Song Written For Visual Media,Sia Furler,Never Give Up,False
+2017,Best Song Written For Visual Media,Jack Antonoff,I Don't Wanna Live Forever,False
+2017,Best Song Written For Visual Media,Justin Hurwitz,City Of Stars,False
 2017,Best Song Written For Visual Media,Lin-Manuel Miranda,How Far I'll Go,True
+2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Bernie Sanders,Our Revolution: A Future to Believe In,False
+2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Shelly Peiken,Confessions Of A Serial Songwriter,False
+2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Bruce Springsteen,Born To Run,False
+2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Neil deGrasse Tyson,Astrophysics For People In A Hurry,False
 2017,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Carrie Fisher,The Princess Diarist,True
-2017,Best Surround Sound Album,,Early Americans,True
+2017,Best Traditional Blues Album,Guy Davis,Sonny & Brownie's Last Train,False
+2017,Best Traditional Blues Album,R.L. Boyce,Roll And Tumble,False
+2017,Best Traditional Blues Album,Elvin Bishop's Big Fun Trio,Elvin Bishop's Big Fun Trio,False
+2017,Best Traditional Blues Album,Eric Bibb,Migration Blues,False
 2017,Best Traditional Blues Album,The Rolling Stones,Blue & Lonesome,True
-2017,Best Traditional Pop Vocal Album,,Tony Bennett Celebrates 90,True
+2017,Best Traditional Pop Vocal Album,Sarah McLachlan,Wonderland,False
+2017,Best Traditional Pop Vocal Album,Seth MacFarlane,In Full Swing,False
+2017,Best Traditional Pop Vocal Album,Bob Dylan,Triplicate,False
+2017,Best Traditional Pop Vocal Album,Michael Bublé,Nobody But Me,False
+2017,Best Traditional R&B Performance,Mali Music,Still,False
+2017,Best Traditional R&B Performance,Ledisi,All The Way,False
+2017,Best Traditional R&B Performance,Anthony Hamilton,What I'm Feelin',False
 2017,Best Traditional R&B Performance,Childish Gambino,Redbone,True
-2017,Best Tropical Latin Album,,Salsa Big Band,True
+2017,Best Tropical Latin Album,Diego El Cigala,Indestructible,False
+2017,Best Tropical Latin Album,Silvestre Dangond,Gente Valiente,False
+2017,Best Tropical Latin Album,Doug Beavers,Art Of The Arrangement,False
+2017,Best Tropical Latin Album,Albita,Albita,False
+2017,Best Urban Contemporary Album,SZA,Ctrl,False
+2017,Best Urban Contemporary Album,Khalid,American Teen,False
+2017,Best Urban Contemporary Album,Childish Gambino,"Awaken, My Love!",False
+2017,Best Urban Contemporary Album,6LACK,Free 6LACK,False
 2017,Best Urban Contemporary Album,The Weeknd,Starboy,True
+2017,Best World Music Album,Tinariwen,Elwan,False
+2017,Best World Music Album,Anat Cohen,Rosa Dos Ventos,False
+2017,Best World Music Album,Buika,Para Mi,False
+2017,Best World Music Album,Vicente Amigo,Memoria De Los Sentidos,False
 2017,Best World Music Album,Ladysmith Black Mambazo,Shaka Zulu Revisited: 30th Anniversary Celebration,True
-2017,"Producer Of The Year, Classical",,David Frost,True
-2017,"Producer Of The Year, Non-Classical",,Greg Kurstin,True
+2017,Record Of The Year,Kendrick Lamar,HUMBLE.,False
+2017,Record Of The Year,JAY-Z,The Story Of O.J.,False
+2017,Record Of The Year,Luis Fonsi,Despacito,False
+2017,Record Of The Year,Childish Gambino,Redbone,False
 2017,Record Of The Year,Bruno Mars,24K Magic,True
-2017,Song Of The Year,,That's What I Like,True
+2018,Album Of The Year,Janelle Monáe,Dirty Computer,False
+2018,Album Of The Year,Post Malone,Beerbongs & Bentleys,False
+2018,Album Of The Year,H.E.R.,H.E.R.,False
+2018,Album Of The Year,Drake,Scorpion,False
+2018,Album Of The Year,Brandi Carlile,"By The Way, I Forgive You",False
+2018,Album Of The Year,Cardi B,Invasion Of Privacy,False
 2018,Album Of The Year,Kacey Musgraves,Golden Hour,True
-2018,Best Album Notes,,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,True
+2018,Best Alternative Music Album,St. Vincent,Masseduction,False
+2018,Best Alternative Music Album,Björk,Utopia,False
+2018,Best Alternative Music Album,Arctic Monkeys,Tranquility Base Hotel + Casino,False
 2018,Best Alternative Music Album,Beck,Colors,True
+2018,Best American Roots Performance,Willie Nelson,Last Man Standing,False
+2018,Best American Roots Performance,Anderson East,All On My Mind,False
+2018,Best American Roots Performance,Jon Batiste,Saint James Infirmary Blues,False
+2018,Best American Roots Performance,Sean Ardoin,Kick Rocks,False
 2018,Best American Roots Performance,Brandi Carlile,The Joke,True
-2018,Best American Roots Song,,The Joke,True
+2018,Best Americana Album,The Wood Brothers,One Drop Of Truth,False
+2018,Best Americana Album,Lee Ann Womack,"The Lonely, The Lonesome & The Gone",False
+2018,Best Americana Album,John Prine,The Tree Of Forgiveness,False
+2018,Best Americana Album,Bettye LaVette,Things Have Changed,False
 2018,Best Americana Album,Brandi Carlile,"By The Way, I Forgive You",True
-2018,"Best Arrangement, Instrumental or A Cappella",,Stars And Stripes Forever,True
-2018,"Best Arrangement, Instruments and Vocals",,Spiderman Theme,True
+2018,Best Bluegrass Album,Special Consensus,Rivers And Roads,False
+2018,Best Bluegrass Album,Sister Sadie,Sister Sadie II,False
+2018,Best Bluegrass Album,Mike Barnett,Portraits In Fiddles,False
 2018,Best Bluegrass Album,The Travelin' McCourys,The Travelin' McCourys,True
-2018,Best Boxed Or Special Limited Edition Package,,Squeeze Box: The Complete Works Of   Weird Al   Yankovic,True
-2018,Best Chamber Music/Small Ensemble Performance,,"Anderson, Laurie: Landfall",True
+2018,Best Children's Album,The Pop Ups,Giants Of Science,False
+2018,Best Children's Album,Falu,Falu's Bazaar,False
+2018,Best Children's Album,Tim Kubart,Building Blocks,False
 2018,Best Children's Album,Lucy Kalantari,All The Sounds,True
-2018,Best Choral Performance,,McLoskey: Zealot Canticles,True
-2018,Best Classical Compendium,,Fuchs: Piano Concerto 'Spiritualist'; Poems Of Life; Glacier; Rush,True
-2018,Best Classical Instrumental Solo,,Kernis: Violin Concerto,True
-2018,Best Classical Solo Vocal Album,,"Songs Of Orpheus - Monteverdi, Caccini, D'India & Landi",True
+2018,Best Comedy Album,Chris Rock,Tamborine,False
+2018,Best Comedy Album,Fred Armisen,Standup For Drummers,False
+2018,Best Comedy Album,Jim Gaffigan,Noble Ape,False
+2018,Best Comedy Album,Patton Oswalt,Annihilation,False
 2018,Best Comedy Album,Dave Chappelle,Equanimity & The Bird Revelation,True
-2018,Best Compilation Soundtrack For Visual Media,,The Greatest Showman,True
+2018,Best Contemporary Blues Album,Victor Wainwright,Victor Wainwright And The Train,False
+2018,Best Contemporary Blues Album,Boz Scaggs,Out Of The Blues,False
+2018,Best Contemporary Blues Album,Danielle Nicole,Cry No More,False
+2018,Best Contemporary Blues Album,Teresa James,Here In Babylon,False
 2018,Best Contemporary Blues Album,Fantastic Negrito,Please Don't Be Dead,True
+2018,Best Contemporary Christian Music Album,Zach Williams,Survivor: Live From Harding Prison,False
+2018,Best Contemporary Christian Music Album,Michael W. Smith,Surrounded,False
+2018,Best Contemporary Christian Music Album,Jesus Culture,Living With A Fire,False
+2018,Best Contemporary Christian Music Album,Elevation Worship,Hallelujah Here Below,False
 2018,Best Contemporary Christian Music Album,Lauren Daigle,Look Up Child,True
-2018,Best Contemporary Christian Music Performance/Song,,You Say,True
-2018,Best Contemporary Classical Composition,,Kernis: Violin Concerto,True
+2018,Best Contemporary Instrumental Album,Simon Phillips,Protocol 4,False
+2018,Best Contemporary Instrumental Album,Marcus Miller,Laid Black,False
+2018,Best Contemporary Instrumental Album,Julian Lage,Modern Lore,False
+2018,Best Contemporary Instrumental Album,Christian Scott aTunde Adjuah,The Emancipation Procrastination,False
 2018,Best Contemporary Instrumental Album,Steve Gadd Band,Steve Gadd Band,True
+2018,Best Country Album,Chris Stapleton,From A Room: Volume 2,False
+2018,Best Country Album,Ashley McBryde,Girl Going Nowhere,False
+2018,Best Country Album,Brothers Osborne,Port Saint Joe,False
+2018,Best Country Album,Kelsea Ballerini,Unapologetically,False
 2018,Best Country Album,Kacey Musgraves,Golden Hour,True
-2018,Best Country Duo/Group Performance,,Tequila,True
+2018,Best Country Duo/Group Performance,Bebe Rexha,Meant To Be,False
+2018,Best Country Duo/Group Performance,Maren Morris,Dear Hate,False
+2018,Best Country Duo/Group Performance,Little Big Town,When Someone Stops Loving You,False
+2018,Best Country Duo/Group Performance,Brothers Osborne,Shoot Me Straight,False
+2018,Best Country Solo Performance,Keith Urban,Parallel Line,False
+2018,Best Country Solo Performance,Chris Stapleton,Millionaire,False
+2018,Best Country Solo Performance,Maren Morris,Mona Lisas And Mad Hatters,False
+2018,Best Country Solo Performance,Loretta Lynn,Wouldn't It Be Great?,False
 2018,Best Country Solo Performance,Kacey Musgraves,Butterflies,True
-2018,Best Country Song,,Space Cowboy,True
+2018,Best Dance Recording,Virtual Self,Ghost Voices,False
+2018,Best Dance Recording,Fisher,Losing It,False
+2018,Best Dance Recording,Richard Bedford,Northern Soul,False
 2018,Best Dance Recording,Silk City,Electricity,True
+2018,Best Dance/Electronic Album,TOKiMONSTA,Lune Rouge,False
+2018,Best Dance/Electronic Album,SOPHIE,Oil Of Every Pearl's Un-Insides,False
+2018,Best Dance/Electronic Album,Sofi Tukker,Treehouse,False
+2018,Best Dance/Electronic Album,Jon Hopkins,Singularity,False
 2018,Best Dance/Electronic Album,Justice,Woman Worldwide,True
-2018,"Best Engineered Album, Classical",,Shostakovich: Symphonies Nos. 4 & 11,True
-2018,"Best Engineered Album, Non-Classical",,Colors,True
+2018,Best Folk Album,Mary Gauthier,Rifles & Rosary Beads,False
+2018,Best Folk Album,Dom Flemons,Black Cowboys,False
+2018,Best Folk Album,Joan Baez,Whistle Down The Wind,False
 2018,Best Folk Album,Punch Brothers,All Ashore,True
+2018,Best Gospel Album,Brian Courtney Wilson,A Great Work,False
+2018,Best Gospel Album,The Walls Group,The Other Side,False
+2018,Best Gospel Album,Jonathan McReynolds,Make Room,False
+2018,Best Gospel Album,Jekalyn Carr,One Nation Under God,False
 2018,Best Gospel Album,Tori Kelly,Hiding Place,True
-2018,Best Gospel Performance/Song,,Never Alone,True
-2018,Best Historical Album,,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,True
-2018,Best Immersive Audio Album,,Eye In The Sky - 35th Anniversary Edition,True
-2018,Best Improvised Jazz Solo,,Don't Fence Me In,True
-2018,Best Instrumental Composition,,Blut Und Boden,True
+2018,Best Jazz Instrumental Album,Joshua Redman,Still Dreaming,False
+2018,Best Jazz Instrumental Album,Brad Mehldau Trio,Seymour Reads The Constitution!,False
+2018,Best Jazz Instrumental Album,Fred Hersch Trio,Live In Europe,False
+2018,Best Jazz Instrumental Album,Tia Fuller,Diamond Cut,False
 2018,Best Jazz Instrumental Album,The Wayne Shorter Quartet,Emanon,True
+2018,Best Jazz Vocal Album,Raul Midón,If You Really Want,False
+2018,Best Jazz Vocal Album,Kate McGarry,The Subject Tonight Is Love,False
+2018,Best Jazz Vocal Album,Kurt Elling,The Questions,False
+2018,Best Jazz Vocal Album,Freddy Cole,My Mood Is You,False
 2018,Best Jazz Vocal Album,Cécile McLorin Salvant,The Window,True
-2018,Best Large Jazz Ensemble Album,,"American Dreamers: Voices Of Hope, Music Of Freedom",True
+2018,Best Large Jazz Ensemble Album,Jim McNeely,Barefoot Dances And Other Visions,False
+2018,Best Large Jazz Ensemble Album,John Hollenbeck Large Ensemble,All Can Work,False
+2018,Best Large Jazz Ensemble Album,Orrin Evans,Presence,False
+2018,Best Large Jazz Ensemble Album,Scotty Barnhart,All About That Basie,False
+2018,Best Latin Jazz Album,Miguel Zenón,Yo Soy La Tradición,False
+2018,Best Latin Jazz Album,Elio Villafranca,Cinque,False
+2018,Best Latin Jazz Album,Bobby Sanabria Multiverse Big Band,West Side Story Reimagined,False
+2018,Best Latin Jazz Album,Eddie Daniels,Heart Of Brazil,False
 2018,Best Latin Jazz Album,Dafnis Prieto Big Band,Back To The Sunset,True
+2018,Best Latin Pop Album,Carlos Vives,Vives,False
+2018,Best Latin Pop Album,Raquel Sofía,2:00 AM,False
+2018,Best Latin Pop Album,Natalia Lafourcade,Musas,False
+2018,Best Latin Pop Album,Pablo Alborán,Prometo,False
 2018,Best Latin Pop Album,Claudia Brant,Sincera,True
+2018,"Best Latin Rock, Urban or Alternative Album",Orishas,Gourmet,False
+2018,"Best Latin Rock, Urban or Alternative Album",Monsieur Periné,Encanto Tropical,False
+2018,"Best Latin Rock, Urban or Alternative Album",COASTCITY,Coastcity,False
+2018,"Best Latin Rock, Urban or Alternative Album",Aterciopelados,Claroscura,False
 2018,"Best Latin Rock, Urban or Alternative Album",Zoé,Aztlán,True
+2018,Best Metal Performance,Underoath,On My Teeth,False
+2018,Best Metal Performance,Trivium,Betrayer,False
+2018,Best Metal Performance,Deafheaven,Honeycomb,False
 2018,Best Metal Performance,High On Fire,Electric Messiah,True
+2018,Best Music Film,Itzhak Perlman,Itzhak,False
+2018,Best Music Film,Eric Clapton,Life In 12 Bars,False
 2018,Best Music Film,Quincy Jones,Quincy,True
+2018,Best Music Video,Tierra Whack,MUMBO JUMBO,False
+2018,Best Music Video,Joyner Lucas,I'm Not Racist,False
+2018,Best Music Video,The Carters,Apes***,False
 2018,Best Music Video,Childish Gambino,This Is America,True
-2018,Best Musical Theater Album,,The Band's Visit,True
+2018,Best New Age Album,Jim Kimo West,Moku Maluhia - Peaceful Island,False
+2018,Best New Age Album,Steve Roach,Molecules Of Motion,False
+2018,Best New Age Album,Snatam Kaur,Beloved,False
+2018,Best New Age Album,Lisa Gerrard,Hiraeth,False
 2018,Best New Age Album,Opium Moon,Opium Moon,True
-2018,Best New Artist,,Dua Lipa,True
-2018,Best Opera Recording,,Bates: The,True
-2018,Best Orchestral Performance,,Shostakovich: Symphonies Nos. 4 & 11,True
+2018,Best Pop Duo/Group Performance,Zedd,The Middle,False
+2018,Best Pop Duo/Group Performance,Justin Timberlake,Say Something,False
+2018,Best Pop Duo/Group Performance,Maroon 5,Girls Like You,False
+2018,Best Pop Duo/Group Performance,Tony Bennett,'S Wonderful,False
+2018,Best Pop Duo/Group Performance,Backstreet Boys,Don't Go Breaking My Heart,False
+2018,Best Pop Duo/Group Performance,Christina Aguilera,Fall In Line,False
 2018,Best Pop Duo/Group Performance,Lady Gaga,Shallow,True
+2018,Best Pop Solo Performance,Post Malone,Better Now,False
+2018,Best Pop Solo Performance,Ariana Grande,God Is A Woman,False
+2018,Best Pop Solo Performance,Camila Cabello,Havana,False
+2018,Best Pop Solo Performance,Beck,Colors,False
 2018,Best Pop Solo Performance,Lady Gaga,Joanne,True
+2018,Best Pop Vocal Album,Taylor Swift,Reputation,False
+2018,Best Pop Vocal Album,P!nk,Beautiful Trauma,False
+2018,Best Pop Vocal Album,Shawn Mendes,Shawn Mendes,False
+2018,Best Pop Vocal Album,Kelly Clarkson,Meaning Of Life,False
+2018,Best Pop Vocal Album,Camila Cabello,Camila,False
 2018,Best Pop Vocal Album,Ariana Grande,Sweetener,True
+2018,Best R&B Album,PJ Morton,Gumbo Unplugged,False
+2018,Best R&B Album,Lalah Hathaway,Honestly,False
+2018,Best R&B Album,Leon Bridges,Good Thing,False
+2018,Best R&B Album,Toni Braxton,Sex & Cigarettes,False
 2018,Best R&B Album,H.E.R.,H.E.R.,True
+2018,Best R&B Performance,PJ Morton,First Began,False
+2018,Best R&B Performance,Lalah Hathaway,Y O Y,False
+2018,Best R&B Performance,The Carters,Summer,False
+2018,Best R&B Performance,Toni Braxton,Long As I Live,False
 2018,Best R&B Performance,H.E.R.,Best Part,True
-2018,Best R&B Song,,Boo'd Up,True
+2018,Best Rap Album,Travis Scott,Astroworld,False
+2018,Best Rap Album,Pusha T,Daytona,False
+2018,Best Rap Album,Nipsey Hussle,Victory Lap,False
+2018,Best Rap Album,Mac Miller,Swimming,False
 2018,Best Rap Album,Cardi B,Invasion Of Privacy,True
+2018,Best Rap Performance,Travis Scott,Sicko Mode,False
+2018,Best Rap Performance,Drake,Nice For What,False
+2018,Best Rap Performance,Cardi B,Be Careful,False
 2018,Best Rap Performance,Anderson .Paak,Bubblin,True
-2018,Best Rap Song,,God's Plan,True
+2018,Best Rap/Sung Performance,Post Malone,Rockstar,False
+2018,Best Rap/Sung Performance,Kendrick Lamar,All The Stars,False
+2018,Best Rap/Sung Performance,6lack,Pretty Little Fears,False
+2018,Best Rap/Sung Performance,Christina Aguilera,Like I Do,False
 2018,Best Rap/Sung Performance,Childish Gambino,This Is America,True
-2018,Best Recording Package,,Masseduction,True
+2018,Best Reggae Album,Protoje,A Matter Of Time,False
+2018,Best Reggae Album,Ziggy Marley,Rebellion Rises,False
+2018,Best Reggae Album,Etana,Reggae Forever,False
+2018,Best Reggae Album,Black Uhuru,As The World Turns,False
 2018,Best Reggae Album,Shaggy,44/876,True
+2018,Best Regional Mexican Music Album (Including Tejano),Mariachi Sol De Mexico De Jose Hernandez,Leyendas De Mi Pueblo,False
+2018,Best Regional Mexican Music Album (Including Tejano),Los Texmaniacs,Cruzando Borders,False
+2018,Best Regional Mexican Music Album (Including Tejano),Aida Cuevas,Totalmente Juan Gabriel Vol. II,False
+2018,Best Regional Mexican Music Album (Including Tejano),Calibre 50,Mitad Y Mitad,False
+2018,Best Regional Mexican Music Album (Including Tejano),Angela Aguilar,Primero Soy Mexicana,False
 2018,Best Regional Mexican Music Album (Including Tejano),Luis Miguel,¡México Por Siempre!,True
+2018,Best Regional Roots Music Album,Young Spirit,Mewasinsational - Cree Round Dance Songs,False
+2018,Best Regional Roots Music Album,Na Hoa,Aloha From Na Hoa,False
+2018,Best Regional Roots Music Album,Cha Wa,Spyboy,False
+2018,Best Regional Roots Music Album,Sean Ardoin,Kreole Rock And Soul,False
 2018,Best Regional Roots Music Album,Kalani Pe'a,No 'Ane'i,True
-2018,Best Remixed Recording,,Walking Away,True
+2018,Best Rock Album,Weezer,Pacific Daydream,False
+2018,Best Rock Album,Ghost,Prequelle,False
+2018,Best Rock Album,Fall Out Boy,M A  N   I    A,False
+2018,Best Rock Album,Alice In Chains,Rainier Fog,False
 2018,Best Rock Album,Greta Van Fleet,From The Fires,True
+2018,Best Rock Performance,Halestorm,Uncomfortable,False
+2018,Best Rock Performance,Greta Van Fleet,Highway Tune,False
+2018,Best Rock Performance,THE FEVER 333,Made An America,False
+2018,Best Rock Performance,Arctic Monkeys,Four Out Of Five,False
 2018,Best Rock Performance,Chris Cornell,When Bad Does Good,True
-2018,Best Rock Song,,Masseduction,True
+2018,Best Roots Gospel Album,Gordon Mote,Love Love Love,False
+2018,Best Roots Gospel Album,The Martins,Still Standing,False
+2018,Best Roots Gospel Album,The Isaacs,Favorites: Revisited By Request,False
+2018,Best Roots Gospel Album,Ernie Haase,Clear Skies,False
 2018,Best Roots Gospel Album,Jason Crabb,Unexpected,True
-2018,Best Score Soundtrack For Visual Media,,Black Panther,True
-2018,Best Song Written For Visual Media,,Shallow,True
+2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Tiffany Haddish,The Last Black Unicorn,False
+2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Questlove,Creative Quest,False
+2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",David Sedaris,Calypso,False
+2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Courtney B. Vance,Accessory To War,False
 2018,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Jimmy Carter,Faith  - A Journey For All,True
+2018,Best Traditional Blues Album,Maria Muldaur,Don't You Feel My Leg,False
+2018,Best Traditional Blues Album,Ben Harper,No Mercy In This Land,False
+2018,Best Traditional Blues Album,Cedric Burnside,Benton County Relic,False
+2018,Best Traditional Blues Album,Elvin Bishop's Big Fun Trio,Something Smells Funky 'Round Here,False
 2018,Best Traditional Blues Album,Buddy Guy,The Blues Is Alive And Well,True
+2018,Best Traditional Pop Vocal Album,Barbra Streisand,The Music...The Mem'ries...The Magic!,False
+2018,Best Traditional Pop Vocal Album,Seal,Standards,False
+2018,Best Traditional Pop Vocal Album,Gregory Porter,Nat   King   Cole & Me,False
+2018,Best Traditional Pop Vocal Album,Tony Bennett,Love Is Here To Stay,False
 2018,Best Traditional Pop Vocal Album,Willie Nelson,My Way,True
+2018,Best Traditional R&B Performance,Charlie Wilson,Made For Love,False
+2018,Best Traditional R&B Performance,MAJOR.,Honest,False
+2018,Best Traditional R&B Performance,Bettye LaVette,Don't Fall Apart On Me Tonight,False
 2018,Best Traditional R&B Performance,PJ Morton,How Deep Is Your Love,True
+2018,Best Tropical Latin Album,Felipe Peláez,Ponle Actitud,False
+2018,Best Tropical Latin Album,Orquesta Akokán,Orquesta Akokán,False
+2018,Best Tropical Latin Album,Formell Y Los Van Van,Legado,False
+2018,Best Tropical Latin Album,Charlie Aponte,Pa' Mi Gente,False
 2018,Best Tropical Latin Album,Spanish Harlem Orchestra,Anniversary,True
+2018,Best Urban Contemporary Album,Meshell Ndegeocello,Ventriloquism,False
+2018,Best Urban Contemporary Album,Miguel,War & Leisure,False
+2018,Best Urban Contemporary Album,Chloe x Halle,The Kids Are Alright,False
 2018,Best Urban Contemporary Album,The Carters,Everything Is Love,True
+2018,Best World Music Album,Yiddish Glory,The Lost Songs Of World War II,False
+2018,Best World Music Album,Seun Kuti,Black Times,False
+2018,Best World Music Album,Fatoumata Diawara,Fenfo,False
+2018,Best World Music Album,Bombino,Deran,False
 2018,Best World Music Album,Soweto Gospel Choir,Freedom,True
-2018,"Producer Of The Year, Classical",,Blanton Alspaugh,True
-2018,"Producer Of The Year, Non-Classical",,Pharrell Williams,True
+2018,Record Of The Year,Zedd,The Middle,False
+2018,Record Of The Year,Post Malone,Rockstar,False
+2018,Record Of The Year,Kendrick Lamar,All The Stars,False
+2018,Record Of The Year,Lady Gaga,Shallow,False
+2018,Record Of The Year,Drake,God's Plan,False
+2018,Record Of The Year,Brandi Carlile,The Joke,False
+2018,Record Of The Year,Cardi B,I Like It,False
 2018,Record Of The Year,Childish Gambino,This Is America,True
-2018,Song Of The Year,,This Is America,True
+2019,Album Of The Year,Vampire Weekend,Father Of The Bride,False
+2019,Album Of The Year,Lizzo,Cuz I Love You,False
+2019,Album Of The Year,Lil Nas X,7,False
+2019,Album Of The Year,H.E.R.,I Used To Know Her,False
+2019,Album Of The Year,Ariana Grande,"thank u, next",False
+2019,Album Of The Year,Lana Del Rey,Norman F***ing Rockwell!,False
+2019,Album Of The Year,Bon Iver,"I,I",False
 2019,Album Of The Year,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",True
-2019,Best Album Notes,,Stax '68: A Memphis Story,True
+2019,Best Alternative Music Album,Thom Yorke,Anima,False
+2019,Best Alternative Music Album,Bon Iver,"I,I",False
+2019,Best Alternative Music Album,James Blake,Assume Form,False
+2019,Best Alternative Music Album,Big Thief,U.F.O.F.,False
 2019,Best Alternative Music Album,Vampire Weekend,Father Of The Bride,True
+2019,Best American Roots Performance,Yola,Faraway Look,False
+2019,Best American Roots Performance,Rhiannon Giddens,I'm On My Way,False
+2019,Best American Roots Performance,Calexico,Father Mountain,False
 2019,Best American Roots Performance,Sara Bareilles,Saint Honesty,True
-2019,Best American Roots Song,,Call My Name,True
+2019,Best Americana Album,Yola,Walk Through Fire,False
+2019,Best Americana Album,J.S. Ondara,Tales Of America,False
+2019,Best Americana Album,Madison Cunningham,Who Are You Now,False
+2019,Best Americana Album,Calexico,Years To Burn,False
 2019,Best Americana Album,Keb' Mo',Oklahoma,True
-2019,"Best Arrangement, Instrumental or A Cappella",,Moon River,True
-2019,"Best Arrangement, Instruments and Vocals",,All Night Long,True
+2019,Best Bluegrass Album,Frank Solivan,If You Can't Stand The Heat,False
+2019,Best Bluegrass Album,Missy Raines,Royal Traveller,False
+2019,Best Bluegrass Album,The Po’ Ramblin’ Boys,"Toil, Tears & Trouble",False
+2019,Best Bluegrass Album,Doyle Lawson,"Live In Prague, Czech Republic",False
 2019,Best Bluegrass Album,Michael Cleveland,Tall Fiddler,True
-2019,Best Boxed Or Special Limited Edition Package,,Woodstock: Back To The Garden - The Definitive 50th Anniversary Archive,True
-2019,Best Chamber Music/Small Ensemble Performance,,Shaw: Orange,True
+2019,Best Children's Music Album,The Okee Dokee Brothers,Winterland,False
+2019,Best Children's Music Album,Alphabet Rockers,The Love,False
+2019,Best Children's Music Album,Daniel Tashian,I Love Rainy Days,False
+2019,Best Children's Music Album,Caspar Babypants,Flying High!,False
 2019,Best Children's Music Album,Jon Samson,Ageless Songs for the Child Archetype,True
-2019,Best Choral Performance,,Duruflé: Complete Choral Works,True
-2019,Best Classical Compendium,,The Poetry Of Places,True
-2019,Best Classical Instrumental Solo,,Marsalis: Violin Concerto; Fiddle Dance Suite,True
-2019,Best Classical Solo Vocal Album,,Songplay,True
+2019,Best Comedy Album,Trevor Noah,Son Of Patricia,False
+2019,Best Comedy Album,Aziz Ansari,Right Now,False
+2019,Best Comedy Album,Ellen DeGeneres,Relatable,False
+2019,Best Comedy Album,Jim Gaffigan,Quality Time,False
 2019,Best Comedy Album,Dave Chappelle,Sticks & Stones,True
+2019,Best Compilation Soundtrack For Visual Media,Taron Egerton,Rocketman,False
 2019,Best Compilation Soundtrack For Visual Media,Lady Gaga,A Star Is Born,True
+2019,Best Contemporary Blues Album,Southern Avenue,Keep On,False
+2019,Best Contemporary Blues Album,Sugaray Rayford,Somebody Save Me,False
+2019,Best Contemporary Blues Album,Robert Randolph,Brighter Days,False
+2019,Best Contemporary Blues Album,Larkin Poe,Venom & Faith,False
 2019,Best Contemporary Blues Album,Gary Clark Jr.,This Land,True
-2019,Best Contemporary Christian Music Album,,Burn The Ships,True
-2019,Best Contemporary Christian Music Performance/Song,,God Only Knows,True
-2019,Best Contemporary Classical Composition,,Higdon: Harp Concerto,True
+2019,Best Contemporary Christian Music Album,Chris Tomlin,Holy Roar,False
+2019,Best Contemporary Christian Music Album,TobyMac,The Elements,False
+2019,Best Contemporary Christian Music Album,Danny Gokey,Haven't Seen It Yet,False
+2019,Best Contemporary Christian Music Album,Crowder,I Know A Ghost,False
+2019,Best Contemporary Instrumental Album,Lettuce,Elevate,False
+2019,Best Contemporary Instrumental Album,Mark Guiliana,Beat Music! Beat Music! Beat Music!,False
+2019,Best Contemporary Instrumental Album,Theo Croker,Star People Nation,False
+2019,Best Contemporary Instrumental Album,Christian Scott aTunde Adjuah,Ancestral Recall,False
 2019,Best Contemporary Instrumental Album,Rodrigo y Gabriela,Mettavolution,True
+2019,Best Country Album,Thomas Rhett,Center Point Road,False
+2019,Best Country Album,Pistol Annies,Interstate Gospel,False
+2019,Best Country Album,Reba McEntire,Stronger Than The Truth,False
+2019,Best Country Album,Eric Church,Desperate Man,False
 2019,Best Country Album,Tanya Tucker,While I'm Livin',True
+2019,Best Country Duo/Group Performance,Maren Morris,Common,False
+2019,Best Country Duo/Group Performance,Little Big Town,The Daughters,False
+2019,Best Country Duo/Group Performance,Brothers Osborne,I Don't Remember Me,False
+2019,Best Country Duo/Group Performance,Luke Combs,Brand New Man,False
 2019,Best Country Duo/Group Performance,Dan + Shay,Speechless,True
+2019,Best Country Solo Performance,Tanya Tucker,Bring My Flowers Now,False
+2019,Best Country Solo Performance,Blake Shelton,God's Country,False
+2019,Best Country Solo Performance,Ashley McBryde,Girl Goin' Nowhere,False
+2019,Best Country Solo Performance,Tyler Childers,All Your’n,False
 2019,Best Country Solo Performance,Willie Nelson,Ride Me Back Home,True
-2019,Best Country Song,,Bring My Flowers Now,True
+2019,Best Dance Recording,Skrillex,Midnight Hour,False
+2019,Best Dance Recording,RÜFÜS DU SOL,Underwater,False
+2019,Best Dance Recording,Meduza,Piece Of Your Heart,False
+2019,Best Dance Recording,Bonobo,Linked,False
 2019,Best Dance Recording,The Chemical Brothers,Got To Keep On,True
+2019,Best Dance/Electronic Album,Tycho,Weather,False
+2019,Best Dance/Electronic Album,RÜFÜS DU SOL,SOLACE,False
+2019,Best Dance/Electronic Album,Flume,Hi This Is Flume,False
+2019,Best Dance/Electronic Album,Apparat,LP5,False
 2019,Best Dance/Electronic Album,The Chemical Brothers,No Geography,True
-2019,"Best Engineered Album, Classical",,Riley: Sun Rings,True
-2019,"Best Engineered Album, Non-Classical",,"When We All Fall Asleep, Where Do We Go?",True
+2019,Best Folk Album,Joy Williams,Front Porch,False
+2019,Best Folk Album,Gregory Alan Isakov,Evening Machines,False
+2019,Best Folk Album,Che Apalache,Rearrange My Heart,False
+2019,Best Folk Album,Andrew Bird,My Finest Work Yet,False
 2019,Best Folk Album,Patty Griffin,Patty Griffin,True
+2019,Best Gospel Album,CeCe Winans,Something's Happening! A Christmas Album,False
+2019,Best Gospel Album,William Murphy,Settle Here,False
+2019,Best Gospel Album,Gene Moore,Tunnel Vision,False
 2019,Best Gospel Album,Kirk Franklin,Long Live Love,True
-2019,Best Gospel Performance/Song,,Love Theory,True
-2019,Best Historical Album,,Pete Seeger: The Smithsonian Folkways Collection,True
-2019,Best Immersive Audio Album,,LUX,True
-2019,Best Improvised Jazz Solo,,Sozinho,True
-2019,Best Instrumental Composition,,Star Wars: Galaxy's Edge Symphonic Suite,True
+2019,Best Jazz Instrumental Album,Joshua Redman Quartet,Come What May,False
+2019,Best Jazz Instrumental Album,Branford Marsalis Quartet,The Secret Between The Shadow And The Soul,False
+2019,Best Jazz Instrumental Album,Joey DeFrancesco,In The Key Of The Universe,False
 2019,Best Jazz Instrumental Album,Brad Mehldau,Finding Gabriel,True
+2019,Best Jazz Vocal Album,Tierney Sutton Band,Screenplay,False
+2019,Best Jazz Vocal Album,Catherine Russell,Alone Together,False
+2019,Best Jazz Vocal Album,Jazzmeia Horn,Love & Liberation,False
+2019,Best Jazz Vocal Album,Sara Gazarek,Thirsty Ghost,False
 2019,Best Jazz Vocal Album,Esperanza Spalding,12 Little Spells,True
+2019,Best Large Jazz Ensemble Album,Terraza Big Band,One Day Wonder,False
+2019,Best Large Jazz Ensemble Album,Mike Holober,Hiding Out,False
+2019,Best Large Jazz Ensemble Album,Miho Hazama,Dancer In Nowhere,False
+2019,Best Large Jazz Ensemble Album,Anat Cohen Tentet,Triple Helix,False
 2019,Best Large Jazz Ensemble Album,Brian Lynch Big Band,The Omni-American Book Club,True
+2019,Best Latin Jazz Album,Miguel Zenón,Sonero: The Music Of Ismael Rivera,False
+2019,Best Latin Jazz Album,David Sánchez,Carib,False
+2019,Best Latin Jazz Album,Wynton Marsalis,Una Noche Con Rubén Blades,False
+2019,Best Latin Jazz Album,Thalma de Freitas,Sorte!: Music By John Finbury,False
 2019,Best Latin Jazz Album,Chick Corea,Antidote,True
+2019,Best Latin Pop Album,Sebastian Yatra,Fantasia,False
+2019,Best Latin Pop Album,Ricardo Montaner,Montaner,False
+2019,Best Latin Pop Album,Maluma,11:11,False
+2019,Best Latin Pop Album,Luis Fonsi,Vida,False
 2019,Best Latin Pop Album,Alejandro Sanz,#Eldisco,True
+2019,"Best Latin Rock, Urban or Alternative Album",iLe,Almadura,False
+2019,"Best Latin Rock, Urban or Alternative Album",Flor De Toloache,Indestructible,False
+2019,"Best Latin Rock, Urban or Alternative Album",J Balvin,Oasis,False
+2019,"Best Latin Rock, Urban or Alternative Album",Bad Bunny,X 100Pre,False
 2019,"Best Latin Rock, Urban or Alternative Album",ROSALÍA,El Mal Querer,True
+2019,Best Metal Performance,Killswitch Engage,Unleashed,False
+2019,Best Metal Performance,I Prevail,Bow Down,False
+2019,Best Metal Performance,Death Angel,Humanicide,False
+2019,Best Metal Performance,Candlemass,Astorolus - The Great Octopus,False
 2019,Best Metal Performance,Tool,7empest,True
+2019,Best Music Film,Thom Yorke,Anima,False
+2019,Best Music Film,David Crosby,Remember My Name,False
 2019,Best Music Film,Beyoncé,Homecoming,True
+2019,Best Music Video,Tove Lo,Glad He's Gone,False
+2019,Best Music Video,FKA twigs,Cellophane,False
+2019,Best Music Video,Gary Clark Jr.,This Land,False
+2019,Best Music Video,The Chemical Brothers,We've Got To Try,False
 2019,Best Music Video,Lil Nas X,Old Town Road,True
-2019,Best Musical Theater Album,,Hadestown,True
+2019,Best New Age Album,Deva Premal,Deva,False
+2019,Best New Age Album,Sebastian Plano,Verve,False
+2019,Best New Age Album,David Darling,Homage To Kindness,False
+2019,Best New Age Album,David Arkenstone,Fairy Dreams,False
 2019,Best New Age Album,Peter Kater,Wings,True
-2019,Best New Artist,,Billie Eilish,True
-2019,Best Opera Recording,,Picker: Fantastic Mr. Fox,True
-2019,Best Orchestral Performance,,Norman: Sustain,True
+2019,Best Pop Duo/Group Performance,Shawn Mendes,Señorita,False
+2019,Best Pop Duo/Group Performance,Post Malone,Sunflower,False
+2019,Best Pop Duo/Group Performance,Jonas Brothers,Sucker,False
+2019,Best Pop Duo/Group Performance,Ariana Grande,Boyfriend,False
 2019,Best Pop Duo/Group Performance,Lil Nas X,Old Town Road,True
+2019,Best Pop Solo Performance,Taylor Swift,You Need To Calm Down,False
+2019,Best Pop Solo Performance,Ariana Grande,7 rings,False
+2019,Best Pop Solo Performance,Billie Eilish,Bad Guy,False
+2019,Best Pop Solo Performance,Beyoncé,Spirit,False
 2019,Best Pop Solo Performance,Lizzo,Truth Hurts,True
+2019,Best Pop Vocal Album,Taylor Swift,Lover,False
+2019,Best Pop Vocal Album,Ed Sheeran,No.6 Collaborations Project,False
+2019,Best Pop Vocal Album,Ariana Grande,"thank u, next",False
+2019,Best Pop Vocal Album,Beyoncé,The Lion King: The Gift,False
 2019,Best Pop Vocal Album,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",True
+2019,Best R&B Album,PJ Morton,Paul,False
+2019,Best R&B Album,Ella Mai,Ella Mai,False
+2019,Best R&B Album,Lucky Daye,Painted,False
+2019,Best R&B Album,BJ The Chicago Kid,1123,False
 2019,Best R&B Album,Anderson .Paak,Ventura,True
+2019,Best R&B Performance,Lucky Daye,Roll Some Mo,False
+2019,Best R&B Performance,Lizzo,Exactly How I Feel,False
+2019,Best R&B Performance,H.E.R.,Could've Been,False
+2019,Best R&B Performance,Daniel Caesar,Love Again,False
 2019,Best R&B Performance,Anderson .Paak,Come Home,True
-2019,Best R&B Song,,Say So,True
-2019,Best Rap Album,,Igor,True
+2019,Best Rap Album,YBN Cordae,The Lost Boy,False
+2019,Best Rap Album,21 Savage,I Am > I Was,False
+2019,Best Rap Album,Meek Mill,Championships,False
+2019,Best Rap Album,Dreamville,Revenge Of The Dreamers III,False
+2019,Best Rap Performance,Offset,Clout,False
+2019,Best Rap Performance,Dreamville,Down Bad,False
+2019,Best Rap Performance,DaBaby,Suge,False
+2019,Best Rap Performance,J. Cole,Middle Child,False
 2019,Best Rap Performance,Nipsey Hussle,Racks In The Middle,True
-2019,Best Rap Song,,A Lot,True
+2019,Best Rap/Sung Performance,Young Thug,The London,False
+2019,Best Rap/Sung Performance,Mustard,Ballin,False
+2019,Best Rap/Sung Performance,Lil Nas X,Panini,False
+2019,Best Rap/Sung Performance,Lil Baby,Drip Too Hard,False
 2019,Best Rap/Sung Performance,DJ Khaled,Higher,True
-2019,Best Recording Package,,Chris Cornell,True
+2019,Best Reggae Album,Third World,More Work To Be Done,False
+2019,Best Reggae Album,Steel Pulse,Mass Manipulation,False
+2019,Best Reggae Album,Roots Radics,The Final Battle: Sly & Robbie vs. Roots Radics,False
+2019,Best Reggae Album,Julian Marley,As I Am,False
 2019,Best Reggae Album,Koffee,Rapture,True
+2019,Best Regional Mexican Music Album (Including Tejano),Mariachi Divas De Cindy Shea,20 Aniversario,False
+2019,Best Regional Mexican Music Album (Including Tejano),La Energia Norteña,Poco A Poco,False
+2019,Best Regional Mexican Music Album (Including Tejano),Intocable,Percepción,False
+2019,Best Regional Mexican Music Album (Including Tejano),Joss Favela,Caminando,False
 2019,Best Regional Mexican Music Album (Including Tejano),Mariachi Los Camperos,De Ayer Para Siempre,True
+2019,Best Regional Roots Music Album,Rebirth Brass Band,Recorded Live At The 2019 New Orleans Jazz & Heritage Festival,False
+2019,Best Regional Roots Music Album,Northern Cree,When It's Cold - Cree Round Dance Songs,False
+2019,Best Regional Roots Music Album,Amy Hanaiali’i,Kalawai’anui,False
 2019,Best Regional Roots Music Album,Ranky Tanky,Good Time,True
-2019,Best Remixed Recording,,I Rise,True
+2019,Best Rock Album,Rival Sons,Feral Roots,False
+2019,Best Rock Album,I Prevail,Trauma,False
+2019,Best Rock Album,The Cranberries,In The End,False
+2019,Best Rock Album,Bring Me The Horizon,amo,False
 2019,Best Rock Album,Cage The Elephant,Social Cues,True
+2019,Best Rock Performance,Rival Sons,Too Bad,False
+2019,Best Rock Performance,Karen O,Woman,False
+2019,Best Rock Performance,Brittany Howard,History Repeats,False
+2019,Best Rock Performance,Bones UK,Pretty Waste,False
 2019,Best Rock Performance,Gary Clark Jr.,This Land,True
-2019,Best Rock Song,,This Land,True
+2019,Best Roots Gospel Album,Tim Menzies,His Name Is Jesus,False
+2019,Best Roots Gospel Album,Joseph Habedank,Deeper Oceans,False
+2019,Best Roots Gospel Album,Steven Curtis Chapman,Deeper Roots: Where The Bluegrass Grows,False
 2019,Best Roots Gospel Album,Gloria Gaynor,Testimony,True
-2019,Best Score Soundtrack For Visual Media,,Chernobyl,True
-2019,Best Song Written For Visual Media,,I'll Never Love Again,True
+2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",John Waters,Mr. Know-It-All,False
+2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Eric Alexandrakis,I.V. Catatonia: 20 Years As A Two-Time Cancer Survivor,False
 2019,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Michelle Obama,Becoming,True
+2019,Best Traditional Blues Album,Jontavious Willis,Spectacular Class,False
+2019,Best Traditional Blues Album,Jimmie Vaughan,"Baby, Please Come Home",False
+2019,Best Traditional Blues Album,Bobby Rush,Sitting On Top Of The Blues,False
+2019,Best Traditional Blues Album,"Christone ""Kingfish"" Ingram",Kingfish,False
 2019,Best Traditional Blues Album,Delbert McClinton,"Tall, Dark & Handsome",True
+2019,Best Traditional Pop Vocal Album,Barbra Streisand,Walls,False
+2019,Best Traditional Pop Vocal Album,John Legend,A Legendary Christmas,False
+2019,Best Traditional Pop Vocal Album,Michael Bublé,Love,False
+2019,Best Traditional Pop Vocal Album,Andrea Bocelli,Sì,False
 2019,Best Traditional Pop Vocal Album,Elvis Costello,Look Now,True
+2019,Best Traditional R&B Performance,PJ Morton,Built For Love,False
+2019,Best Traditional R&B Performance,Lucky Daye,Real Games,False
+2019,Best Traditional R&B Performance,India.Arie,Steady Love,False
+2019,Best Traditional R&B Performance,BJ The Chicago Kid,Time Today,False
 2019,Best Traditional R&B Performance,Lizzo,Jerome,True
+2019,Best Tropical Latin Album,Juan Luis Guerra 4.40,Literal,False
+2019,Best Tropical Latin Album,Vicente García,Candela,False
 2019,Best Tropical Latin Album,Aymée Nuviola,A Journey Through Cuban Music,True
+2019,Best Urban Contemporary Album,Jessie Reyez,Being Human In Public,False
+2019,Best Urban Contemporary Album,NAO,Saturn,False
+2019,Best Urban Contemporary Album,Georgia Anne Muldrow,Overload,False
+2019,Best Urban Contemporary Album,Steve Lacy,Apollo XXI,False
 2019,Best Urban Contemporary Album,Lizzo,Cuz I Love You,True
+2019,Best World Music Album,Nathalie Joachim,Fanm D'ayiti,False
+2019,Best World Music Album,Burna Boy,African Giant,False
+2019,Best World Music Album,Bokanté,What Heat,False
+2019,Best World Music Album,Altin Gün,Gece,False
 2019,Best World Music Album,Angelique Kidjo,Celia,True
-2019,"Producer Of The Year, Classical",,Blanton Alspaugh,True
-2019,"Producer Of The Year, Non-Classical",,Finneas,True
+2019,Record Of The Year,Post Malone,Sunflower,False
+2019,Record Of The Year,Lizzo,Truth Hurts,False
+2019,Record Of The Year,Lil Nas X,Old Town Road,False
+2019,Record Of The Year,Khalid,Talk,False
+2019,Record Of The Year,H.E.R.,Hard Place,False
+2019,Record Of The Year,Ariana Grande,7 rings,False
+2019,Record Of The Year,Bon Iver,"Hey, Ma",False
 2019,Record Of The Year,Billie Eilish,Bad Guy,True
-2019,Song Of The Year,,Bad Guy,True
+2020,Album Of The Year,Post Malone,Hollywood's Bleeding,False
+2020,Album Of The Year,Dua Lipa,Future Nostalgia,False
+2020,Album Of The Year,HAIM,Women In Music Pt. III,False
+2020,Album Of The Year,Jacob Collier,Djesse Vol.3,False
+2020,Album Of The Year,Coldplay,Everyday Life,False
+2020,Album Of The Year,Black Pumas,Black Pumas,False
+2020,Album Of The Year,Jhené Aiko,Chilombo,False
 2020,Album Of The Year,Taylor Swift,Folklore,True
-2020,Best Album Notes,,Dead Man's Pop,True
+2020,Best Alternative Music Album,Tame Impala,The Slow Rush,False
+2020,Best Alternative Music Album,Brittany Howard,Jaime,False
+2020,Best Alternative Music Album,Phoebe Bridgers,Punisher,False
+2020,Best Alternative Music Album,Beck,Hyperspace,False
 2020,Best Alternative Music Album,Fiona Apple,Fetch The Bolt Cutters,True
+2020,Best American Roots Performance,Norah Jones,I'll Be Gone,False
+2020,Best American Roots Performance,Brittany Howard,Short And Sweet,False
+2020,Best American Roots Performance,Bonny Light Horseman,Deep In Love,False
+2020,Best American Roots Performance,Black Pumas,Colors,False
 2020,Best American Roots Performance,John Prine,I Remember Everything,True
-2020,Best American Roots Song,,I Remember Everything,True
+2020,Best Americana Album,Lucinda Williams,Good Souls Better Angels,False
+2020,Best Americana Album,Marcus King,El Dorado,False
+2020,Best Americana Album,Hiss Golden Messenger,Terms Of Surrender,False
 2020,Best Americana Album,Sarah Jarosz,World On The Ground,True
-2020,"Best Arrangement, Instrumental or A Cappella",,Donna Lee,True
-2020,"Best Arrangement, Instruments and Vocals",,He Won't Hold You,True
+2020,Best Bluegrass Album,Steep Canyon Rangers,North Carolina Songbook,False
+2020,Best Bluegrass Album,Thomm Jutz,"To Live In Two Worlds, Vol. 1",False
+2020,Best Bluegrass Album,Danny Barnes,Man On Fire,False
 2020,Best Bluegrass Album,Billy Strings,Home,True
-2020,Best Boxed Or Special Limited Edition Package,,Ode To Joy,True
-2020,Best Chamber Music/Small Ensemble Performance,,Contemporary Voices,True
+2020,Best Children's Music Album,Justin Roberts,Wild Life,False
 2020,Best Children's Music Album,Joanie Leeds,All The Ladies,True
-2020,Best Choral Performance,,Danielpour: The Passion Of Yeshua,True
-2020,Best Classical Compendium,,"Thomas, M.T.: From The Diary Of Anne Frank & Meditations On Rilke",True
-2020,Best Classical Instrumental Solo,,Theofanidis: Concerto For Viola And Chamber Orchestra,True
-2020,Best Classical Solo Vocal Album,,Smyth: The Prison,True
+2020,Best Comedy Album,Jerry Seinfeld,23 Hours To Kill,False
+2020,Best Comedy Album,Bill Burr,Paper Tiger,False
+2020,Best Comedy Album,Jim Gaffigan,The Pale Tourist,False
+2020,Best Comedy Album,Patton Oswalt,I Love Everything,False
 2020,Best Comedy Album,Tiffany Haddish,Black Mitzvah,True
-2020,Best Compilation Soundtrack For Visual Media,,Jojo Rabbit,True
+2020,Best Contemporary Blues Album,North Mississippi Allstars,Up And Rolling,False
+2020,Best Contemporary Blues Album,Bettye LaVette,Blackbirds,False
+2020,Best Contemporary Blues Album,G. Love,The Juice,False
 2020,Best Contemporary Blues Album,Fantastic Negrito,Have You Lost Your Mind Yet?,True
+2020,Best Contemporary Christian Music Album,Tauren Wells,Citizen Of Heaven,False
+2020,Best Contemporary Christian Music Album,We The Kingdom,Holy Water,False
+2020,Best Contemporary Christian Music Album,Cody Carnes,Run To The Father,False
 2020,Best Contemporary Christian Music Album,Kanye West,Jesus Is King,True
-2020,Best Contemporary Christian Music Performance/Song,,There Was Jesus,True
-2020,Best Contemporary Classical Composition,,Rouse: Symphony No. 5,True
+2020,Best Contemporary Instrumental Album,Grégoire Maret,Americana,False
+2020,Best Contemporary Instrumental Album,Black Violin,Take The Stairs,False
+2020,Best Contemporary Instrumental Album,Jon Batiste,Chronology Of A Dream: Live At The Village Vanguard,False
+2020,Best Contemporary Instrumental Album,Christian Scott aTunde Adjuah,Axiom,False
 2020,Best Contemporary Instrumental Album,Snarky Puppy,Live At The Royal Albert Hall,True
+2020,Best Country Album,Ashley McBryde,Never Will,False
+2020,Best Country Album,Little Big Town,Nightfall,False
+2020,Best Country Album,Brandy Clark,Your Life Is A Record,False
+2020,Best Country Album,Ingrid Andress,Lady Like,False
 2020,Best Country Album,Miranda Lambert,Wildcard,True
+2020,Best Country Duo/Group Performance,Old Dominion,Some People Do,False
+2020,Best Country Duo/Group Performance,Little Big Town,Sugar Coat,False
+2020,Best Country Duo/Group Performance,Lady A,Ocean,False
+2020,Best Country Duo/Group Performance,Brothers Osborne,All Night,False
 2020,Best Country Duo/Group Performance,Dan + Shay,"10,000 Hours",True
+2020,Best Country Solo Performance,Miranda Lambert,Bluebird,False
+2020,Best Country Solo Performance,Mickey Guyton,Black Like Me,False
+2020,Best Country Solo Performance,Brandy Clark,Who You Thought I Was,False
+2020,Best Country Solo Performance,Eric Church,Stick That In Your Country Song,False
 2020,Best Country Solo Performance,Vince Gill,When My Amy Prays,True
-2020,Best Country Song,,Crowded Table,True
+2020,Best Dance Recording,Jayda G,Both Of Us,False
+2020,Best Dance Recording,Flume,The Difference,False
+2020,Best Dance Recording,Disclosure,My High,False
+2020,Best Dance Recording,Diplo,On My Mind,False
 2020,Best Dance Recording,Kaytranada,10%,True
+2020,Best Dance/Electronic Album,Madeon,Good Faith,False
+2020,Best Dance/Electronic Album,Disclosure,Energy,False
+2020,Best Dance/Electronic Album,Baauer,Planet's Mad,False
+2020,Best Dance/Electronic Album,Arca,KiCk i,False
 2020,Best Dance/Electronic Album,Kaytranada,Bubba,True
-2020,"Best Engineered Album, Classical",,"Shostakovich: Symphony No. 13, 'Babi Yar'",True
-2020,"Best Engineered Album, Non-Classical",,Hyperspace,True
+2020,Best Folk Album,The Secret Sisters,Saturn Return,False
+2020,Best Folk Album,Laura Marling,Song For Our Daughter,False
+2020,Best Folk Album,Leonard Cohen,Thanks For The Dance,False
+2020,Best Folk Album,Bonny Light Horseman,Bonny Light Horseman,False
 2020,Best Folk Album,Gillian Welch,All The Good Times,True
+2020,Best Global Music Album,Tinariwen,Amadjar,False
+2020,Best Global Music Album,Anoushka Shankar,Love Letters,False
+2020,Best Global Music Album,Bebel Gilberto,Agora,False
+2020,Best Global Music Album,Antibalas,Fu Chronicles,False
 2020,Best Global Music Album,Burna Boy,Twice As Tall,True
+2020,Best Gospel Album,Kierra Sheard,Kierra,False
+2020,Best Gospel Album,Ricky Dillard,Choirmaster,False
+2020,Best Gospel Album,Myron Butler,My Tribute,False
+2020,Best Gospel Album,Anthony Brown,2econd Wind: Ready,False
 2020,Best Gospel Album,PJ Morton,Gospel According To PJ,True
-2020,Best Gospel Performance/Song,,Movin' On,True
-2020,Best Historical Album,,It's Such A Good Feeling: The Best Of Mister Rogers,True
-2020,Best Immersive Audio Album,,Soundtrack Of The American Soldier,True
-2020,Best Improvised Jazz Solo,,All Blues,True
-2020,Best Instrumental Composition,,Sputnik,True
+2020,Best Jazz Instrumental Album,Redman Mehldau McBride Blade,RoundAgain,False
+2020,Best Jazz Instrumental Album,Gerald Clayton,Happening: Live At The Village Vanguard,False
+2020,Best Jazz Instrumental Album,Terri Lyne Carrington + Social Science,Waiting Game,False
+2020,Best Jazz Instrumental Album,Ambrose Akinmusire,On The Tender Spot Of Every Calloused Moment,False
 2020,Best Jazz Instrumental Album,Chick Corea,Trilogy 2,True
+2020,Best Jazz Vocal Album,Kenny Washington,What's The Hurry,False
+2020,Best Jazz Vocal Album,Somi,Holy Room: Live At Alte Oper,False
+2020,Best Jazz Vocal Album,Carmen Lundy,Modern Ancestors,False
+2020,Best Jazz Vocal Album,Thana Alexa,Ona,False
 2020,Best Jazz Vocal Album,Kurt Elling,Secrets Are The Best Stories,True
+2020,Best Large Jazz Ensemble Album,John Hollenbeck,Songs You Like A Lot,False
+2020,Best Large Jazz Ensemble Album,Orrin Evans,The Intangible Between,False
+2020,Best Large Jazz Ensemble Album,John Beasley,MONK'estra Plays John Beasley,False
+2020,Best Large Jazz Ensemble Album,Gregg August,Dialogues On Race,False
 2020,Best Large Jazz Ensemble Album,Maria Schneider Orchestra,Data Lords,True
+2020,Best Latin Jazz Album,Poncho Sanchez,Trane's Delight,False
+2020,Best Latin Jazz Album,Gonzalo Rubalcaba,Viento Y Tiempo - Live At Blue Note Tokyo,False
+2020,Best Latin Jazz Album,Chico Pinheiro,City Of Dreams,False
+2020,Best Latin Jazz Album,Afro-Peruvian Jazz Orchestra,Tradiciones,False
 2020,Best Latin Jazz Album,Arturo O'Farrill,Four Questions,True
+2020,Best Latin Pop or Urban Album,Debi Nova,3:33,False
+2020,Best Latin Pop or Urban Album,Ricky Martin,Pausa,False
+2020,Best Latin Pop or Urban Album,Kany García,Mesa Para Dos,False
+2020,Best Latin Pop or Urban Album,Camilo,Por Primera Vez,False
 2020,Best Latin Pop or Urban Album,Bad Bunny,YHLQMDLG,True
+2020,Best Latin Rock or Alternative Album,Lido Pimienta,Miss Colombia,False
+2020,Best Latin Rock or Alternative Album,Cultura Profética,Sobrevolando,False
+2020,Best Latin Rock or Alternative Album,Cami,Monstruo,False
+2020,Best Latin Rock or Alternative Album,Bajofondo,Aura,False
 2020,Best Latin Rock or Alternative Album,Fito Paez,La Conquista Del Espacio,True
+2020,Best Melodic Rap Performance,Travis Scott,Highest In The Room,False
+2020,Best Melodic Rap Performance,Roddy Ricch,The Box,False
+2020,Best Melodic Rap Performance,Drake,Laugh Now Cry Later,False
+2020,Best Melodic Rap Performance,DaBaby,Rockstar,False
 2020,Best Melodic Rap Performance,Anderson .Paak,Lockdown,True
+2020,Best Metal Performance,Power Trip,Executioner’s Tax,False
+2020,Best Metal Performance,Poppy,BLOODMONEY,False
+2020,Best Metal Performance,In This Moment,The In-Between,False
+2020,Best Metal Performance,Code Orange,Underneath,False
 2020,Best Metal Performance,Body Count,Bum-Rush,True
+2020,Best Music Film,ZZ Top,That Little Ol' Band From Texas,False
+2020,Best Music Film,Freestyle Love Supreme,We Are Freestyle Love Supreme,False
+2020,Best Music Film,Beyoncé,Black Is King,False
+2020,Best Music Film,Beastie Boys,Beastie Boys Story,False
 2020,Best Music Film,Linda Ronstadt,Linda Ronstadt: The Sound Of My Voice,True
+2020,Best Music Video,Woodkid,Goliath,False
+2020,Best Music Video,Harry Styles,Adore You,False
+2020,Best Music Video,Anderson .Paak,Lockdown,False
+2020,Best Music Video,Future,Life Is Good,False
 2020,Best Music Video,Beyoncé,Brown Skin Girl,True
-2020,Best Musical Theater Album,,Jagged Little Pill,True
+2020,Best New Age Album,Cory Wong,Meditations,False
+2020,Best New Age Album,Superposition,Form//Less,False
+2020,Best New Age Album,Priya Darshini,Periphery,False
+2020,Best New Age Album,Laurie Anderson,Songs From The Bardo,False
 2020,Best New Age Album,Jim  Kimo  West,More Guitar Stories,True
-2020,Best New Artist,,Megan Thee Stallion,True
-2020,Best Opera Recording,,Gershwin: Porgy And Bess,True
-2020,Best Orchestral Performance,,Ives: Complete Symphonies,True
+2020,Best Pop Duo/Group Performance,Taylor Swift,Exile,False
+2020,Best Pop Duo/Group Performance,BTS,Dynamite,False
+2020,Best Pop Duo/Group Performance,Justin Bieber,Intentions,False
+2020,Best Pop Duo/Group Performance,J Balvin,Un Dia,False
 2020,Best Pop Duo/Group Performance,Lady Gaga,Rain On Me,True
+2020,Best Pop Solo Performance,Taylor Swift,Cardigan,False
+2020,Best Pop Solo Performance,Dua Lipa,Don't Start Now,False
+2020,Best Pop Solo Performance,Billie Eilish,Everything I Wanted,False
+2020,Best Pop Solo Performance,Doja Cat,Say So,False
+2020,Best Pop Solo Performance,Justin Bieber,Yummy,False
 2020,Best Pop Solo Performance,Harry Styles,Watermelon Sugar,True
+2020,Best Pop Vocal Album,Taylor Swift,Folklore,False
+2020,Best Pop Vocal Album,Harry Styles,Fine Line,False
+2020,Best Pop Vocal Album,Lady Gaga,Chromatica,False
+2020,Best Pop Vocal Album,Justin Bieber,Changes,False
 2020,Best Pop Vocal Album,Dua Lipa,Future Nostalgia,True
+2020,Best Progressive R&B Album,Robert Glasper,F*** Yo Feelings,False
+2020,Best Progressive R&B Album,Free Nationals,Free Nationals,False
+2020,Best Progressive R&B Album,Chloe X Halle,Ungodly Hour,False
+2020,Best Progressive R&B Album,Jhené Aiko,Chilombo,False
 2020,Best Progressive R&B Album,Thundercat,It Is What It Is,True
+2020,Best R&B Album,Gregory Porter,All Rise,False
+2020,Best R&B Album,Luke James,to feel love/d,False
+2020,Best R&B Album,Giveon,Take Time,False
+2020,Best R&B Album,Ant Clemons,Happy 2 Be Here,False
 2020,Best R&B Album,John Legend,Bigger Love,True
+2020,Best R&B Performance,Emily King,See Me,False
+2020,Best R&B Performance,Brittany Howard,Goat Head,False
+2020,Best R&B Performance,Jacob Collier,All I Need,False
+2020,Best R&B Performance,Jhené Aiko,Lightning & Thunder,False
 2020,Best R&B Performance,Beyoncé,Black Parade,True
-2020,Best R&B Song,,Better Than I Imagined,True
+2020,Best Rap Album,"Royce 5’9""",The Allegory,False
+2020,Best Rap Album,Jay Electronica,A Written Testimony,False
+2020,Best Rap Album,Freddie Gibbs,Alfredo,False
+2020,Best Rap Album,D Smoke,Black Habits,False
 2020,Best Rap Album,Nas,King’s Disease,True
+2020,Best Rap Performance,Pop Smoke,Dior,False
+2020,Best Rap Performance,Lil Baby,The Bigger Picture,False
+2020,Best Rap Performance,Jack Harlow,Whats Poppin,False
+2020,Best Rap Performance,DaBaby,Bop,False
+2020,Best Rap Performance,Big Sean,Deep Reverence,False
 2020,Best Rap Performance,Megan Thee Stallion,Savage,True
-2020,Best Rap Song,,Savage,True
-2020,Best Recording Package,,Vols. 11 & 12,True
-2020,Best Reggae Album,,Got To Be Tough,True
+2020,Best Reggae Album,The Wailers,One World,False
+2020,Best Reggae Album,Maxi Priest,It All Comes Back To Love,False
+2020,Best Reggae Album,Skip Marley,Higher Place,False
+2020,Best Reggae Album,Buju Banton,Upside Down 2020,False
+2020,Best Regional Mexican Music Album (Including Tejano),Christian Nodal,AYAYAY!,False
+2020,Best Regional Mexican Music Album (Including Tejano),Mariachi Sol De Mexico De Jose Hernandez,Bailando Sones Y Huapangos Con Mariachi Sol De Mexico De Jose Hernandez,False
+2020,Best Regional Mexican Music Album (Including Tejano),Lupita Infante,La Serenata,False
+2020,Best Regional Mexican Music Album (Including Tejano),Alejandro Fernández,Hecho En México,False
 2020,Best Regional Mexican Music Album (Including Tejano),Natalia Lafourcade,"Un Canto Por México, Vol. 1",True
+2020,Best Regional Roots Music Album,Sweet Cecilia,A Tribute To Al Berard,False
+2020,Best Regional Roots Music Album,Na Wai ?Eha,Lovely Sunrise,False
+2020,Best Regional Roots Music Album,Cameron Dupuy,Cameron Dupuy And The Cajun Troubadours,False
+2020,Best Regional Roots Music Album,Black Lodge Singers,My Relatives   Nikso Kowaiks,False
 2020,Best Regional Roots Music Album,New Orleans Nightcrawlers,Atmosphere,True
-2020,Best Remixed Recording,,Roses,True
+2020,Best Rock Album,Sturgill Simpson,Sound & Fury,False
+2020,Best Rock Album,Grace Potter,Daylight,False
+2020,Best Rock Album,Michael Kiwanuka,Kiwanuka,False
+2020,Best Rock Album,Fontaines D.C.,A Hero's Death,False
 2020,Best Rock Album,The Strokes,The New Abnormal,True
+2020,Best Rock Performance,Grace Potter,Daylight,False
+2020,Best Rock Performance,Brittany Howard,Stay High,False
+2020,Best Rock Performance,HAIM,The Steps,False
+2020,Best Rock Performance,Phoebe Bridgers,Kyoto,False
+2020,Best Rock Performance,Big Thief,Not,False
 2020,Best Rock Performance,Fiona Apple,Shameika,True
-2020,Best Rock Song,,Stay High,True
+2020,Best Roots Gospel Album,Ernie Haase,Something Beautiful,False
+2020,Best Roots Gospel Album,The Erwins,What Christmas Really Means,False
+2020,Best Roots Gospel Album,The Crabb Family,20/20,False
+2020,Best Roots Gospel Album,Mark Bishop,Beautiful Day,False
 2020,Best Roots Gospel Album,Fisk Jubilee Singers,Celebrating Fisk!,True
-2020,Best Score Soundtrack For Visual Media,,Joker,True
-2020,Best Song Written For Visual Media,,No Time To Die [From No Time To Die],True
+2020,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Ronan Farrow,Catch And Kill,False
+2020,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Ken Jennings,Alex Trebek - The Answer Is...,False
+2020,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Flea,Acid For The Children: A Memoir,False
 2020,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Rachel Maddow,"Blowout: Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth",True
+2020,Best Traditional Blues Album,"Jimmy ""Duck"" Holmes",Cypress Grove,False
+2020,Best Traditional Blues Album,Robert Cray Band,That's What I Heard,False
+2020,Best Traditional Blues Album,Don Bryant,You Make Me Feel,False
+2020,Best Traditional Blues Album,Frank Bey,All My Dues Are Paid,False
 2020,Best Traditional Blues Album,Bobby Rush,Rawer Than Raw,True
+2020,Best Traditional Pop Vocal Album,Renée Zellweger,Judy,False
+2020,Best Traditional Pop Vocal Album,Rufus Wainwright,Unfollow The Rules,False
 2020,Best Traditional Pop Vocal Album,James Taylor,American Standard,True
+2020,Best Traditional R&B Performance,Yebba,Distance,False
+2020,Best Traditional R&B Performance,Mykal Kilgore,Let Me Go,False
+2020,Best Traditional R&B Performance,Chloe X Halle,Wonder What She Thinks Of Me,False
+2020,Best Traditional R&B Performance,The Baylor Project,Sit On Down,False
 2020,Best Traditional R&B Performance,Ledisi,Anything For You,True
+2020,Best Tropical Latin Album,Víctor Manuelle,Memorias De Navidad,False
+2020,Best Tropical Latin Album,Jorge Celedon,Sigo Cantando Al Amor,False
+2020,Best Tropical Latin Album,Edwin Bonilla,Infinito,False
+2020,Best Tropical Latin Album,"José Alberto ""El Ruiseñor""",Mi Tumbao,False
 2020,Best Tropical Latin Album,Grupo Niche,40,True
-2020,"Producer Of The Year, Classical",,David Frost,True
-2020,"Producer Of The Year, Non-Classical",,Andrew Watt,True
+2020,Record Of The Year,Megan Thee Stallion,Savage,False
+2020,Record Of The Year,Post Malone,Circles,False
+2020,Record Of The Year,Dua Lipa,Don't Start Now,False
+2020,Record Of The Year,Doja Cat,Say So,False
+2020,Record Of The Year,DaBaby,Rockstar,False
+2020,Record Of The Year,Black Pumas,Colors,False
+2020,Record Of The Year,Beyoncé,Black Parade,False
 2020,Record Of The Year,Billie Eilish,Everything I Wanted,True
-2020,Song Of The Year,,I Can't Breathe,True
-2021,Album Of The Year,Jon Batiste,We Are,True
-2021,Best Album Notes,,The Complete Louis Armstrong Columbia And RCA Victor Studio Sessions 1946-1966,True
-2021,Best Alternative Music Album,St. Vincent,Daddy's Home,True
-2021,Best American Roots Performance,Jon Batiste,Cry,True
-2021,Best American Roots Song,,Cry,True
-2021,Best Americana Album,Los Lobos,Native Sons,True
-2021,"Best Arrangement, Instrumental or A Cappella",,Meta Knight's Revenge,True
-2021,"Best Arrangement, Instruments and Vocals",,To The Edge Of Longing,True
-2021,Best Bluegrass Album,Béla Fleck,My Bluegrass Heart,True
-2021,Best Boxed Or Special Limited Edition Package,,All Things Must Pass: 50th Anniversary Edition,True
-2021,Best Chamber Music/Small Ensemble Performance,,Beethoven: Cello Sonatas - Hope Amid Tears,True
-2021,Best Children's Music Album,Falu,A Colorful World,True
-2021,Best Choral Performance,,"Mahler: Symphony No. 8, 'Symphony Of A Thousand'",True
-2021,Best Classical Compendium,,Women Warriors - The Voices Of Change,True
-2021,Best Classical Instrumental Solo,,Alone Together,True
-2021,Best Classical Solo Vocal Album,,Mythologies,True
-2021,Best Comedy Album,Louis C.K.,Sincerely Louis CK,True
-2021,Best Compilation Soundtrack For Visual Media,Andra Day,The United States Vs. Billie Holiday,True
-2021,Best Contemporary Blues Album,Christone  Kingfish  Ingram,662,True
-2021,Best Contemporary Christian Music Album,Elevation Worship,Old Church Basement,True
-2021,Best Contemporary Christian Music Performance/Song,,Believe For It,True
-2021,Best Contemporary Classical Composition,,Shaw: Narrow Sea,True
-2021,Best Contemporary Instrumental Album,Taylor Eigsti,Tree Falls,True
-2021,Best Country Album,Chris Stapleton,Starting Over,True
-2021,Best Country Duo/Group Performance,Brothers Osborne,Younger Me,True
-2021,Best Country Solo Performance,Chris Stapleton,You Should Probably Leave,True
-2021,Best Country Song,,Cold,True
-2021,Best Dance/Electronic Music Album,Black Coffee,Subconsciously,True
-2021,Best Dance/Electronic Recording,Rüfüs Du Sol,Alive,True
-2021,"Best Engineered Album, Classical",,Chanticleer Sings Christmas,True
-2021,"Best Engineered Album, Non-Classical",,Love For Sale,True
-2021,Best Folk Album,Rhiannon Giddens,They're Calling Me Home,True
-2021,Best Global Music Album,Angelique Kidjo,Mother Nature,True
-2021,Best Global Music Performance,Arooj Aftab,Mohabbat,True
-2021,Best Gospel Album,CeCe Winans,Believe For It,True
-2021,Best Gospel Performance/Song,,Never Lost,True
-2021,Best Historical Album,,"Joni Mitchell Archives, Vol. 1: The Early Years",True
-2021,Best Immersive Audio Album,,Alicia,True
-2021,Best Improvised Jazz Solo,,Humpty Dumpty,True
-2021,Best Instrumental Composition,,Eberhard,True
-2021,Best Jazz Instrumental Album,Ron Carter,Skyline,True
-2021,Best Jazz Vocal Album,Esperanza Spalding,Songwrights Apothecary Lab,True
-2021,Best Large Jazz Ensemble Album,Christian McBride Big Band,"For Jimmy, Wes And Oliver",True
-2021,Best Latin Jazz Album,Eliane Elias,Mirror Mirror,True
-2021,Best Latin Pop Album,Alex Cuba,Mendó,True
-2021,Best Latin Rock or Alternative Album,Juanes,Origen,True
-2021,Best Melodic Rap Performance,Kanye West,Hurricane,True
-2021,Best Metal Performance,Dream Theater,The Alien,True
-2021,Best Music Film,,Summer Of Soul,True
-2021,Best Music Video,Jon Batiste,Freedom,True
-2021,Best Musical Theater Album,,The Unofficial Bridgerton Musical,True
-2021,Best Música Urbana Album,Bad Bunny,El Último Tour Del Mundo,True
-2021,Best New Age Album,Stewart Copeland,Divine Tides,True
-2021,Best New Artist,,Olivia Rodrigo,True
-2021,Best Opera Recording,,Glass: Akhnaten,True
-2021,Best Orchestral Performance,,Price: Symphonies Nos. 1 & 3,True
-2021,Best Pop Duo/Group Performance,Doja Cat,Kiss Me More,True
-2021,Best Pop Solo Performance,Olivia Rodrigo,drivers license,True
-2021,Best Pop Vocal Album,Olivia Rodrigo,Sour,True
-2021,Best Progressive R&B Album,Lucky Daye,Table For Two,True
-2021,Best R&B Album,Jazmine Sullivan,Heaux Tales,True
-2021,Best R&B Performance,Jazmine Sullivan,Pick Up Your Feelings,True
-2021,Best R&B Song,,Leave The Door Open,True
-2021,Best Rap Album,,Call Me If You Get Lost,True
-2021,Best Rap Performance,Baby Keem,Family Ties,True
-2021,Best Rap Song,,Jail,True
-2021,Best Recording Package,,Pakelang,True
-2021,Best Reggae Album,Soja,Beauty In The Silence,True
-2021,Best Regional Mexican Music Album (Including Tejano),Vicente Fernández,A Mis 80's,True
-2021,Best Regional Roots Music Album,Kalani Pe'a,Kau Ka Pe'a,True
-2021,Best Remixed Recording,,Passenger,True
-2021,Best Rock Album,Foo Fighters,Medicine At Midnight,True
-2021,Best Rock Performance,Foo Fighters,Making A Fire,True
-2021,Best Rock Song,,Waiting On A War,True
-2021,Best Roots Gospel Album,Carrie Underwood,My Savior,True
-2021,Best Score Soundtrack For Visual Media,,Soul,True
-2021,Best Song Written For Visual Media,,All Eyes On Me [From Inside],True
-2021,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Don Cheadle,Carry On: Reflections For A New Generation From John Lewis,True
-2021,Best Traditional Blues Album,Cedric Burnside,I Be Trying,True
-2021,Best Traditional Pop Vocal Album,Tony Bennett,Love For Sale,True
-2021,Best Traditional R&B Performance,H.E.R.,Fight For You,True
-2021,Best Tropical Latin Album,,Salswing!,True
-2021,"Producer Of The Year, Classical",,Judith Sherman,True
-2021,"Producer Of The Year, Non-Classical",,Jack Antonoff,True
-2021,Record Of The Year,Silk Sonic,Leave The Door Open,True
-2021,Song Of The Year,,Leave The Door Open,True
-2022,Album Of The Year,Harry Styles,Harry's House,True
-2022,Best Album Notes,,Yankee Hotel Foxtrot,True
-2022,Best Alternative Music Album,Wet Leg,Wet Leg,True
-2022,Best Alternative Music Performance,Wet Leg,Chaise Longue,True
-2022,Best American Roots Performance,Aaron Neville,Stompin' Ground,True
-2022,Best American Roots Song,,Just Like That,True
-2022,Best Americana Album,Brandi Carlile,In These Silent Days,True
-2022,Best Americana Performance,Bonnie Raitt,Made Up Mind,True
-2022,"Best Arrangement, Instrumental or A Cappella",,Scrapple From The Apple,True
-2022,"Best Arrangement, Instruments and Vocals",,Songbird,True
-2022,"Best Audio Book, Narration, and Storytelling Recording",Viola Davis,Finding Me,True
-2022,Best Bluegrass Album,Molly Tuttle,Crooked Tree,True
-2022,Best Boxed Or Special Limited Edition Package,,In And Out Of The Garden: Madison Square Garden ’81 ’82 ’83,True
-2022,Best Chamber Music/Small Ensemble Performance,,Shaw: Evergreen,True
-2022,Best Children's Music Album,Alphabet Rockers,The Movement,True
-2022,Best Choral Performance,,Born,True
-2022,Best Classical Compendium,,An Adoption Story,True
-2022,Best Classical Instrumental Solo,,Letters For The Future,True
-2022,Best Classical Solo Vocal Album,,Voice Of Nature - The Anthropocene,True
-2022,Best Comedy Album,Dave Chappelle,The Closer,True
-2022,Best Compilation Soundtrack For Visual Media,,Encanto,True
-2022,Best Contemporary Blues Album,Edgar Winter,Brother Johnny,True
-2022,Best Contemporary Christian Music Album,Maverick City Music,Breathe,True
-2022,Best Contemporary Christian Music Performance/Song,,Fear Is Not My Future,True
-2022,Best Contemporary Classical Composition,,Puts: Contact,True
-2022,Best Contemporary Instrumental Album,Snarky Puppy,Empire Central,True
-2022,Best Country Album,Willie Nelson,A Beautiful Time,True
-2022,Best Country Duo/Group Performance,Carly Pearce,Never Wanted To Be That Girl,True
-2022,Best Country Solo Performance,Willie Nelson,Live Forever,True
-2022,Best Country Song,,'Til You Can't,True
-2022,Best Dance/Electronic Music Album,Beyoncé,RENAISSANCE,True
-2022,Best Dance/Electronic Recording,Beyoncé,BREAK MY SOUL,True
-2022,"Best Engineered Album, Classical",,Bates: Philharmonia Fantastique - The Making Of The Orchestra,True
-2022,"Best Engineered Album, Non-Classical",,Harry's House,True
-2022,Best Folk Album,Madison Cunningham,Revealer,True
-2022,Best Global Music Album,Masa Takumi,Sakura,True
-2022,Best Global Music Performance,Wouter Kellerman,Bayethe,True
-2022,Best Gospel Album,Maverick City Music,Kingdom Book One Deluxe,True
-2022,Best Gospel Performance/Song,,Kingdom,True
-2022,Best Historical Album,,Yankee Hotel Foxtrot,True
-2022,Best Immersive Audio Album,,Divine Tides,True
-2022,Best Improvised Jazz Solo,,Endangered Species,True
-2022,Best Instrumental Composition,,Refuge,True
-2022,Best Jazz Instrumental Album,Terri Lyne Carrington,New Standards Vol. 1,True
-2022,Best Jazz Vocal Album,Samara Joy,Linger Awhile,True
-2022,Best Large Jazz Ensemble Album,Steven Feifke,Generation Gap Jazz Orchestra,True
-2022,Best Latin Jazz Album,Arturo O'Farrill,Fandango At The Wall In New York,True
-2022,Best Latin Pop Album,Rubén Blades,Pasieros,True
-2022,Best Latin Rock or Alternative Album,Rosalía,MOTOMAMI,True
-2022,Best Melodic Rap Performance,Future,WAIT FOR U,True
-2022,Best Metal Performance,Ozzy Osbourne,Degradation Rules,True
-2022,Best Music Film,,Jazz Fest: A New Orleans Story,True
-2022,Best Music Video,Taylor Swift,All Too Well: The Short Film,True
-2022,Best Musical Theater Album,,Into The Woods,True
-2022,Best Música Urbana Album,Bad Bunny,Un Verano Sin Ti,True
-2022,"Best New Age, Ambient, or Chant Album",White Sun,Mystic Mirror,True
-2022,Best New Artist,,Samara Joy,True
-2022,Best Opera Recording,,Blanchard: Fire Shut Up In My Bones,True
-2022,Best Orchestral Performance,,"Works By Florence Price, Jessie Montgomery, Valerie Coleman",True
-2022,Best Pop Duo/Group Performance,Sam Smith,Unholy,True
-2022,Best Pop Solo Performance,Adele,Easy On Me,True
-2022,Best Pop Vocal Album,Harry Styles,Harry's House,True
-2022,Best Progressive R&B Album,Steve Lacy,Gemini Rights,True
-2022,Best R&B Album,Robert Glasper,Black Radio III,True
-2022,Best R&B Performance,Muni Long,Hrs & Hrs,True
-2022,Best R&B Song,,CUFF IT,True
-2022,Best Rap Album,Kendrick Lamar,Mr. Morale & The Big Steppers,True
-2022,Best Rap Performance,Kendrick Lamar,The Heart Part 5,True
-2022,Best Rap Song,,The Heart Part 5,True
-2022,Best Recording Package,,Beginningless Beginning,True
-2022,Best Reggae Album,Kabaka Pyramid,The Kalling,True
-2022,Best Regional Mexican Music Album (Including Tejano),Natalia Lafourcade,Un Canto por México - El Musical,True
-2022,Best Regional Roots Music Album,Ranky Tanky,Live At The 2022 New Orleans Jazz & Heritage Festival,True
-2022,Best Remixed Recording,,About Damn Time,True
-2022,Best Rock Album,Ozzy Osbourne,Patient Number 9,True
-2022,Best Rock Performance,Brandi Carlile,Broken Horses,True
-2022,Best Rock Song,,Broken Horses,True
-2022,Best Roots Gospel Album,,The Urban Hymnal,True
-2022,Best Score Soundtrack For Visual Media (Includes Film And Television),,Encanto,True
-2022,Best Score Soundtrack for Video Games and Other Interactive Media,,Assassin's Creed Valhalla: Dawn Of Ragnarok,True
-2022,Best Song Written For Visual Media,,We Don't Talk About Bruno [From Encanto],True
-2022,Best Spoken Word Poetry Album,J. Ivy,The Poet Who Sat By The Door,True
-2022,Best Traditional Blues Album,Taj Mahal,Get On Board,True
-2022,Best Traditional Pop Vocal Album,Michael Bublé,Higher,True
-2022,Best Traditional R&B Performance,Beyoncé,PLASTIC OFF THE SOFA,True
-2022,Best Tropical Latin Album,Marc Anthony,Pa'lla Voy,True
-2022,"Producer Of The Year, Classical",,Judith Sherman,True
-2022,"Producer Of The Year, Non-Classical",,Jack Antonoff,True
-2022,Record Of The Year,Lizzo,About Damn Time,True
-2022,Song Of The Year,,Just Like That,True
-2022,"Songwriter of the Year, Non-Classical",,Tobias Jesso Jr.,True
-2023,Album Of The Year,Taylor Swift,Midnights,True
-2023,Best African Music Performance,Tyla,Water,True
-2023,Best Album Notes,,Written In Their Soul: The Stax Songwriter Demos,True
-2023,Best Alternative Jazz Album,Meshell Ndegeocello,The Omnichord Real Book,True
-2023,Best Alternative Music Album,boygenius,The Record,True
-2023,Best Alternative Music Performance,Paramore,This Is Why,True
-2023,Best American Roots Performance,Allison Russell,Eve Was Black,True
-2023,Best American Roots Song,,Cast Iron Skillet,True
-2023,Best Americana Album,Jason Isbell,Weathervanes,True
-2023,Best Americana Performance,Brandy Clark,Dear Insecurity,True
-2023,"Best Arrangement, Instrumental or A Cappella",,Folsom Prison Blues,True
-2023,"Best Arrangement, Instruments and Vocals",,In The Wee Small Hours Of The Morning,True
-2023,"Best Audio Book, Narration, and Storytelling Recording",Michelle Obama,The Light We Carry: Overcoming In Uncertain Times,True
-2023,Best Bluegrass Album,Molly Tuttle,City Of Gold,True
-2023,Best Boxed Or Special Limited Edition Package,,For The Birds: The Birdsong Project,True
-2023,Best Chamber Music/Small Ensemble Performance,Roomful Of Teeth,Rough Magic,True
-2023,Best Children's Music Album,123 Andrés,We Grow Together Preschool Songs,True
-2023,Best Choral Performance,,Saariaho: Reconnaissance,True
-2023,Best Classical Compendium,,Passion For Bach And Coltrane,True
-2023,Best Classical Instrumental Solo,,The American Project,True
-2023,Best Classical Solo Vocal Album,,Walking In The Dark,True
-2023,Best Comedy Album,Dave Chappelle,What's In A Name?,True
-2023,Best Compilation Soundtrack For Visual Media,,Barbie The Album,True
-2023,Best Contemporary Blues Album,Larkin Poe,Blood Harmony,True
-2023,Best Contemporary Christian Music Album,Lecrae,Church Clothes 4,True
-2023,Best Contemporary Christian Music Performance/Song,,Your Power,True
-2023,Best Contemporary Classical Composition,,Montgomery: Rounds,True
-2023,Best Contemporary Instrumental Album,Zakir Hussain,As We Speak,True
-2023,Best Country Album,Lainey Wilson,Bell Bottom Country,True
-2023,Best Country Duo/Group Performance,Zach Bryan,I Remember Everything,True
-2023,Best Country Solo Performance,Chris Stapleton,White Horse,True
-2023,Best Country Song,,White Horse,True
-2023,Best Dance/Electronic Music Album,Fred again..,Actual Life 3,True
-2023,Best Dance/Electronic Recording,Skrillex,Rumble,True
-2023,"Best Engineered Album, Classical",,Contemporary American Composers,True
-2023,"Best Engineered Album, Non-Classical",,JAGUAR II,True
-2023,Best Folk Album,Joni Mitchell,Joni Mitchell At Newport [Live],True
-2023,Best Global Music Album,Shakti,This Moment,True
-2023,Best Global Music Performance,Béla Fleck,Pashto,True
-2023,Best Gospel Album,Tye Tribbett,All Things New: Live In Orlando,True
-2023,Best Gospel Performance/Song,,All Things,True
-2023,Best Historical Album,,Written In Their Soul: The Stax Songwriter Demos,True
-2023,Best Immersive Audio Album,,The Diary Of Alicia Keys,True
-2023,Best Instrumental Composition,,Helena's Theme,True
-2023,Best Jazz Instrumental Album,Billy Childs,The Winds Of Change,True
-2023,Best Jazz Performance,Samara Joy,Tight,True
-2023,Best Jazz Vocal Album,Nicole Zuraitis,How Love Begins,True
-2023,Best Large Jazz Ensemble Album,Scotty Barnhart,Basie Swings The Blues,True
-2023,Best Latin Jazz Album,Miguel Zenón,El Arte Del Bolero Vol. 2,True
-2023,Best Latin Pop Album,Gaby Moreno,X Mí,True
-2023,Best Latin Rock or Alternative Album,Natalia Lafourcade,De Todas Las Flores,True
-2023,Best Melodic Rap Performance,Lil Durk,All My Life,True
-2023,Best Metal Performance,Metallica,72 Seasons,True
-2023,Best Music Film,,Moonage Daydream,True
-2023,Best Music Video,,I'm Only Sleeping,True
-2023,Best Musical Theater Album,,Some Like It Hot,True
-2023,Best Música Mexicana Album (Including Tejano),Peso Pluma,GÉNESIS,True
-2023,Best Música Urbana Album,Karol G,MAÑANA SERÁ BONITO,True
-2023,"Best New Age, Ambient, or Chant Album",Carla Patullo,So She Howls,True
-2023,Best New Artist,,Victoria Monét,True
-2023,Best Opera Recording,,Blanchard: Champion,True
-2023,Best Orchestral Performance,,Adès: Dante,True
-2023,Best Pop Dance Recording,Kylie Minogue,Padam Padam,True
-2023,Best Pop Duo/Group Performance,SZA,Ghost In The Machine,True
-2023,Best Pop Solo Performance,Miley Cyrus,Flowers,True
-2023,Best Pop Vocal Album,Taylor Swift,Midnights,True
-2023,Best Progressive R&B Album,SZA,SOS,True
-2023,Best R&B Album,Victoria Monét,JAGUAR II,True
-2023,Best R&B Performance,Coco Jones,ICU,True
-2023,Best R&B Song,,Snooze,True
-2023,Best Rap Album,Killer Mike,MICHAEL,True
-2023,Best Rap Performance,Killer Mike,SCIENTISTS & ENGINEERS,True
-2023,Best Rap Song,,SCIENTISTS & ENGINEERS,True
-2023,Best Recording Package,,Stumpwork,True
-2023,Best Reggae Album,Julian Marley,Colors Of Royal,True
-2023,Best Regional Roots Music Album,Lost Bayou Ramblers,Live: Orpheum Theater Nola,True
-2023,Best Remixed Recording,,Wagging Tongue,True
-2023,Best Rock Album,Paramore,This Is Why,True
-2023,Best Rock Performance,boygenius,Not Strong Enough,True
-2023,Best Rock Song,,Not Strong Enough,True
-2023,Best Roots Gospel Album,Blind Boys Of Alabama,Echoes Of The South,True
-2023,Best Score Soundtrack For Visual Media (Includes Film And Television),,Oppenheimer,True
-2023,Best Score Soundtrack for Video Games and Other Interactive Media,,Star Wars Jedi: Survivor,True
-2023,Best Song Written For Visual Media,,What Was I Made For? [From   Barbie The Album  ],True
-2023,Best Spoken Word Poetry Album,J. Ivy,The Light Inside,True
-2023,Best Traditional Blues Album,Bobby Rush,All My Love For You,True
-2023,Best Traditional Pop Vocal Album,Laufey,Bewitched,True
-2023,Best Traditional R&B Performance,PJ Morton,Good Morning,True
-2023,Best Tropical Latin Album,,Siembra: 45º Aniversario,True
-2023,"Producer Of The Year, Classical",,Elaine Martone,True
-2023,"Producer Of The Year, Non-Classical",,Jack Antonoff,True
-2023,Record Of The Year,Miley Cyrus,Flowers,True
-2023,Song Of The Year,,What Was I Made For? [From The Motion Picture   Barbie  ],True
-2023,"Songwriter of the Year, Non-Classical",,Theron Thomas,True
-2024,Album Of The Year,Beyoncé,COWBOY CARTER,True
-2024,Best African Music Performance,Tems,Love Me JeJe,True
-2024,Best Album Notes,,Centennial,True
-2024,Best Alternative Jazz Album,Meshell Ndegeocello,No More Water: The Gospel Of James Baldwin,True
-2024,Best Alternative Music Album,St. Vincent,All Born Screaming,True
-2024,Best Alternative Music Performance,St. Vincent,Flea,True
-2024,Best American Roots Performance,Sierra Ferrell,Lighthouse,True
-2024,Best American Roots Song,,American Dreaming,True
-2024,Best Americana Album,Sierra Ferrell,Trail Of Flowers,True
-2024,Best Americana Performance,Sierra Ferrell,American Dreaming,True
-2024,"Best Arrangement, Instrumental or A Cappella",,Bridge Over Troubled Water,True
-2024,"Best Arrangement, Instruments and Vocals",,Alma,True
-2024,"Best Audio Book, Narration, and Storytelling Recording",Jimmy Carter,Last Sundays In Plains: A Centennial Celebration,True
-2024,Best Bluegrass Album,Billy Strings,Live Vol. 1,True
-2024,Best Boxed Or Special Limited Edition Package,,Mind Games,True
-2024,Best Chamber Music/Small Ensemble Performance,,Rectangles And Circumstance,True
-2024,Best Children's Music Album,Lucky Diaz,"Brillo, Brillo!",True
-2024,Best Choral Performance,,Ochre,True
-2024,Best Classical Compendium,,Ortiz: Revolución Diamantina,True
-2024,Best Classical Instrumental Solo,,Bach: Goldberg Variations,True
-2024,Best Classical Solo Vocal Album,,Beyond The Years - Unpublished Songs Of Florence Price,True
-2024,Best Comedy Album,Dave Chappelle,The Dreamer,True
-2024,Best Compilation Soundtrack For Visual Media,Bradley Cooper,Maestro: Music By Leonard Bernstein,True
-2024,Best Contemporary Blues Album,Ruthie Foster,Mileage,True
-2024,Best Contemporary Christian Music Album,DOE,Heart Of A Human,True
-2024,Best Contemporary Christian Music Performance/Song,,That's My King,True
-2024,Best Contemporary Classical Composition,,Ortiz: Revolución Diamantina,True
-2024,Best Contemporary Instrumental Album,Taylor Eigsti,Plot Armor,True
-2024,Best Country Album,Beyoncé,COWBOY CARTER,True
-2024,Best Country Duo/Group Performance,Beyoncé,II MOST WANTED,True
-2024,Best Country Solo Performance,Chris Stapleton,It Takes A Woman,True
-2024,Best Country Song,,The Architect,True
-2024,Best Dance Pop Recording,Charli xcx,Von dutch,True
-2024,Best Dance/Electronic Album,Charli xcx,BRAT,True
-2024,Best Dance/Electronic Recording,Justice,Neverender,True
-2024,"Best Engineered Album, Classical",,Bruckner: Symphony No. 7; Bates: Resurrexit,True
-2024,"Best Engineered Album, Non-Classical",,i/o,True
-2024,Best Folk Album,Gillian Welch,Woodland,True
-2024,Best Global Music Album,Matt B,ALKEBULAN II,True
-2024,Best Global Music Performance,Sheila E.,Bemba Colorá,True
-2024,Best Gospel Album,CeCe Winans,More Than This,True
-2024,Best Gospel Performance/Song,,One Hallelujah,True
-2024,Best Historical Album,,Centennial,True
-2024,Best Immersive Audio Album,,i/o,True
-2024,Best Instrumental Composition,,Strands,True
-2024,Best Jazz Instrumental Album,Chick Corea,Remembrance,True
-2024,Best Jazz Performance,Samara Joy,Twinkle Twinkle Little Me,True
-2024,Best Jazz Vocal Album,Samara Joy,A Joyful Holiday,True
-2024,Best Large Jazz Ensemble Album,Dan Pugach Big Band,Bianca Reimagined: Music For Paws And Persistence,True
-2024,Best Latin Jazz Album,Zaccai Curtis,Cubop Lives!,True
-2024,Best Latin Pop Album,Shakira,Las Mujeres Ya No Lloran,True
-2024,Best Latin Rock or Alternative Album,Rawayana,¿Quién trae las cornetas?,True
-2024,Best Melodic Rap Performance,Rapsody,3:AM,True
-2024,Best Metal Performance,Gojira,Mea Culpa,True
-2024,Best Music Film,Jon Batiste,American Symphony,True
-2024,Best Music Video,Kendrick Lamar,Not Like Us,True
-2024,Best Musical Theater Album,,Hell’s Kitchen,True
-2024,Best Música Mexicana Album (Including Tejano),Carín León,"Boca Chueca, Vol. 1",True
-2024,Best Música Urbana Album,Residente,LAS LETRAS YA NO IMPORTAN,True
-2024,"Best New Age, Ambient, or Chant Album",Wouter Kellerman,Triveni,True
-2024,Best New Artist,,Chappell Roan,True
-2024,Best Opera Recording,,Saariaho: Adriana Mater,True
-2024,Best Orchestral Performance,,Ortiz: Revolución Diamantina,True
-2024,Best Pop Duo/Group Performance,Lady Gaga,Die With A Smile,True
-2024,Best Pop Solo Performance,Sabrina Carpenter,Espresso,True
-2024,Best Pop Vocal Album,Sabrina Carpenter,Short n' Sweet,True
-2024,Best Progressive R&B Album,,Why Lawd?,True
-2024,Best R&B Album,Chris Brown,11:11,True
-2024,Best R&B Performance,Muni Long,Made For Me,True
-2024,Best R&B Song,,Saturn,True
-2024,Best Rap Album,Doechii,Alligator Bites Never Heal,True
-2024,Best Rap Performance,Kendrick Lamar,Not Like Us,True
-2024,Best Rap Song,,Not Like Us,True
-2024,Best Recording Package,,BRAT,True
-2024,Best Reggae Album,,Bob Marley: One Love - Music Inspired By The Film,True
-2024,Best Regional Roots Music Album,Kalani Pe'a,Kuini,True
-2024,Best Remixed Recording,,Espresso,True
-2024,Best Rock Album,The Rolling Stones,Hackney Diamonds,True
-2024,Best Rock Performance,The Beatles,Now And Then,True
-2024,Best Rock Song,,Broken Man,True
-2024,Best Roots Gospel Album,Cory Henry,Church,True
-2024,Best Score Soundtrack For Visual Media (Includes Film And Television),,Dune: Part Two,True
-2024,Best Score Soundtrack for Video Games and Other Interactive Media,,Wizardry: Proving Grounds of the Mad Overlord,True
-2024,Best Song Written For Visual Media,,It Never Went Away [From “American Symphony”],True
-2024,Best Spoken Word Poetry Album,,"The Heart, The Mind, The Soul",True
-2024,Best Traditional Blues Album,The Taj Mahal Sextet,Swingin' Live At The Church In Tulsa,True
-2024,Best Traditional Pop Vocal Album,Norah Jones,Visions,True
-2024,Best Traditional R&B Performance,Lucky Daye,That's You,True
-2024,Best Tropical Latin Album,Tony Succar,"Alma, Corazón y Salsa",True
-2024,"Producer Of The Year, Classical",,Elaine Martone,True
-2024,"Producer Of The Year, Non-Classical",,Daniel Nigro,True
-2024,Record Of The Year,Kendrick Lamar,Not Like Us,True
-2024,Song Of The Year,,Not Like Us,True
-2024,"Songwriter of the Year, Non-Classical",,Amy Allen,True

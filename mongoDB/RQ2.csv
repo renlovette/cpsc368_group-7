@@ -1,25 +1,25 @@
 award,artist_name,winner,year,streams,popularity
-Record Of The Year,Kendrick Lamar,False,2017,2088786765,78.2
-Album Of The Year,Drake,False,2018,4664809862,72.94736842105263
-Album Of The Year,Janelle Monáe,False,2018,1080749202,68.75
-Record Of The Year,Adele,True,2016,84194804,0.5
+Album Of The Year,Sturgill Simpson,False,2016,1080749202,68.75
 Album Of The Year,Kendrick Lamar,False,2017,2088786765,78.2
+Album Of The Year,Janelle Monáe,False,2018,1080749202,68.75
+Album Of The Year,Brandi Carlile,False,2018,1080749202,68.75
+Record Of The Year,Adele,True,2016,84194804,0.5
+Album Of The Year,Drake,False,2018,4664809862,72.94736842105263
 Record Of The Year,Lady Gaga,False,2018,2704386480,72.66666666666667
-Album Of The Year,Ariana Grande,False,2019,6148203839,70.16129032258064
-Album Of The Year,Jacob Collier,False,2020,1080749202,68.75
-Album Of The Year,Black Pumas,False,2020,1080749202,68.75
+Record Of The Year,Brandi Carlile,False,2018,1080749202,68.75
 Record Of The Year,Black Pumas,False,2020,1080749202,68.75
 Record Of The Year,Ariana Grande,False,2019,6148203839,70.16129032258064
+Album Of The Year,Black Pumas,False,2020,1080749202,68.75
 Record Of The Year,Dua Lipa,False,2020,6507249533,77.875
-Record Of The Year,Zedd,False,2018,421527037,77.0
 Album Of The Year,HAIM,False,2020,1080749202,68.75
-Record Of The Year,Luis Fonsi,False,2017,41447253,64.5
+Record Of The Year,Zedd,False,2018,421527037,77.0
+Album Of The Year,Dua Lipa,False,2020,6507249533,77.875
 Album Of The Year,Drake,False,2016,4664809862,72.94736842105263
 Record Of The Year,Drake,False,2018,4664809862,72.94736842105263
-Record Of The Year,Kendrick Lamar,False,2018,2088786765,78.2
-Album Of The Year,Dua Lipa,False,2020,6507249533,77.875
-Album Of The Year,Adele,True,2016,84194804,0.5
+Record Of The Year,Luis Fonsi,False,2017,41447253,64.5
 Record Of The Year,Lukas Graham,False,2016,46069786,60.0
-Album Of The Year,Sturgill Simpson,False,2016,1080749202,68.75
-Album Of The Year,Brandi Carlile,False,2018,1080749202,68.75
-Record Of The Year,Brandi Carlile,False,2018,1080749202,68.75
+Album Of The Year,Adele,True,2016,84194804,0.5
+Album Of The Year,Jacob Collier,False,2020,1080749202,68.75
+Record Of The Year,Kendrick Lamar,False,2018,2088786765,78.2
+Record Of The Year,Kendrick Lamar,False,2017,2088786765,78.2
+Album Of The Year,Ariana Grande,False,2019,6148203839,70.16129032258064
